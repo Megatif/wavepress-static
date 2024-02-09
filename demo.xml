@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.3" created="2024-02-05 13:55" -->
+	<!-- generator="WordPress/6.4.3" created="2024-02-09 10:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Newspaper</title>
 	<link>https://127.0.0.1/newswave</link>
 	<description></description>
-	<pubDate>Mon, 05 Feb 2024 13:55:15 +0000</pubDate>
+	<pubDate>Fri, 09 Feb 2024 10:38:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://127.0.0.1/newswave</wp:base_site_url>
@@ -808,7 +808,7 @@
 	<wp:term><wp:term_id>91</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[wp-header-menu]]></wp:term_slug><wp:term_name><![CDATA[wp header menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.3.3</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>http://127.0.0.1/newswave/wp-content/uploads/2023/08/cropped-wp_favicon-32x32-1-32x32.png</url>
@@ -17812,11 +17812,11 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 		<category domain="category" nicename="startups"><![CDATA[Startups]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -17919,7 +17919,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[170]]></wp:meta_value>
+		<wp:meta_value><![CDATA[194]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -17927,7 +17927,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[170]]></wp:meta_value>
+		<wp:meta_value><![CDATA[194]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
