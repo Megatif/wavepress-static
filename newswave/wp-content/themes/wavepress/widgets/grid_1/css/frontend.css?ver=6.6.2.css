@@ -1,0 +1,28 @@
+.video-list {
+    overflow-y: auto;
+    background-color: #fff;
+    flex-direction: inherit;
+    height: 450px;
+}
+
+.video-item {
+    cursor: pointer;
+    height: fit-content;
+}
+
+.video-item:hover {
+    background-color: #f0f0f0;
+}
+
+.video-list h5 a {
+    color: #000;
+}
+.grid_1 article.primary-article .hover-mask > a {
+    height: 230px;
+}
+
+.grid_1 .thumbnail_wrapper {
+    height: 80px;
+    overflow: hidden;
+}
+

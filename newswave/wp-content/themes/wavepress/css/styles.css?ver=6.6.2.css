@@ -1,0 +1,52 @@
+:root {
+  --color: #ffffff;
+  --preloader-url: url(http://127.0.0.1/newswave/wp-content/themes/wavepress/css/images/loader-128x/preloader_3.gif);
+}
+.dashicons-admin-home {
+  color: #000000 !important;;
+  background: #ffffff !important;;
+}
+#searchsubmit {
+  background: #ffffff;
+  color: #000000;
+}
+body {
+  font-family: Consolas, monospace;
+}
+.footer-fluid {
+  border-top: 4px solid #ffffff;
+}
+.menu-toggle-button {
+  color: #000;
+}
+h2.category-title:after {
+  content: "";
+  display: block;
+  width: 50%;
+  height: 2px;
+  background: var(--color);
+  left: 0;
+  top: 29px;
+  position: absolute;
+}
+.page-title {
+  background: var(--color);
+  color: #000000;
+}
+#site-navigation {
+  background: #fff;
+}
+#mega-menu-wrap-header-menu #mega-menu-header-menu > li.mega-menu-item > a.mega-menu-link {
+  color: #000000;
+}
+.load_more {
+  background: #ffffff;
+  color: #000000;
+}
+section .category .label, .post-content .label {
+  background: #ffffff !important;
+  color: #000000 !important;
+}
+section .category .label a, .post-content .label a {
+  color: #000000 !important;
+}
