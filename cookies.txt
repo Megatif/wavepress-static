@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+127.0.0.1	TRUE	/newswave/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+127.0.0.1	TRUE	/newswave/	FALSE	1999999999	woocommerce_items_in_cart	1
+127.0.0.1	TRUE	/newswave/	FALSE	1999999999	wp_woocommerce_session_f6497f3e286d6faa9aed381162e5bd69	t_c9f7576d71e24572b7a6a693fd4510%7C%7C1775315280%7C%7C1775311680%7C%7C65eba1e116644618648cfbcce2ac9c02
+127.0.0.1	TRUE	/newswave/	FALSE	1999999999	woocommerce_cart_hash	cb9ccfb5c51eab50db353a3867e41817
+

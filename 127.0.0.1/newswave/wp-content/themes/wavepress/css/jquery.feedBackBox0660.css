@@ -1,0 +1,158 @@
+a.yellow {
+    background: #FF9800;
+}
+a.orange {
+    background: #fb3a0c;
+}
+a.dark,a.black {
+    background: #000000;
+}
+a.red {
+    background: #8a002d;
+}
+a.purple {
+    background: #6c076b;
+}
+a.ppurple {
+    background: #9147ff;
+}
+a.green {
+    background: #259101;
+}
+a.pink {
+    background: #a80c30;
+}
+a.blueNight {
+    background: #01174a;
+}
+
+a.yellowShadow {
+    background: #877e00;
+}
+a.orangeShadow {
+    background: #823800;
+}
+a.darkShadow,a.blackShadow {
+    background: #333333;
+}
+a.redShadow {
+    background: #3a0014;
+}
+a.purpleShadow {
+    background: #38002c;
+}
+a.greenShadow {
+    background: #206600;
+}
+a.pinkShadow {
+    background: #49002c;
+}
+a.blueNightShadow {
+    background: #333333;
+}
+a.noShadow {
+    background: white;
+}
+a.gray {
+    background: #b5b5b5;
+}
+a.magicGreen {
+    background: #025532;
+}
+a.blue{
+    background: blue;
+}
+a.white {
+    background: #ffffff;
+}
+a.color ,a.colorButton {
+	display: block;
+	width: 15px;
+	height: 15px;
+	float: right;
+	margin: 0 4px;
+	border-radius: 100%;
+    border: 1px solid #8c8c8c;
+}
+.almanar_params {
+    top: 160px;
+    left: -200px;
+    width: 200px;
+    height: 100%;
+    background-color: #fff;
+    transition: left 0.3s ease-in-out;
+    height: fit-content;
+}
+.show-params {
+    left: 0;
+}
+.toggle-button ,.almanar_params {
+    z-index: 999;
+    position: fixed;
+    transition: left 0.3s ease-in-out;
+    background: #ffffff;
+}
+.toggle-button {
+    position: absolute;
+    right: -40px;
+    top: 40%;
+    color: #2f2e2e;
+    background: #fff;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-left: 0px;
+}
+.paramBlock {
+    overflow: hidden;
+    padding: 5px 10px;
+}
+.toggle-button:hover {
+    color: #000000;
+}
+.paramBlock h5 {
+	color: #515962;
+    padding: 10px 0;
+    font-size: 12px;
+    font-weight: 400;
+	text-shadow: 0px 0 #dfdfdf;
+}
+#colorPicker {
+  width: 16px;
+  height: 16px;
+  border: 0px;
+  padding: 0;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

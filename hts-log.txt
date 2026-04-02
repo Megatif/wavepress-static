@@ -1,0 +1,803 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Thu, 02 Apr 2026 15:50:00 at http://127.0.0.1/newswave/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://127.0.0.1/newswave/ -O "/home/moon/websites/wavepress-static" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:50:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/grid_2/css/frontend.css?ver=6.6.5
+16:05:51	Error: 	"Connect Time Out" (-2) after 2 retries at link https://gmpg.org/robots.txt (from 127.0.0.1/newswave/)
+16:07:09	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/wp-content/themes/wavepress/?ver=6.6.5 (from 127.0.0.1/newswave/)
+16:07:09	Error: 	"Bad Request" (400) at link 127.0.0.1/newswave/wp-admin/admin-ajax.php (from 127.0.0.1/newswave/)
+16:07:42	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/home-2/ (from 127.0.0.1/newswave/)
+16:07:42	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/shop-2/ (from 127.0.0.1/newswave/)
+16:08:16	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/product/sunglasses/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:08:20	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/product/cap/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:08:21	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product/belt/ (from 127.0.0.1/newswave/)
+16:08:22	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product/belt/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:08:35	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/product/beanie/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:12:35	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/diam-massa-ornare-eget-augue-interdum-quis/ (from 127.0.0.1/newswave/)
+16:12:43	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/category/lifestyle/beauty/ (from 127.0.0.1/newswave/)
+16:13:27	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/curabitur-consequat-rhoncus-neque-non-auctor-ut-ac-felis-risus/ (from 127.0.0.1/newswave/)
+16:15:34	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/tag/travel/ (from 127.0.0.1/newswave/)
+16:15:43	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/dsfqdf (from 127.0.0.1/newswave/)
+16:15:43	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/gsdfsdf (from 127.0.0.1/newswave/)
+16:15:43	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/gsqdfsdf (from 127.0.0.1/newswave/)
+16:15:59	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/category/sport/basketball/ (from 127.0.0.1/newswave/)
+16:18:26	Error: 	"Bad Request" (400) at link 127.0.0.1/newswave/wp-admin/admin-ajax.php?action=rest-nonce (from 127.0.0.1/newswave/)
+16:18:38	Warning: 	Warning: store text/html without scan: /home/moon/websites/wavepress-static/gmpg.org/xfn/.html
+16:18:48	Warning: 	Warning: store text/html without scan: /home/moon/websites/wavepress-static/gmpg.org/xfn/intro.html
+16:18:49	Warning: 	Warning: store text/html without scan: /home/moon/websites/wavepress-static/gmpg.org/xfn/faq.html
+16:18:51	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/wp-content/themes/wavepress/?ver=6.6.5 (from 127.0.0.1/newswave/)
+16:19:06	Error: 	"Not Found" (404) at link 127.0.0.1/feed/ (from 127.0.0.1/newswave/register/)
+16:19:06	Error: 	"Method Not Allowed" (405) at link 127.0.0.1/newswave/xmlrpc.php (from 127.0.0.1/newswave/register/)
+16:19:47	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1107
+16:19:47	Warning: 	File has moved from 127.0.0.1/newswave/?p=1107 to http://127.0.0.1/newswave/product/sunglasses/
+16:20:47	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1106
+16:20:47	Warning: 	File has moved from 127.0.0.1/newswave/?p=1106 to http://127.0.0.1/newswave/product/cap/
+16:20:59	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product/cap/?add-to-cart=1107 (from 127.0.0.1/newswave/product/cap/)
+16:21:22	Warning: 	Retry after error 500 () at link 127.0.0.1/newswave/product/belt/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:21:23	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1104
+16:21:23	Warning: 	File has moved from 127.0.0.1/newswave/?p=1104 to http://127.0.0.1/newswave/product/beanie/
+16:21:36	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/phasellus-auctor-vestibulum-mauris/ (from 127.0.0.1/newswave/category/tech/)
+16:21:57	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1828
+16:21:57	Warning: 	File has moved from 127.0.0.1/newswave/?p=1828 to http://127.0.0.1/newswave/tincidunt-ultrices-nunc-donec-semper-augue-ornare/
+16:21:57	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/tincidunt-ultrices-nunc-donec-semper-augue-ornare/_wp_link_placeholder (from 127.0.0.1/newswave/tincidunt-ultrices-nunc-donec-semper-augue-ornare/)
+16:22:01	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/mollis-sit-enim-fermentum-cum-purus-quis-scelerisque-ac/ (from 127.0.0.1/newswave/author/admin/)
+16:22:02	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1830
+16:22:02	Warning: 	File has moved from 127.0.0.1/newswave/?p=1830 to http://127.0.0.1/newswave/phasellus-aliquam-nec-lobortis-vel-diam-nibh-est/
+16:22:02	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/phasellus-aliquam-nec-lobortis-vel-diam-nibh-est/_wp_link_placeholder (from 127.0.0.1/newswave/phasellus-aliquam-nec-lobortis-vel-diam-nibh-est/)
+16:22:02	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1824
+16:22:02	Warning: 	File has moved from 127.0.0.1/newswave/?p=1824 to http://127.0.0.1/newswave/enim-in-tellus-aliquet-amet-feugiat-sed-mi-turpis/
+16:22:02	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/enim-in-tellus-aliquet-amet-feugiat-sed-mi-turpis/_wp_link_placeholder (from 127.0.0.1/newswave/enim-in-tellus-aliquet-amet-feugiat-sed-mi-turpis/)
+16:22:02	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1826
+16:22:02	Warning: 	File has moved from 127.0.0.1/newswave/?p=1826 to http://127.0.0.1/newswave/laoreet-dis-vel-non-lorem-quis-tortor-tempus-vitae-sit-sit/
+16:22:02	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/laoreet-dis-vel-non-lorem-quis-tortor-tempus-vitae-sit-sit/_wp_link_placeholder (from 127.0.0.1/newswave/laoreet-dis-vel-non-lorem-quis-tortor-tempus-vitae-sit-sit/)
+16:22:02	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=4049
+16:22:02	Warning: 	File has moved from 127.0.0.1/newswave/?p=4049 to http://127.0.0.1/newswave/products-grid/
+16:22:02	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=3230
+16:22:02	Warning: 	File has moved from 127.0.0.1/newswave/?p=3230 to http://127.0.0.1/newswave/page/
+16:22:02	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=2781
+16:22:02	Warning: 	File has moved from 127.0.0.1/newswave/?p=2781 to http://127.0.0.1/newswave/page-2-2/
+16:22:09	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=2
+16:22:09	Warning: 	File has moved from 127.0.0.1/newswave/?p=2 to http://127.0.0.1/newswave/shop/
+16:22:09	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=123
+16:22:09	Warning: 	File has moved from 127.0.0.1/newswave/?p=123 to http://127.0.0.1/newswave/vestibulum-cursus-massa-dolor-quis-eleifend-lorem/
+16:22:09	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=193
+16:22:09	Warning: 	File has moved from 127.0.0.1/newswave/?p=193 to http://127.0.0.1/newswave/aliquam-id-eu-eros-vestibulum-a-ipsum-magna/
+16:22:09	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=125
+16:22:09	Warning: 	File has moved from 127.0.0.1/newswave/?p=125 to http://127.0.0.1/newswave/sed-dapibus-eros-sed-efficitur-suscipit-turpis-purus/
+16:22:15	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1806
+16:22:15	Warning: 	File has moved from 127.0.0.1/newswave/?p=1806 to http://127.0.0.1/newswave/cursus-vestibulum-lacus-ut-cursus-viverra-consectetur-egestas-mi-erat-libero-posuere/
+16:22:15	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/cursus-vestibulum-lacus-ut-cursus-viverra-consectetur-egestas-mi-erat-libero-posuere/_wp_link_placeholder (from 127.0.0.1/newswave/cursus-vestibulum-lacus-ut-cursus-viverra-consectetur-egestas-mi-erat-libero-posuere/)
+16:22:15	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/members/admin/ (from 127.0.0.1/newswave/cursus-vestibulum-lacus-ut-cursus-viverra-consectetur-egestas-mi-erat-libero-posuere/)
+16:22:15	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1622
+16:22:15	Warning: 	File has moved from 127.0.0.1/newswave/?p=1622 to http://127.0.0.1/newswave/lorem-potenti-iaculis-congue-sed-sodales-turpis/
+16:22:15	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/lorem-potenti-iaculis-congue-sed-sodales-turpis/_wp_link_placeholder (from 127.0.0.1/newswave/lorem-potenti-iaculis-congue-sed-sodales-turpis/)
+16:22:21	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1810
+16:22:21	Warning: 	File has moved from 127.0.0.1/newswave/?p=1810 to http://127.0.0.1/newswave/nisl-mi-orci-lectus-sodales-ultricies-amet-bibendum-lobortis-mi-facilisi-sed/
+16:22:21	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/nisl-mi-orci-lectus-sodales-ultricies-amet-bibendum-lobortis-mi-facilisi-sed/_wp_link_placeholder (from 127.0.0.1/newswave/nisl-mi-orci-lectus-sodales-ultricies-amet-bibendum-lobortis-mi-facilisi-sed/)
+16:22:21	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1620
+16:22:21	Warning: 	File has moved from 127.0.0.1/newswave/?p=1620 to http://127.0.0.1/newswave/ut-viverra-nisl-vulputate-ipsum-ultrices-ultrices-neque-fermentum-maecenas-donec-auctor/
+16:22:21	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/ut-viverra-nisl-vulputate-ipsum-ultrices-ultrices-neque-fermentum-maecenas-donec-auctor/_wp_link_placeholder (from 127.0.0.1/newswave/ut-viverra-nisl-vulputate-ipsum-ultrices-ultrices-neque-fermentum-maecenas-donec-auctor/)
+16:22:21	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1616
+16:22:21	Warning: 	File has moved from 127.0.0.1/newswave/?p=1616 to http://127.0.0.1/newswave/suscipit-commodo-amet-feugiat-dictum-volutpat-vel-orci-tellus-enim-id-dignissim/
+16:22:21	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/suscipit-commodo-amet-feugiat-dictum-volutpat-vel-orci-tellus-enim-id-dignissim/_wp_link_placeholder (from 127.0.0.1/newswave/suscipit-commodo-amet-feugiat-dictum-volutpat-vel-orci-tellus-enim-id-dignissim/)
+16:22:21	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=836
+16:22:21	Warning: 	File has moved from 127.0.0.1/newswave/?p=836 to http://127.0.0.1/newswave/morbi-viverra-vel-lacus-volutpat-fermentum-integer-congue/
+16:22:21	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/morbi-viverra-vel-lacus-volutpat-fermentum-integer-congue/_wp_link_placeholder (from 127.0.0.1/newswave/morbi-viverra-vel-lacus-volutpat-fermentum-integer-congue/)
+16:22:27	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1820
+16:22:27	Warning: 	File has moved from 127.0.0.1/newswave/?p=1820 to http://127.0.0.1/newswave/diam-eu-pulvinar-nunc-volutpat-ullamcorper-imperdiet-eget-enim-mi-vitae/
+16:22:27	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/diam-eu-pulvinar-nunc-volutpat-ullamcorper-imperdiet-eget-enim-mi-vitae/_wp_link_placeholder (from 127.0.0.1/newswave/diam-eu-pulvinar-nunc-volutpat-ullamcorper-imperdiet-eget-enim-mi-vitae/)
+16:22:27	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1822
+16:22:27	Warning: 	File has moved from 127.0.0.1/newswave/?p=1822 to http://127.0.0.1/newswave/mattis-tristique-leo-vel-posuere-at/
+16:22:27	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/mattis-tristique-leo-vel-posuere-at/_wp_link_placeholder (from 127.0.0.1/newswave/mattis-tristique-leo-vel-posuere-at/)
+16:22:27	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=119
+16:22:27	Warning: 	File has moved from 127.0.0.1/newswave/?p=119 to http://127.0.0.1/newswave/duis-finibus-congue-est-et-porttitor-purus-mattis-id/
+16:22:27	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=127
+16:22:27	Warning: 	File has moved from 127.0.0.1/newswave/?p=127 to http://127.0.0.1/newswave/aliquam-in-odio-ultrices-libero-lacinia-sagittis-vel/
+16:22:27	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=129
+16:22:27	Warning: 	File has moved from 127.0.0.1/newswave/?p=129 to http://127.0.0.1/newswave/aliquet-erat-condimentum/
+16:22:27	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1808
+16:22:27	Warning: 	File has moved from 127.0.0.1/newswave/?p=1808 to http://127.0.0.1/newswave/nulla-nec-sodales-nibh-tempus-aliquet-viverra-vitae-arcu-ultrices/
+16:22:27	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/nulla-nec-sodales-nibh-tempus-aliquet-viverra-vitae-arcu-ultrices/_wp_link_placeholder (from 127.0.0.1/newswave/nulla-nec-sodales-nibh-tempus-aliquet-viverra-vitae-arcu-ultrices/)
+16:22:27	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=832
+16:22:27	Warning: 	File has moved from 127.0.0.1/newswave/?p=832 to http://127.0.0.1/newswave/pellentesque-elit-varius-fusce-faucibus-felis-in-tellus-rutrum-egestas/
+16:22:27	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/pellentesque-elit-varius-fusce-faucibus-felis-in-tellus-rutrum-egestas/_wp_link_placeholder (from 127.0.0.1/newswave/pellentesque-elit-varius-fusce-faucibus-felis-in-tellus-rutrum-egestas/)
+16:22:27	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1612
+16:22:27	Warning: 	File has moved from 127.0.0.1/newswave/?p=1612 to http://127.0.0.1/newswave/nulla-tellus-arcu-quam-sed-neque/
+16:22:27	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/nulla-tellus-arcu-quam-sed-neque/_wp_link_placeholder (from 127.0.0.1/newswave/nulla-tellus-arcu-quam-sed-neque/)
+16:22:27	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1818
+16:22:27	Warning: 	File has moved from 127.0.0.1/newswave/?p=1818 to http://127.0.0.1/newswave/massa-dictum-integer-eu-montes-vel-nisl-facilisis-adipiscing-in-sagittis/
+16:22:28	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/sem-et-tempus-finibus-mauris-leo-dictum-quam/ (from 127.0.0.1/newswave/category/sport/)
+16:22:28	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=212
+16:22:28	Warning: 	File has moved from 127.0.0.1/newswave/?p=212 to http://127.0.0.1/newswave/orci-varius-natoque-penatibus-et-magnis/
+16:22:28	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=812
+16:22:28	Warning: 	File has moved from 127.0.0.1/newswave/?p=812 to http://127.0.0.1/newswave/morbi-eget-maximus-arcu-eu-tincidunt-metus/
+16:22:28	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/morbi-eget-maximus-arcu-eu-tincidunt-metus/_wp_link_placeholder (from 127.0.0.1/newswave/morbi-eget-maximus-arcu-eu-tincidunt-metus/)
+16:22:28	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=806
+16:22:28	Warning: 	File has moved from 127.0.0.1/newswave/?p=806 to http://127.0.0.1/newswave/suspendisse-tempor-facilisis-risus-a-gravida-risus-euismod/
+16:22:28	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/suspendisse-tempor-facilisis-risus-a-gravida-risus-euismod/_wp_link_placeholder (from 127.0.0.1/newswave/suspendisse-tempor-facilisis-risus-a-gravida-risus-euismod/)
+16:22:29	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1816
+16:22:29	Warning: 	File has moved from 127.0.0.1/newswave/?p=1816 to http://127.0.0.1/newswave/faucibus-mi-vulputate-semper-magna-sed-amet-sed-pretium/
+16:22:29	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/faucibus-mi-vulputate-semper-magna-sed-amet-sed-pretium/_wp_link_placeholder (from 127.0.0.1/newswave/faucibus-mi-vulputate-semper-magna-sed-amet-sed-pretium/)
+16:22:29	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1804
+16:22:29	Warning: 	File has moved from 127.0.0.1/newswave/?p=1804 to http://127.0.0.1/newswave/lacus-mi-sed-vitae-feugiat-purus/
+16:22:29	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/lacus-mi-sed-vitae-feugiat-purus/_wp_link_placeholder (from 127.0.0.1/newswave/lacus-mi-sed-vitae-feugiat-purus/)
+16:22:29	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1103
+16:22:29	Warning: 	File has moved from 127.0.0.1/newswave/?p=1103 to http://127.0.0.1/newswave/product/t-shirt/
+16:24:29	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1443
+16:24:29	Warning: 	File has moved from 127.0.0.1/newswave/?p=1443 to http://127.0.0.1/newswave/est-dignissim-cras-tempus-suspendisse-eu-facilisis-vitae/
+16:24:29	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/est-dignissim-cras-tempus-suspendisse-eu-facilisis-vitae/_wp_link_placeholder (from 127.0.0.1/newswave/est-dignissim-cras-tempus-suspendisse-eu-facilisis-vitae/)
+16:24:29	Error: 	"Internal Server Error" (500) after 2 retries at link 127.0.0.1/newswave/wp-content/themes/wavepress/?ver=6.6.5 (from 127.0.0.1/newswave/)
+16:24:29	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1044
+16:24:29	Warning: 	File has moved from 127.0.0.1/newswave/?p=1044 to http://127.0.0.1/newswave/account/
+16:24:29	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=3
+16:24:29	Warning: 	File has moved from 127.0.0.1/newswave/?p=3 to http://127.0.0.1/newswave/cart/
+16:24:29	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=917
+16:24:29	Warning: 	File has moved from 127.0.0.1/newswave/?p=917 to http://127.0.0.1/newswave/home-2/
+16:24:29	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/shop-2/?add-to-cart=1103 (from 127.0.0.1/newswave/shop-2/)
+16:24:41	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product/album/ (from 127.0.0.1/newswave/shop-2/)
+16:25:22	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=af21d0c97db2e27e13572cbf59eb343d&_wpnonce=5f914e2890
+16:25:22	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=af21d0c97db2e27e13572cbf59eb343d&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/sunglasses/?removed_item=1
+16:25:23	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1081
+16:25:23	Warning: 	File has moved from 127.0.0.1/newswave/?p=1081 to http://127.0.0.1/newswave/product/beanie-with-logo/
+16:25:26	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=36a16a2505369e0c922b6ea7a23a56d2&_wpnonce=5f914e2890
+16:25:26	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=36a16a2505369e0c922b6ea7a23a56d2&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/sunglasses/?removed_item=1
+16:25:26	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=4da04049a062f5adfe81b67dd755cecc&_wpnonce=5f914e2890
+16:25:26	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=4da04049a062f5adfe81b67dd755cecc&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/sunglasses/?removed_item=1
+16:25:26	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product/cap/?add-to-cart=1107 (from 127.0.0.1/newswave/product/cap/)
+16:25:28	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1105
+16:25:28	Warning: 	File has moved from 127.0.0.1/newswave/?p=1105 to http://127.0.0.1/newswave/product/belt/
+16:25:32	Error: 	"" (500) after 2 retries at link 127.0.0.1/newswave/product/belt/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:25:32	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=c9f95a0a5af052bffce5c89917335f67&_wpnonce=5f914e2890
+16:25:32	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=c9f95a0a5af052bffce5c89917335f67&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/beanie/?removed_item=1
+16:25:33	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=e58cc5ca94270acaceed13bc82dfedf7&_wpnonce=5f914e2890
+16:25:33	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=e58cc5ca94270acaceed13bc82dfedf7&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/beanie/?removed_item=1
+16:25:39	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1802
+16:25:39	Warning: 	File has moved from 127.0.0.1/newswave/?p=1802 to http://127.0.0.1/newswave/odio-sit-at-eu-vel-consectetur/
+16:25:39	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/odio-sit-at-eu-vel-consectetur/_wp_link_placeholder (from 127.0.0.1/newswave/odio-sit-at-eu-vel-consectetur/)
+16:25:39	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=814
+16:25:39	Warning: 	File has moved from 127.0.0.1/newswave/?p=814 to http://127.0.0.1/newswave/suspendisse-tristique-dui-lectus-at-ultricies-mi-rutrum-quis/
+16:25:39	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/suspendisse-tristique-dui-lectus-at-ultricies-mi-rutrum-quis/_wp_link_placeholder (from 127.0.0.1/newswave/suspendisse-tristique-dui-lectus-at-ultricies-mi-rutrum-quis/)
+16:25:39	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=807
+16:25:39	Warning: 	File has moved from 127.0.0.1/newswave/?p=807 to http://127.0.0.1/newswave/nunc-ullamcorper-nunc-quam-vel-venenatis-orci-vehicula/
+16:25:39	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/nunc-ullamcorper-nunc-quam-vel-venenatis-orci-vehicula/_wp_link_placeholder (from 127.0.0.1/newswave/nunc-ullamcorper-nunc-quam-vel-venenatis-orci-vehicula/)
+16:25:39	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1603
+16:25:39	Warning: 	File has moved from 127.0.0.1/newswave/?p=1603 to http://127.0.0.1/newswave/habitant-tellus-aliquam-nec-proin-tempor-ut-tristique-enim-quis-suscipit-dui/
+16:25:39	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/habitant-tellus-aliquam-nec-proin-tempor-ut-tristique-enim-quis-suscipit-dui/_wp_link_placeholder (from 127.0.0.1/newswave/habitant-tellus-aliquam-nec-proin-tempor-ut-tristique-enim-quis-suscipit-dui/)
+16:25:46	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1601
+16:25:46	Warning: 	File has moved from 127.0.0.1/newswave/?p=1601 to http://127.0.0.1/newswave/non-commodo-vestibulum-nisl-velit-justo-in-nec-dignissim-pharetra/
+16:25:46	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1597
+16:25:46	Warning: 	File has moved from 127.0.0.1/newswave/?p=1597 to http://127.0.0.1/newswave/elementum-mi-aliquam-congue-ut-id/
+16:25:46	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1614
+16:25:46	Warning: 	File has moved from 127.0.0.1/newswave/?p=1614 to http://127.0.0.1/newswave/aliquam-cras-mollis-proin-placerat-ornare-porttitor/
+16:25:46	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/aliquam-cras-mollis-proin-placerat-ornare-porttitor/_wp_link_placeholder (from 127.0.0.1/newswave/aliquam-cras-mollis-proin-placerat-ornare-porttitor/)
+16:25:46	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=135
+16:25:46	Warning: 	File has moved from 127.0.0.1/newswave/?p=135 to http://127.0.0.1/newswave/purus-pellentesque-pellentesque-vulputate-aug/
+16:25:46	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=153
+16:25:46	Warning: 	File has moved from 127.0.0.1/newswave/?p=153 to http://127.0.0.1/newswave/sed-finibus-felis-morbi-sed-dui-vehicula/
+16:25:46	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/sed-finibus-felis-morbi-sed-dui-vehicula/_wp_link_placeholder (from 127.0.0.1/newswave/sed-finibus-felis-morbi-sed-dui-vehicula/)
+16:25:53	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1618
+16:25:53	Warning: 	File has moved from 127.0.0.1/newswave/?p=1618 to http://127.0.0.1/newswave/diam-massa-ornare-eget-augue-interdum-quis/
+16:25:54	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/diam-massa-ornare-eget-augue-interdum-quis/_wp_link_placeholder (from 127.0.0.1/newswave/diam-massa-ornare-eget-augue-interdum-quis/)
+16:26:03	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=834
+16:26:03	Warning: 	File has moved from 127.0.0.1/newswave/?p=834 to http://127.0.0.1/newswave/curabitur-consequat-rhoncus-neque-non-auctor-ut-ac-felis-risus/
+16:26:03	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/curabitur-consequat-rhoncus-neque-non-auctor-ut-ac-felis-risus/_wp_link_placeholder (from 127.0.0.1/newswave/curabitur-consequat-rhoncus-neque-non-auctor-ut-ac-felis-risus/)
+16:26:03	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=133
+16:26:03	Warning: 	File has moved from 127.0.0.1/newswave/?p=133 to http://127.0.0.1/newswave/fringilla-dapibus-neque-sed-malesuada/
+16:26:07	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1100
+16:26:07	Warning: 	File has moved from 127.0.0.1/newswave/?p=1100 to http://127.0.0.1/newswave/product/v-neck-t-shirt/
+16:26:07	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1080
+16:26:07	Warning: 	File has moved from 127.0.0.1/newswave/?p=1080 to http://127.0.0.1/newswave/product/t-shirt-with-logo/
+16:26:07	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=731c83db8d2ff01bdc000083fd3c3740&_wpnonce=5f914e2890
+16:26:07	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=731c83db8d2ff01bdc000083fd3c3740&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/t-shirt/?removed_item=1
+16:26:07	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1071
+16:26:07	Warning: 	File has moved from 127.0.0.1/newswave/?p=1071 to http://127.0.0.1/newswave/product/polo/
+16:26:07	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product/polo/?add-to-cart=1080 (from 127.0.0.1/newswave/product/polo/)
+16:26:08	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product/polo/?add-to-cart=1103 (from 127.0.0.1/newswave/product/polo/)
+16:26:08	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=1b0114c51cc532ed34e1954b5b9e4b58&_wpnonce=5f914e2890
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=1b0114c51cc532ed34e1954b5b9e4b58&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/t-shirt/?removed_item=1
+16:26:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1070
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1070 to http://127.0.0.1/newswave/product/long-sleeve-tee/
+16:26:08	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=dc58e3a306451c9d670adcd37004f48f&_wpnonce=5f914e2890
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=dc58e3a306451c9d670adcd37004f48f&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/t-shirt/?removed_item=1
+16:26:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1812
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1812 to http://127.0.0.1/newswave/metus-eu-tellus-bibendum-placerat-volutpat/
+16:26:08	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/metus-eu-tellus-bibendum-placerat-volutpat/_wp_link_placeholder (from 127.0.0.1/newswave/metus-eu-tellus-bibendum-placerat-volutpat/)
+16:26:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1584
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1584 to http://127.0.0.1/newswave/platea-vulputate-tellus-et-faucibus-ullamcorper-nunc-risus-mauris-montes/
+16:26:08	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/platea-vulputate-tellus-et-faucibus-ullamcorper-nunc-risus-mauris-montes/_wp_link_placeholder (from 127.0.0.1/newswave/platea-vulputate-tellus-et-faucibus-ullamcorper-nunc-risus-mauris-montes/)
+16:26:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1586
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1586 to http://127.0.0.1/newswave/cras-imperdiet-faucibus-cursus-nisl-massa-dictum-neque-nunc-id-elit-ac/
+16:26:08	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/cras-imperdiet-faucibus-cursus-nisl-massa-dictum-neque-nunc-id-elit-ac/_wp_link_placeholder (from 127.0.0.1/newswave/cras-imperdiet-faucibus-cursus-nisl-massa-dictum-neque-nunc-id-elit-ac/)
+16:26:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1580
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1580 to http://127.0.0.1/newswave/eu-lectus-turpis-eleifend-porta-nascetur-justo-elementum-quis/
+16:26:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1582
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1582 to http://127.0.0.1/newswave/imperdiet-a-neque-porttitor-lobortis-magna-sed-in-vulputate/
+16:26:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1578
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1578 to http://127.0.0.1/newswave/bibendum-duis-arcu-ut-tortor-ut-donec-neque/
+16:26:08	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/bibendum-duis-arcu-ut-tortor-ut-donec-neque/_wp_link_placeholder (from 127.0.0.1/newswave/bibendum-duis-arcu-ut-tortor-ut-donec-neque/)
+16:26:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1576
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1576 to http://127.0.0.1/newswave/et-imperdiet-nunc-sed-dui-sed-aliquet/
+16:26:08	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/et-imperdiet-nunc-sed-dui-sed-aliquet/_wp_link_placeholder (from 127.0.0.1/newswave/et-imperdiet-nunc-sed-dui-sed-aliquet/)
+16:26:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1814
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1814 to http://127.0.0.1/newswave/semper-malesuada-viverra-dictum-id-lorem-ut-ornare-elementum-aliquam/
+16:26:08	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/semper-malesuada-viverra-dictum-id-lorem-ut-ornare-elementum-aliquam/_wp_link_placeholder (from 127.0.0.1/newswave/semper-malesuada-viverra-dictum-id-lorem-ut-ornare-elementum-aliquam/)
+16:26:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1338
+16:26:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1338 to http://127.0.0.1/newswave/arcu-tincidunt-arcu-et-nullam-ullamcorper-in-scelerisque-a-id/
+16:26:08	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/arcu-tincidunt-arcu-et-nullam-ullamcorper-in-scelerisque-a-id/_wp_link_placeholder (from 127.0.0.1/newswave/arcu-tincidunt-arcu-et-nullam-ullamcorper-in-scelerisque-a-id/)
+16:26:09	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1083
+16:26:09	Warning: 	File has moved from 127.0.0.1/newswave/?p=1083 to http://127.0.0.1/newswave/product/wordpress-pennant/
+16:26:09	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=aace49c7d80767cffec0e513ae886df0&_wpnonce=5f914e2890
+16:26:09	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=aace49c7d80767cffec0e513ae886df0&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/wordpress-pennant/?removed_item=1
+16:26:17	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1102
+16:26:17	Warning: 	File has moved from 127.0.0.1/newswave/?p=1102 to http://127.0.0.1/newswave/product/hoodie-with-logo/
+16:26:19	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=c667d53acd899a97a85de0c201ba99be&_wpnonce=5f914e2890
+16:26:19	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=c667d53acd899a97a85de0c201ba99be&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/shop-2/?removed_item=1
+16:26:31	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=a1519de5b5d44b31a01de013b9b51a80&_wpnonce=5f914e2890
+16:26:31	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=a1519de5b5d44b31a01de013b9b51a80&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/shop-2/?removed_item=1
+16:26:31	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1069
+16:26:31	Warning: 	File has moved from 127.0.0.1/newswave/?p=1069 to http://127.0.0.1/newswave/product/hoodie-with-zipper/
+16:26:32	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=fc2c7c47b918d0c2d792a719dfb602ef&_wpnonce=5f914e2890
+16:26:32	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=fc2c7c47b918d0c2d792a719dfb602ef&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/shop-2/?removed_item=1
+16:26:33	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1073
+16:26:33	Warning: 	File has moved from 127.0.0.1/newswave/?p=1073 to http://127.0.0.1/newswave/product/single/
+16:26:35	Warning: 	Found for 127.0.0.1/newswave/card/?remove_item=390e982518a50e280d8e2b535462ec1f&_wpnonce=5f914e2890
+16:26:35	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=390e982518a50e280d8e2b535462ec1f&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/shop-2/?removed_item=1
+16:26:36	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1082
+16:26:36	Warning: 	File has moved from 127.0.0.1/newswave/?p=1082 to http://127.0.0.1/newswave/product/logo-collection/
+16:26:39	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1101
+16:26:39	Warning: 	File has moved from 127.0.0.1/newswave/?p=1101 to http://127.0.0.1/newswave/product/hoodie/
+16:26:42	Warning: 	Moved Permanently for 127.0.0.1/newswave/shop-2/page/1/
+16:26:42	Warning: 	File has moved from 127.0.0.1/newswave/shop-2/page/1/ to http://127.0.0.1/newswave/shop-2/
+16:26:42	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1041
+16:26:42	Warning: 	File has moved from 127.0.0.1/newswave/?p=1041 to http://127.0.0.1/newswave/card/
+16:26:42	Warning: 	Moved Permanently for 127.0.0.1/newswave/card/?remove_item=c9f95a0a5af052bffce5c89917335f67&
+16:26:42	Warning: 	File has moved from 127.0.0.1/newswave/card/?remove_item=c9f95a0a5af052bffce5c89917335f67& to http://127.0.0.1/newswave/card/?remove_item=c9f95a0a5af052bffce5c89917335f67
+16:26:42	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1046
+16:26:42	Warning: 	File has moved from 127.0.0.1/newswave/?p=1046 to http://127.0.0.1/newswave/checkout-2/
+16:26:43	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=af21d0c97db2e27e13572cbf59eb343d&_wpnonce=5f914e2890
+16:26:43	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=af21d0c97db2e27e13572cbf59eb343d&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/beanie-with-logo/?add-to-cart=1106
+16:26:43	Error: 	"Internal Server Error" (500) after 2 retries at link 127.0.0.1/newswave/product/cap/?add-to-cart=1107 (from 127.0.0.1/newswave/product/cap/)
+16:26:43	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=36a16a2505369e0c922b6ea7a23a56d2&_wpnonce=5f914e2890
+16:26:43	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=36a16a2505369e0c922b6ea7a23a56d2&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/belt/?add-to-cart=1106
+16:26:43	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=4da04049a062f5adfe81b67dd755cecc&_wpnonce=5f914e2890
+16:26:43	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=4da04049a062f5adfe81b67dd755cecc&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/belt/?add-to-cart=1106
+16:26:43	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1144
+16:26:43	Warning: 	File has moved from 127.0.0.1/newswave/?p=1144 to http://127.0.0.1/newswave/phasellus-auctor-vestibulum-mauris/
+16:26:43	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/phasellus-auctor-vestibulum-mauris/_wp_link_placeholder (from 127.0.0.1/newswave/phasellus-auctor-vestibulum-mauris/)
+16:26:43	Warning: 	Retry after error 500 () at link 127.0.0.1/newswave/suspendisse-tristique-dui-lectus-at-ultricies-mi-rutrum-quis/_wp_link_placeholder (from 127.0.0.1/newswave/suspendisse-tristique-dui-lectus-at-ultricies-mi-rutrum-quis/)
+16:26:43	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1599
+16:26:43	Warning: 	File has moved from 127.0.0.1/newswave/?p=1599 to http://127.0.0.1/newswave/mollis-sit-enim-fermentum-cum-purus-quis-scelerisque-ac/
+16:26:43	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/mollis-sit-enim-fermentum-cum-purus-quis-scelerisque-ac/_wp_link_placeholder (from 127.0.0.1/newswave/mollis-sit-enim-fermentum-cum-purus-quis-scelerisque-ac/)
+16:26:43	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/?p=3164 (from 127.0.0.1/newswave/members/admin/)
+16:26:43	Warning: 	Moved Permanently for 127.0.0.1/newswave/members/admin/activity/
+16:26:43	Warning: 	File has moved from 127.0.0.1/newswave/members/admin/activity/ to http://127.0.0.1/newswave/members/admin/
+16:26:44	Warning: 	Moved Permanently for 127.0.0.1/newswave/members/admin/activity/just-me/
+16:26:44	Warning: 	File has moved from 127.0.0.1/newswave/members/admin/activity/just-me/ to http://127.0.0.1/newswave/members/admin/activity/
+16:26:47	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=131
+16:26:47	Warning: 	File has moved from 127.0.0.1/newswave/?p=131 to http://127.0.0.1/newswave/sem-et-tempus-finibus-mauris-leo-dictum-quam/
+16:26:47	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=c9f95a0a5af052bffce5c89917335f67&_wpnonce=5f914e2890
+16:26:47	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=c9f95a0a5af052bffce5c89917335f67&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product-category/clothing/tshirts/?add-to-cart=1103
+16:26:47	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=e58cc5ca94270acaceed13bc82dfedf7&_wpnonce=5f914e2890
+16:26:47	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=e58cc5ca94270acaceed13bc82dfedf7&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product-category/clothing/tshirts/?add-to-cart=1103
+16:26:47	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product/t-shirt/?removed_item=1 (from 127.0.0.1/newswave/card/?remove_item=731c83db8d2ff01bdc000083fd3c3740&_wpnonce=5f914e2890)
+16:26:48	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product/polo/?add-to-cart=1080 (from 127.0.0.1/newswave/product/polo/)
+16:26:53	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=dc58e3a306451c9d670adcd37004f48f&_wpnonce=5f914e2890
+16:26:53	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=dc58e3a306451c9d670adcd37004f48f&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/shop-2/?add-to-cart=1103
+16:26:53	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=aace49c7d80767cffec0e513ae886df0&_wpnonce=5f914e2890
+16:26:53	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=aace49c7d80767cffec0e513ae886df0&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product-category/decor/
+16:26:53	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product-category/clothing/hoodies/?add-to-cart=1102 (from 127.0.0.1/newswave/product-category/clothing/hoodies/)
+16:27:03	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1072
+16:27:03	Warning: 	File has moved from 127.0.0.1/newswave/?p=1072 to http://127.0.0.1/newswave/product/album/
+16:27:03	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=c667d53acd899a97a85de0c201ba99be&_wpnonce=5f914e2890
+16:27:03	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=c667d53acd899a97a85de0c201ba99be&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/hoodie-with-zipper/?add-to-cart=1102
+16:27:03	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=a1519de5b5d44b31a01de013b9b51a80&_wpnonce=5f914e2890
+16:27:03	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=a1519de5b5d44b31a01de013b9b51a80&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product/hoodie-with-zipper/?add-to-cart=1102
+16:27:03	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=fc2c7c47b918d0c2d792a719dfb602ef&_wpnonce=5f914e2890
+16:27:03	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=fc2c7c47b918d0c2d792a719dfb602ef&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product-category/music/
+16:27:03	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=390e982518a50e280d8e2b535462ec1f&_wpnonce=5f914e2890
+16:27:03	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=390e982518a50e280d8e2b535462ec1f&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product-category/clothing/
+16:27:03	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1050
+16:27:03	Warning: 	File has moved from 127.0.0.1/newswave/?p=1050 to http://127.0.0.1/newswave/terms-and-conditions/
+16:27:03	Error: 	"" (500) after 2 retries at link 127.0.0.1/newswave/suspendisse-tristique-dui-lectus-at-ultricies-mi-rutrum-quis/_wp_link_placeholder (from 127.0.0.1/newswave/suspendisse-tristique-dui-lectus-at-ultricies-mi-rutrum-quis/)
+16:27:03	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/mollis-sit-enim-fermentum-cum-purus-quis-scelerisque-ac/_wp_link_placeholder (from 127.0.0.1/newswave/mollis-sit-enim-fermentum-cum-purus-quis-scelerisque-ac/)
+16:27:03	Warning: 	Moved Permanently for 127.0.0.1/newswave/members/admin/profile/public/
+16:27:03	Warning: 	File has moved from 127.0.0.1/newswave/members/admin/profile/public/ to http://127.0.0.1/newswave/members/admin/profile/
+16:27:09	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/shop-2/page/2/?removed_item=1 (from 127.0.0.1/newswave/shop-2/?removed_item=1)
+16:27:14	Warning: 	Moved Permanently for 127.0.0.1/newswave/shop-2/page/1/?removed_item=1
+16:27:14	Warning: 	File has moved from 127.0.0.1/newswave/shop-2/page/1/?removed_item=1 to http://127.0.0.1/newswave/shop-2/?removed_item=1
+16:28:47	Warning: 	HTML file (1202509 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/wp-json/
+16:28:51	Warning: 	HTML file (2929 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/activity/feed/
+16:28:53	Warning: 	HTML file (2118 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/sunglasses/feed/
+16:28:55	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/Video_grid/css/frontend.css?ver=6.6.5 (from 127.0.0.1/newswave/)
+16:28:57	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/Video_grid/css/gresponsive.css?ver=6.6.5 (from 127.0.0.1/newswave/)
+16:29:03	Warning: 	HTML file (736 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/cap/feed/
+16:29:05	Warning: 	HTML file (1648 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/beanie/feed/
+16:29:07	Warning: 	HTML file (11903 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/tech/feed/
+16:29:14	Warning: 	HTML file (34067 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/culture/books/feed/
+16:29:14	Warning: 	HTML file (110498 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/culture/feed/
+16:29:25	Warning: 	HTML file (848 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tincidunt-ultrices-nunc-donec-semper-augue-ornare/feed/
+16:29:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.pinterest.com/js/pinmarklet.js?r=
+16:29:37	Warning: 	HTML file (111285 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/author/admin/feed/
+16:29:56	Warning: 	HTML file (845 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/phasellus-aliquam-nec-lobortis-vel-diam-nibh-est/feed/
+16:30:27	Warning: 	HTML file (23004 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/business/feed/
+16:30:28	Warning: 	HTML file (848 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/enim-in-tellus-aliquet-amet-feugiat-sed-mi-turpis/feed/
+16:30:33	Warning: 	HTML file (875 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/laoreet-dis-vel-non-lorem-quis-tortor-tempus-vitae-sit-sit/feed/
+16:30:34	Warning: 	HTML file (33873 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/lifestyle/food/feed/
+16:30:38	Warning: 	HTML file (848 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/vestibulum-cursus-massa-dolor-quis-eleifend-lorem/feed/
+16:30:39	Warning: 	HTML file (832 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/aliquam-id-eu-eros-vestibulum-a-ipsum-magna/feed/
+16:30:39	Warning: 	HTML file (1771 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/sed-dapibus-eros-sed-efficitur-suscipit-turpis-purus/feed/
+16:30:40	Warning: 	HTML file (46351 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/politics/europe/feed/
+16:30:40	Warning: 	HTML file (78554 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/politics/feed/
+16:30:44	Warning: 	HTML file (3031 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/cursus-vestibulum-lacus-ut-cursus-viverra-consectetur-egestas-mi-erat-libero-posuere/feed/
+16:30:51	Warning: 	HTML file (842 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/lorem-potenti-iaculis-congue-sed-sodales-turpis/feed/
+16:30:52	Warning: 	HTML file (34016 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/politics/geopolitc/feed/
+16:30:55	Warning: 	HTML file (65416 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/lifestyle/feed/
+16:30:57	Warning: 	HTML file (929 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/nisl-mi-orci-lectus-sodales-ultricies-amet-bibendum-lobortis-mi-facilisi-sed/feed/
+16:30:59	Warning: 	HTML file (962 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/ut-viverra-nisl-vulputate-ipsum-ultrices-ultrices-neque-fermentum-maecenas-donec-auctor/feed/
+16:31:00	Warning: 	HTML file (938 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/suscipit-commodo-amet-feugiat-dictum-volutpat-vel-orci-tellus-enim-id-dignissim/feed/
+16:31:01	Warning: 	HTML file (872 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/morbi-viverra-vel-lacus-volutpat-fermentum-integer-congue/feed/
+16:31:03	Warning: 	HTML file (914 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/diam-eu-pulvinar-nunc-volutpat-ullamcorper-imperdiet-eget-enim-mi-vitae/feed/
+16:31:04	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/mattis-tristique-leo-vel-posuere-at/feed/
+16:31:07	Warning: 	HTML file (6665 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/duis-finibus-congue-est-et-porttitor-purus-mattis-id/feed/
+16:31:08	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/aliquam-in-odio-ultrices-libero-lacinia-sagittis-vel/feed/
+16:31:08	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/aliquet-erat-condimentum/feed/
+16:31:09	Warning: 	HTML file (896 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/nulla-nec-sodales-nibh-tempus-aliquet-viverra-vitae-arcu-ultrices/feed/
+16:31:11	Warning: 	HTML file (912 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/pellentesque-elit-varius-fusce-faucibus-felis-in-tellus-rutrum-egestas/feed/
+16:31:11	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/nulla-tellus-arcu-quam-sed-neque/feed/
+16:31:12	Warning: 	HTML file (12224 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/science/engineering/feed/
+16:31:12	Warning: 	HTML file (12204 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/science/feed/
+16:31:15	Warning: 	HTML file (917 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/massa-dictum-integer-eu-montes-vel-nisl-facilisis-adipiscing-in-sagittis/feed/
+16:31:17	Warning: 	HTML file (41526 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/sport/feed/
+16:31:19	Warning: 	HTML file (830 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/orci-varius-natoque-penatibus-et-magnis/feed/
+16:31:19	Warning: 	HTML file (828 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/morbi-eget-maximus-arcu-eu-tincidunt-metus/feed/
+16:31:21	Warning: 	HTML file (877 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/suspendisse-tempor-facilisis-risus-a-gravida-risus-euismod/feed/
+16:31:21	Warning: 	HTML file (8871 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/fashion/feed/
+16:31:23	Warning: 	HTML file (6443 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/food/feed/
+16:31:23	Warning: 	HTML file (5326 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/games/feed/
+16:31:25	Warning: 	HTML file (8497 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/health/feed/
+16:31:25	Warning: 	HTML file (8468 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/movies/feed/
+16:31:27	Warning: 	HTML file (3275 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/news/feed/
+16:31:27	Warning: 	HTML file (3284 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/science/feed/
+16:31:27	Warning: 	HTML file (5740 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/tech/feed/
+16:31:30	Warning: 	HTML file (11961 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/world/feed/
+16:31:30	Warning: 	HTML file (866 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/faucibus-mi-vulputate-semper-magna-sed-amet-sed-pretium/feed/
+16:31:30	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/lacus-mi-sed-vitae-feugiat-purus/feed/
+16:31:30	Warning: 	HTML file (751 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/t-shirt/feed/
+16:31:34	Warning: 	HTML file (23563 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/lifestyle/fashion/feed/
+16:31:36	Warning: 	HTML file (12131 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/culture/film/feed/
+16:31:36	Warning: 	HTML file (12219 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/lifestyle/health/feed/
+16:31:39	Warning: 	HTML file (1140 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/business/market-finance/feed/
+16:31:40	Warning: 	HTML file (56062 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/culture/music/feed/
+16:31:42	Warning: 	HTML file (1101 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/nesciunt/feed/
+16:31:42	Warning: 	HTML file (1086 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/non/feed/
+16:31:43	Warning: 	HTML file (1110 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/perferendis/feed/
+16:31:43	Warning: 	HTML file (1106 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/science/physics/feed/
+16:31:43	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 10832): 127.0.0.1/newswave/wp-content/themes/wavepress/css/font-awesome/6.5.1/webfonts/fa-v4compatibility.ttf
+16:31:44	Warning: 	HTML file (1092 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/quasi/feed/
+16:31:45	Warning: 	HTML file (1086 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/qui/feed/
+16:31:45	Warning: 	HTML file (23013 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/business/startups/feed/
+16:31:45	Warning: 	HTML file (12147 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/sport/tennis/feed/
+16:31:47	Warning: 	HTML file (77986 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/culture/travel/feed/
+16:31:54	Warning: 	HTML file (23193 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/uncategorised/feed/
+16:32:00	Warning: 	HTML file (1110 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/unpublished/feed/
+16:32:02	Warning: 	HTML file (23376 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/politics/world/feed/
+16:32:02	Warning: 	HTML file (869 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/est-dignissim-cras-tempus-suspendisse-eu-facilisis-vitae/feed/
+16:32:05	Warning: 	HTML file (26167 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/shop-2/feed/
+16:32:11	Warning: 	HTML file (12959 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/clothing/accessories/feed/
+16:32:11	Warning: 	HTML file (772 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/beanie-with-logo/feed/
+16:32:12	Warning: 	HTML file (1660 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/belt/feed/
+16:32:13	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/odio-sit-at-eu-vel-consectetur/feed/
+16:32:13	Warning: 	HTML file (872 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/suspendisse-tristique-dui-lectus-at-ultricies-mi-rutrum-quis/feed/
+16:32:13	Warning: 	HTML file (866 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/nunc-ullamcorper-nunc-quam-vel-venenatis-orci-vehicula/feed/
+16:32:13	Warning: 	HTML file (929 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/habitant-tellus-aliquam-nec-proin-tempor-ut-tristique-enim-quis-suscipit-dui/feed/
+16:32:14	Warning: 	HTML file (896 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/non-commodo-vestibulum-nisl-velit-justo-in-nec-dignissim-pharetra/feed/
+16:32:15	Warning: 	HTML file (800 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/elementum-mi-aliquam-congue-ut-id/feed/
+16:32:15	Warning: 	HTML file (854 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/aliquam-cras-mollis-proin-placerat-ornare-porttitor/feed/
+16:32:15	Warning: 	HTML file (837 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/purus-pellentesque-pellentesque-vulputate-aug/feed/
+16:32:16	Warning: 	HTML file (822 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/sed-finibus-felis-morbi-sed-dui-vehicula/feed/
+16:32:17	Warning: 	HTML file (827 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/diam-massa-ornare-eget-augue-interdum-quis/feed/
+16:32:17	Warning: 	HTML file (12234 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/lifestyle/beauty/feed/
+16:32:17	Warning: 	HTML file (888 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/curabitur-consequat-rhoncus-neque-non-auctor-ut-ac-felis-risus/feed/
+16:32:18	Warning: 	HTML file (812 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/fringilla-dapibus-neque-sed-malesuada/feed/
+16:32:19	Warning: 	HTML file (5768 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/travel/feed/
+16:32:19	Warning: 	HTML file (10171 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/clothing/tshirts/feed/
+16:32:19	Warning: 	HTML file (759 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/v-neck-t-shirt/feed/
+16:32:20	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/t-shirt-with-logo/feed/
+16:32:21	Warning: 	HTML file (743 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/polo/feed/
+16:32:21	Warning: 	HTML file (764 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/long-sleeve-tee/feed/
+16:32:22	Warning: 	HTML file (1113 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/sport/basketball/feed/
+16:32:22	Warning: 	HTML file (827 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/metus-eu-tellus-bibendum-placerat-volutpat/feed/
+16:32:22	Warning: 	HTML file (917 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/platea-vulputate-tellus-et-faucibus-ullamcorper-nunc-risus-mauris-montes/feed/
+16:32:23	Warning: 	HTML file (911 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/cras-imperdiet-faucibus-cursus-nisl-massa-dictum-neque-nunc-id-elit-ac/feed/
+16:32:24	Warning: 	HTML file (884 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/eu-lectus-turpis-eleifend-porta-nascetur-justo-elementum-quis/feed/
+16:32:24	Warning: 	HTML file (878 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/imperdiet-a-neque-porttitor-lobortis-magna-sed-in-vulputate/feed/
+16:32:24	Warning: 	HTML file (830 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/bibendum-duis-arcu-ut-tortor-ut-donec-neque/feed/
+16:32:24	Warning: 	HTML file (812 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/et-imperdiet-nunc-sed-dui-sed-aliquet/feed/
+16:32:25	Warning: 	HTML file (905 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/semper-malesuada-viverra-dictum-id-lorem-ut-ornare-elementum-aliquam/feed/
+16:32:26	Warning: 	HTML file (884 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/arcu-tincidunt-arcu-et-nullam-ullamcorper-in-scelerisque-a-id/feed/
+16:32:26	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/wordpress-pennant/feed/
+16:32:27	Warning: 	HTML file (762 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/hoodie-with-logo/feed/
+16:32:27	Warning: 	HTML file (1249 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/hoodie-with-zipper/feed/
+16:32:28	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/Video_grid/js/frontend.js?ver=6.6.5 (from 127.0.0.1/newswave/)
+16:32:28	Warning: 	HTML file (752 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/single/feed/
+16:32:29	Warning: 	HTML file (758 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/logo-collection/feed/
+16:32:29	Warning: 	HTML file (735 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/hoodie/feed/
+16:32:30	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/phasellus-auctor-vestibulum-mauris/feed/
+16:32:30	Warning: 	HTML file (866 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/mollis-sit-enim-fermentum-cum-purus-quis-scelerisque-ac/feed/
+16:32:30	Warning: 	HTML file (1581 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/members/admin/activity/feed/
+16:32:31	Warning: 	HTML file (834 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/sem-et-tempus-finibus-mauris-leo-dictum-quam/feed/
+16:32:32	Warning: 	HTML file (3604 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/decor/feed/
+16:32:32	Warning: 	HTML file (11573 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/clothing/hoodies/feed/
+16:32:32	Warning: 	HTML file (736 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/album/feed/
+16:32:34	Warning: 	HTML file (6526 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/music/feed/
+16:32:34	Warning: 	HTML file (3251 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/clothing/feed/
+16:32:34	Warning: 	HTML file (2256 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/members/admin/activity/mentions/feed/
+16:32:35	Warning: 	HTML file (879 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/members/admin/activity/favorites/feed/
+16:33:05	Warning: 	HTML file (1 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/wp-admin/admin-ajax.php
+16:33:06	Error: 	"Bad Request" (400) at link 127.0.0.1/newswave/wp-admin/admin-ajax.php (from 127.0.0.1/newswave/)
+16:33:06	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/wp-content/themes/wavepress /css/styles.css (from 127.0.0.1/newswave/)
+16:33:06	Warning: 	HTML file (159739 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/home-2/
+16:33:19	Error: 	"" (404) at link 127.0.0.1/newswave/product/sunglasses/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:33:19	Error: 	"" (404) at link 127.0.0.1/newswave/product/cap/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:33:19	Warning: 	Retry after error 500 () at link 127.0.0.1/newswave/product/belt/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:33:19	Error: 	"" (404) at link 127.0.0.1/newswave/product/beanie/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:33:19	Warning: 	HTML file (155273 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/author/admin/
+16:33:33	Warning: 	HTML file (143271 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/business/
+16:33:47	Warning: 	HTML file (214700 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/laoreet-dis-vel-non-lorem-quis-tortor-tempus-vitae-sit-sit/
+16:34:07	Warning: 	HTML file (146150 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/lifestyle/food/
+16:34:17	Warning: 	HTML file (168859 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/page/
+16:34:33	Warning: 	HTML file (210364 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/aliquam-id-eu-eros-vestibulum-a-ipsum-magna/
+16:34:49	Warning: 	HTML file (214187 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/sed-dapibus-eros-sed-efficitur-suscipit-turpis-purus/
+16:34:59	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/sed-dapibus-eros-sed-efficitur-suscipit-turpis-purus/ (from 127.0.0.1/newswave/)
+16:34:59	Warning: 	HTML file (157212 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/politics/europe/
+16:34:59	Warning: 	HTML file (214187 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/sed-dapibus-eros-sed-efficitur-suscipit-turpis-purus/
+16:35:27	Warning: 	HTML file (214747 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/lorem-potenti-iaculis-congue-sed-sodales-turpis/
+16:35:49	Warning: 	HTML file (157260 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/politics/geopolitc/
+16:36:01	Warning: 	HTML file (154050 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/lifestyle/beauty/
+16:36:13	Warning: 	HTML file (216101 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/ut-viverra-nisl-vulputate-ipsum-ultrices-ultrices-neque-fermentum-maecenas-donec-auctor/
+16:36:33	Warning: 	HTML file (215882 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/suscipit-commodo-amet-feugiat-dictum-volutpat-vel-orci-tellus-enim-id-dignissim/
+16:36:51	Warning: 	HTML file (213607 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/morbi-viverra-vel-lacus-volutpat-fermentum-integer-congue/
+16:37:11	Warning: 	HTML file (218483 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/curabitur-consequat-rhoncus-neque-non-auctor-ut-ac-felis-risus/
+16:37:29	Warning: 	HTML file (215244 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/mattis-tristique-leo-vel-posuere-at/
+16:37:47	Warning: 	HTML file (223366 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/duis-finibus-congue-est-et-porttitor-purus-mattis-id/
+16:37:57	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/duis-finibus-congue-est-et-porttitor-purus-mattis-id/ (from 127.0.0.1/newswave/)
+16:37:57	Warning: 	HTML file (213341 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/aliquam-in-odio-ultrices-libero-lacinia-sagittis-vel/
+16:37:57	Warning: 	HTML file (223366 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/duis-finibus-congue-est-et-porttitor-purus-mattis-id/
+16:38:13	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/aliquam-in-odio-ultrices-libero-lacinia-sagittis-vel/ (from 127.0.0.1/newswave/)
+16:38:13	Warning: 	HTML file (212602 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/aliquet-erat-condimentum/
+16:38:13	Warning: 	HTML file (213341 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/aliquam-in-odio-ultrices-libero-lacinia-sagittis-vel/
+16:38:55	Warning: 	HTML file (215692 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/nulla-nec-sodales-nibh-tempus-aliquet-viverra-vitae-arcu-ultrices/
+16:39:15	Warning: 	HTML file (214108 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/pellentesque-elit-varius-fusce-faucibus-felis-in-tellus-rutrum-egestas/
+16:39:33	Warning: 	HTML file (214200 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/nulla-tellus-arcu-quam-sed-neque/
+16:39:51	Warning: 	HTML file (142498 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/science/engineering/
+16:40:03	Warning: 	HTML file (152376 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/sport/
+16:40:17	Warning: 	HTML file (215394 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/suspendisse-tempor-facilisis-risus-a-gravida-risus-euismod/
+16:40:37	Warning: 	HTML file (150980 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/fashion/
+16:40:45	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/tag/fashion/ (from 127.0.0.1/newswave/)
+16:40:45	Warning: 	HTML file (150980 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/fashion/
+16:40:45	Error: 	"" (404) at link 127.0.0.1/newswave/dsfqdf (from 127.0.0.1/newswave/)
+16:40:45	Warning: 	HTML file (147378 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/sport/basketball/
+16:40:53	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/category/sport/basketball/ (from 127.0.0.1/newswave/)
+16:40:53	Warning: 	HTML file (147378 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/category/sport/basketball/
+16:40:57	Warning: 	HTML file (1 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/wp-admin/admin-ajax.php?action=rest-nonce
+16:41:01	Error: 	"Bad Request" (400) at link 127.0.0.1/newswave/wp-admin/admin-ajax.php?action=rest-nonce (from 127.0.0.1/newswave/)
+16:41:02	Warning: 	Warning: store text/css without scan: /home/moon/websites/wavepress-static/gmpg.org/xfn/default.css
+16:41:09	Warning: 	HTML file (154046 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/account/lost-password/
+16:41:30	Warning: 	HTML file (161626 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/sunglasses/?add-to-cart=1106
+16:41:45	Warning: 	HTML file (161959 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/sunglasses/?add-to-cart=1105
+16:41:59	Warning: 	HTML file (163961 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/sunglasses/?add-to-cart=1104
+16:42:15	Warning: 	HTML file (779 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1106
+16:42:16	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1106
+16:42:16	Warning: 	File has moved from 127.0.0.1/newswave/?p=1106 to http://127.0.0.1/newswave/product/cap/
+16:42:16	Warning: 	HTML file (59437 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/cap/?add-to-cart=1107
+16:42:31	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1104
+16:42:32	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1104
+16:42:32	Warning: 	File has moved from 127.0.0.1/newswave/?p=1104 to http://127.0.0.1/newswave/product/beanie/
+16:42:32	Warning: 	HTML file (162521 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/beanie/?add-to-cart=1105
+16:42:47	Warning: 	HTML file (216982 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/phasellus-auctor-vestibulum-mauris/
+16:43:05	Warning: 	HTML file (219170 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/odio-sit-at-eu-vel-consectetur/
+16:43:23	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1828
+16:43:24	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1828
+16:43:24	Warning: 	File has moved from 127.0.0.1/newswave/?p=1828 to http://127.0.0.1/newswave/tincidunt-ultrices-nunc-donec-semper-augue-ornare/
+16:43:24	Warning: 	HTML file (151646 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tincidunt-ultrices-nunc-donec-semper-augue-ornare/_wp_link_placeholder
+16:43:37	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/tincidunt-ultrices-nunc-donec-semper-augue-ornare/_wp_link_placeholder (from 127.0.0.1/newswave/tincidunt-ultrices-nunc-donec-semper-augue-ornare/)
+16:43:37	Warning: 	HTML file (220151 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/habitant-tellus-aliquam-nec-proin-tempor-ut-tristique-enim-quis-suscipit-dui/
+16:43:55	Warning: 	HTML file (225320 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/mollis-sit-enim-fermentum-cum-purus-quis-scelerisque-ac/
+16:44:13	Warning: 	HTML file (182917 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/non-commodo-vestibulum-nisl-velit-justo-in-nec-dignissim-pharetra/
+16:44:27	Warning: 	HTML file (853 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1830
+16:44:28	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1830
+16:44:28	Warning: 	File has moved from 127.0.0.1/newswave/?p=1830 to http://127.0.0.1/newswave/phasellus-aliquam-nec-lobortis-vel-diam-nibh-est/
+16:44:28	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1824
+16:44:29	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1824
+16:44:29	Warning: 	File has moved from 127.0.0.1/newswave/?p=1824 to http://127.0.0.1/newswave/enim-in-tellus-aliquet-amet-feugiat-sed-mi-turpis/
+16:44:29	Warning: 	HTML file (873 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1826
+16:44:30	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1826
+16:44:30	Warning: 	File has moved from 127.0.0.1/newswave/?p=1826 to http://127.0.0.1/newswave/laoreet-dis-vel-non-lorem-quis-tortor-tempus-vitae-sit-sit/
+16:44:30	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=4049
+16:44:31	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=4049
+16:44:31	Warning: 	File has moved from 127.0.0.1/newswave/?p=4049 to http://127.0.0.1/newswave/products-grid/
+16:44:31	Warning: 	HTML file (759 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=2
+16:44:32	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=2
+16:44:32	Warning: 	File has moved from 127.0.0.1/newswave/?p=2 to http://127.0.0.1/newswave/shop/
+16:44:32	Warning: 	HTML file (853 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=123
+16:44:33	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=123
+16:44:33	Warning: 	File has moved from 127.0.0.1/newswave/?p=123 to http://127.0.0.1/newswave/vestibulum-cursus-massa-dolor-quis-eleifend-lorem/
+16:44:33	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=125
+16:44:34	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=125
+16:44:34	Warning: 	File has moved from 127.0.0.1/newswave/?p=125 to http://127.0.0.1/newswave/sed-dapibus-eros-sed-efficitur-suscipit-turpis-purus/
+16:44:34	Warning: 	HTML file (221673 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/sed-finibus-felis-morbi-sed-dui-vehicula/
+16:44:53	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1622
+16:44:54	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1622
+16:44:54	Warning: 	File has moved from 127.0.0.1/newswave/?p=1622 to http://127.0.0.1/newswave/lorem-potenti-iaculis-congue-sed-sodales-turpis/
+16:44:54	Warning: 	HTML file (217673 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/diam-massa-ornare-eget-augue-interdum-quis/
+16:45:03	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/diam-massa-ornare-eget-augue-interdum-quis/ (from 127.0.0.1/newswave/)
+16:45:03	Warning: 	HTML file (909 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1810
+16:45:03	Warning: 	HTML file (217673 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/diam-massa-ornare-eget-augue-interdum-quis/
+16:45:04	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1810
+16:45:04	Warning: 	File has moved from 127.0.0.1/newswave/?p=1810 to http://127.0.0.1/newswave/nisl-mi-orci-lectus-sodales-ultricies-amet-bibendum-lobortis-mi-facilisi-sed/
+16:45:04	Warning: 	HTML file (931 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1620
+16:45:05	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1620
+16:45:05	Warning: 	File has moved from 127.0.0.1/newswave/?p=1620 to http://127.0.0.1/newswave/ut-viverra-nisl-vulputate-ipsum-ultrices-ultrices-neque-fermentum-maecenas-donec-auctor/
+16:45:05	Warning: 	HTML file (915 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1616
+16:45:06	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1616
+16:45:06	Warning: 	File has moved from 127.0.0.1/newswave/?p=1616 to http://127.0.0.1/newswave/suscipit-commodo-amet-feugiat-dictum-volutpat-vel-orci-tellus-enim-id-dignissim/
+16:45:06	Warning: 	HTML file (869 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=836
+16:45:07	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=836
+16:45:07	Warning: 	File has moved from 127.0.0.1/newswave/?p=836 to http://127.0.0.1/newswave/morbi-viverra-vel-lacus-volutpat-fermentum-integer-congue/
+16:45:07	Warning: 	HTML file (899 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1820
+16:45:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1820
+16:45:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1820 to http://127.0.0.1/newswave/diam-eu-pulvinar-nunc-volutpat-ullamcorper-imperdiet-eget-enim-mi-vitae/
+16:45:08	Warning: 	HTML file (827 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1822
+16:45:09	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1822
+16:45:09	Warning: 	File has moved from 127.0.0.1/newswave/?p=1822 to http://127.0.0.1/newswave/mattis-tristique-leo-vel-posuere-at/
+16:45:09	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=119
+16:45:10	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=119
+16:45:10	Warning: 	File has moved from 127.0.0.1/newswave/?p=119 to http://127.0.0.1/newswave/duis-finibus-congue-est-et-porttitor-purus-mattis-id/
+16:45:10	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=127
+16:45:11	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=127
+16:45:11	Warning: 	File has moved from 127.0.0.1/newswave/?p=127 to http://127.0.0.1/newswave/aliquam-in-odio-ultrices-libero-lacinia-sagittis-vel/
+16:45:11	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=129
+16:45:13	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=129
+16:45:13	Warning: 	File has moved from 127.0.0.1/newswave/?p=129 to http://127.0.0.1/newswave/aliquet-erat-condimentum/
+16:45:13	Warning: 	HTML file (887 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1808
+16:45:15	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1808
+16:45:15	Warning: 	File has moved from 127.0.0.1/newswave/?p=1808 to http://127.0.0.1/newswave/nulla-nec-sodales-nibh-tempus-aliquet-viverra-vitae-arcu-ultrices/
+16:45:15	Warning: 	HTML file (895 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=832
+16:45:17	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=832
+16:45:17	Warning: 	File has moved from 127.0.0.1/newswave/?p=832 to http://127.0.0.1/newswave/pellentesque-elit-varius-fusce-faucibus-felis-in-tellus-rutrum-egestas/
+16:45:17	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1612
+16:45:18	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1612
+16:45:18	Warning: 	File has moved from 127.0.0.1/newswave/?p=1612 to http://127.0.0.1/newswave/nulla-tellus-arcu-quam-sed-neque/
+16:45:18	Warning: 	HTML file (901 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1818
+16:45:19	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1818
+16:45:19	Warning: 	File has moved from 127.0.0.1/newswave/?p=1818 to http://127.0.0.1/newswave/massa-dictum-integer-eu-montes-vel-nisl-facilisis-adipiscing-in-sagittis/
+16:45:19	Warning: 	HTML file (217874 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/fringilla-dapibus-neque-sed-malesuada/
+16:45:37	Warning: 	HTML file (224228 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/sem-et-tempus-finibus-mauris-leo-dictum-quam/
+16:45:53	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=812
+16:45:54	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=812
+16:45:54	Warning: 	File has moved from 127.0.0.1/newswave/?p=812 to http://127.0.0.1/newswave/morbi-eget-maximus-arcu-eu-tincidunt-metus/
+16:45:54	Warning: 	HTML file (871 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=806
+16:45:55	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=806
+16:45:55	Warning: 	File has moved from 127.0.0.1/newswave/?p=806 to http://127.0.0.1/newswave/suspendisse-tempor-facilisis-risus-a-gravida-risus-euismod/
+16:45:55	Warning: 	HTML file (155753 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/travel/
+16:46:07	Warning: 	HTML file (867 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1816
+16:46:08	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1816
+16:46:08	Warning: 	File has moved from 127.0.0.1/newswave/?p=1816 to http://127.0.0.1/newswave/faucibus-mi-vulputate-semper-magna-sed-amet-sed-pretium/
+16:46:08	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1804
+16:46:09	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1804
+16:46:09	Warning: 	File has moved from 127.0.0.1/newswave/?p=1804 to http://127.0.0.1/newswave/lacus-mi-sed-vitae-feugiat-purus/
+16:46:09	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1103
+16:46:10	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1103
+16:46:10	Warning: 	File has moved from 127.0.0.1/newswave/?p=1103 to http://127.0.0.1/newswave/product/t-shirt/
+16:46:10	Warning: 	HTML file (161954 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/t-shirt/?add-to-cart=1080
+16:46:23	Warning: 	HTML file (162801 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/t-shirt/?add-to-cart=1071
+16:46:37	Warning: 	HTML file (163667 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/t-shirt/?add-to-cart=1070
+16:46:51	Warning: 	HTML file (221297 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/metus-eu-tellus-bibendum-placerat-volutpat/
+16:47:11	Warning: 	HTML file (222478 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/platea-vulputate-tellus-et-faucibus-ullamcorper-nunc-risus-mauris-montes/
+16:47:29	Warning: 	HTML file (222446 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/cras-imperdiet-faucibus-cursus-nisl-massa-dictum-neque-nunc-id-elit-ac/
+16:47:47	Warning: 	HTML file (185386 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/eu-lectus-turpis-eleifend-porta-nascetur-justo-elementum-quis/
+16:48:03	Warning: 	HTML file (221252 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/et-imperdiet-nunc-sed-dui-sed-aliquet/
+16:48:23	Warning: 	HTML file (219440 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/semper-malesuada-viverra-dictum-id-lorem-ut-ornare-elementum-aliquam/
+16:48:41	Warning: 	HTML file (219184 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/arcu-tincidunt-arcu-et-nullam-ullamcorper-in-scelerisque-a-id/
+16:48:59	Warning: 	HTML file (869 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1443
+16:49:00	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1443
+16:49:00	Warning: 	File has moved from 127.0.0.1/newswave/?p=1443 to http://127.0.0.1/newswave/est-dignissim-cras-tempus-suspendisse-eu-facilisis-vitae/
+16:49:00	Warning: 	HTML file (170751 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/shop-2/?add-to-cart=1103
+16:49:15	Warning: 	HTML file (164150 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/hoodie-with-logo/
+16:49:22	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/product/hoodie-with-logo/ (from 127.0.0.1/newswave/shop-2/)
+16:49:22	Warning: 	HTML file (169994 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/shop-2/?add-to-cart=1102
+16:49:22	Warning: 	HTML file (164150 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/hoodie-with-logo/
+16:49:51	Warning: 	HTML file (171116 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/shop-2/?add-to-cart=1072
+16:50:05	Warning: 	HTML file (173139 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/shop-2/?add-to-cart=1069
+16:50:17	Warning: 	HTML file (174214 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/shop-2/?add-to-cart=1073
+16:50:31	Warning: 	HTML file (174208 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/shop-2/?add-to-cart=1105
+16:50:45	Warning: 	HTML file (156510 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/shop-2/page/2/
+16:50:59	Warning: 	HTML file (162331 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/clothing/accessories/?add-to-cart=1106
+16:51:13	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1081
+16:51:14	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1081
+16:51:14	Warning: 	File has moved from 127.0.0.1/newswave/?p=1081 to http://127.0.0.1/newswave/product/beanie-with-logo/
+16:51:14	Warning: 	HTML file (171833 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/beanie-with-logo/?add-to-cart=1106
+16:51:29	Warning: 	HTML file (781 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1105
+16:51:30	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1105
+16:51:30	Warning: 	File has moved from 127.0.0.1/newswave/?p=1105 to http://127.0.0.1/newswave/product/belt/
+16:51:30	Warning: 	HTML file (817 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1802
+16:51:31	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1802
+16:51:31	Warning: 	File has moved from 127.0.0.1/newswave/?p=1802 to http://127.0.0.1/newswave/odio-sit-at-eu-vel-consectetur/
+16:51:31	Warning: 	HTML file (875 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=814
+16:51:32	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=814
+16:51:32	Warning: 	File has moved from 127.0.0.1/newswave/?p=814 to http://127.0.0.1/newswave/suspendisse-tristique-dui-lectus-at-ultricies-mi-rutrum-quis/
+16:51:32	Warning: 	HTML file (863 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=807
+16:51:33	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=807
+16:51:33	Warning: 	File has moved from 127.0.0.1/newswave/?p=807 to http://127.0.0.1/newswave/nunc-ullamcorper-nunc-quam-vel-venenatis-orci-vehicula/
+16:51:33	Warning: 	HTML file (909 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1603
+16:51:34	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1603
+16:51:34	Warning: 	File has moved from 127.0.0.1/newswave/?p=1603 to http://127.0.0.1/newswave/habitant-tellus-aliquam-nec-proin-tempor-ut-tristique-enim-quis-suscipit-dui/
+16:51:34	Warning: 	HTML file (887 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1601
+16:51:35	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1601
+16:51:35	Warning: 	File has moved from 127.0.0.1/newswave/?p=1601 to http://127.0.0.1/newswave/non-commodo-vestibulum-nisl-velit-justo-in-nec-dignissim-pharetra/
+16:51:35	Warning: 	HTML file (823 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1597
+16:51:36	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1597
+16:51:36	Warning: 	File has moved from 127.0.0.1/newswave/?p=1597 to http://127.0.0.1/newswave/elementum-mi-aliquam-congue-ut-id/
+16:51:36	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1614
+16:51:37	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1614
+16:51:37	Warning: 	File has moved from 127.0.0.1/newswave/?p=1614 to http://127.0.0.1/newswave/aliquam-cras-mollis-proin-placerat-ornare-porttitor/
+16:51:37	Warning: 	HTML file (845 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=135
+16:51:38	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=135
+16:51:38	Warning: 	File has moved from 127.0.0.1/newswave/?p=135 to http://127.0.0.1/newswave/purus-pellentesque-pellentesque-vulputate-aug/
+16:51:38	Warning: 	HTML file (835 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=153
+16:51:39	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=153
+16:51:39	Warning: 	File has moved from 127.0.0.1/newswave/?p=153 to http://127.0.0.1/newswave/sed-finibus-felis-morbi-sed-dui-vehicula/
+16:51:39	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1618
+16:51:40	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1618
+16:51:40	Warning: 	File has moved from 127.0.0.1/newswave/?p=1618 to http://127.0.0.1/newswave/diam-massa-ornare-eget-augue-interdum-quis/
+16:51:40	Warning: 	HTML file (879 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=834
+16:51:41	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=834
+16:51:41	Warning: 	File has moved from 127.0.0.1/newswave/?p=834 to http://127.0.0.1/newswave/curabitur-consequat-rhoncus-neque-non-auctor-ut-ac-felis-risus/
+16:51:41	Warning: 	HTML file (829 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=133
+16:51:42	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=133
+16:51:42	Warning: 	File has moved from 127.0.0.1/newswave/?p=133 to http://127.0.0.1/newswave/fringilla-dapibus-neque-sed-malesuada/
+16:51:42	Warning: 	HTML file (159054 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/clothing/tshirts/?add-to-cart=1103
+16:51:55	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1100
+16:51:56	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1100
+16:51:56	Warning: 	File has moved from 127.0.0.1/newswave/?p=1100 to http://127.0.0.1/newswave/product/v-neck-t-shirt/
+16:51:56	Warning: 	HTML file (180510 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/v-neck-t-shirt/?add-to-cart=1103
+16:52:09	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1080
+16:52:10	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1080
+16:52:10	Warning: 	File has moved from 127.0.0.1/newswave/?p=1080 to http://127.0.0.1/newswave/product/t-shirt-with-logo/
+16:52:10	Warning: 	HTML file (167215 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/t-shirt-with-logo/?add-to-cart=1071
+16:52:25	Warning: 	HTML file (781 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1071
+16:52:26	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1071
+16:52:26	Warning: 	File has moved from 127.0.0.1/newswave/?p=1071 to http://127.0.0.1/newswave/product/polo/
+16:52:26	Warning: 	HTML file (166872 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/polo/?add-to-cart=1080
+16:52:39	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1070
+16:52:41	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1070
+16:52:41	Warning: 	File has moved from 127.0.0.1/newswave/?p=1070 to http://127.0.0.1/newswave/product/long-sleeve-tee/
+16:52:41	Warning: 	HTML file (166745 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/long-sleeve-tee/?add-to-cart=1071
+16:52:53	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1812
+16:52:55	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1812
+16:52:55	Warning: 	File has moved from 127.0.0.1/newswave/?p=1812 to http://127.0.0.1/newswave/metus-eu-tellus-bibendum-placerat-volutpat/
+16:52:55	Warning: 	HTML file (901 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1584
+16:52:56	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1584
+16:52:56	Warning: 	File has moved from 127.0.0.1/newswave/?p=1584 to http://127.0.0.1/newswave/platea-vulputate-tellus-et-faucibus-ullamcorper-nunc-risus-mauris-montes/
+16:52:56	Warning: 	HTML file (897 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1586
+16:52:57	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1586
+16:52:57	Warning: 	File has moved from 127.0.0.1/newswave/?p=1586 to http://127.0.0.1/newswave/cras-imperdiet-faucibus-cursus-nisl-massa-dictum-neque-nunc-id-elit-ac/
+16:52:57	Warning: 	HTML file (879 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1580
+16:52:58	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1580
+16:52:58	Warning: 	File has moved from 127.0.0.1/newswave/?p=1580 to http://127.0.0.1/newswave/eu-lectus-turpis-eleifend-porta-nascetur-justo-elementum-quis/
+16:52:58	Warning: 	HTML file (875 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1582
+16:52:59	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1582
+16:52:59	Warning: 	File has moved from 127.0.0.1/newswave/?p=1582 to http://127.0.0.1/newswave/imperdiet-a-neque-porttitor-lobortis-magna-sed-in-vulputate/
+16:52:59	Warning: 	HTML file (843 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1578
+16:53:00	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1578
+16:53:00	Warning: 	File has moved from 127.0.0.1/newswave/?p=1578 to http://127.0.0.1/newswave/bibendum-duis-arcu-ut-tortor-ut-donec-neque/
+16:53:00	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1576
+16:53:01	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1576
+16:53:01	Warning: 	File has moved from 127.0.0.1/newswave/?p=1576 to http://127.0.0.1/newswave/et-imperdiet-nunc-sed-dui-sed-aliquet/
+16:53:01	Warning: 	HTML file (893 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1814
+16:53:02	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1814
+16:53:02	Warning: 	File has moved from 127.0.0.1/newswave/?p=1814 to http://127.0.0.1/newswave/semper-malesuada-viverra-dictum-id-lorem-ut-ornare-elementum-aliquam/
+16:53:02	Warning: 	HTML file (879 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1338
+16:53:03	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1338
+16:53:03	Warning: 	File has moved from 127.0.0.1/newswave/?p=1338 to http://127.0.0.1/newswave/arcu-tincidunt-arcu-et-nullam-ullamcorper-in-scelerisque-a-id/
+16:53:03	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1083
+16:53:04	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1083
+16:53:04	Warning: 	File has moved from 127.0.0.1/newswave/?p=1083 to http://127.0.0.1/newswave/product/wordpress-pennant/
+16:53:04	Warning: 	HTML file (150569 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/decor/
+16:53:17	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1102
+16:53:18	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1102
+16:53:18	Warning: 	File has moved from 127.0.0.1/newswave/?p=1102 to http://127.0.0.1/newswave/product/hoodie-with-logo/
+16:53:18	Warning: 	HTML file (153787 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/clothing/hoodies/
+16:53:31	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1069
+16:53:32	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1069
+16:53:32	Warning: 	File has moved from 127.0.0.1/newswave/?p=1069 to http://127.0.0.1/newswave/product/hoodie-with-zipper/
+16:53:32	Warning: 	HTML file (165041 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/hoodie-with-zipper/?add-to-cart=1102
+16:53:47	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1073
+16:53:48	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1073
+16:53:48	Warning: 	File has moved from 127.0.0.1/newswave/?p=1073 to http://127.0.0.1/newswave/product/single/
+16:53:48	Warning: 	HTML file (149663 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/music/
+16:54:01	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1082
+16:54:02	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1082
+16:54:02	Warning: 	File has moved from 127.0.0.1/newswave/?p=1082 to http://127.0.0.1/newswave/product/logo-collection/
+16:54:02	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1101
+16:54:03	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1101
+16:54:03	Warning: 	File has moved from 127.0.0.1/newswave/?p=1101 to http://127.0.0.1/newswave/product/hoodie/
+16:54:03	Warning: 	HTML file (181000 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/hoodie/?add-to-cart=1102
+16:54:19	Warning: 	HTML file (825 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1144
+16:54:20	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1144
+16:54:20	Warning: 	File has moved from 127.0.0.1/newswave/?p=1144 to http://127.0.0.1/newswave/phasellus-auctor-vestibulum-mauris/
+16:54:20	Warning: 	HTML file (867 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1599
+16:54:21	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1599
+16:54:21	Warning: 	File has moved from 127.0.0.1/newswave/?p=1599 to http://127.0.0.1/newswave/mollis-sit-enim-fermentum-cum-purus-quis-scelerisque-ac/
+16:54:21	Warning: 	HTML file (157308 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=3164
+16:54:33	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/?p=3164 (from 127.0.0.1/newswave/members/admin/)
+16:54:33	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/members/admin/activity/
+16:54:34	Warning: 	Moved Permanently for 127.0.0.1/newswave/members/admin/activity/
+16:54:34	Warning: 	File has moved from 127.0.0.1/newswave/members/admin/activity/ to http://127.0.0.1/newswave/members/admin/
+16:54:34	Warning: 	HTML file (843 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=131
+16:54:35	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=131
+16:54:35	Warning: 	File has moved from 127.0.0.1/newswave/?p=131 to http://127.0.0.1/newswave/sem-et-tempus-finibus-mauris-leo-dictum-quam/
+16:54:35	Warning: 	HTML file (929 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/card/?undo_item=aace49c7d80767cffec0e513ae886df0&_wpnonce=5f914e2890
+16:54:36	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=aace49c7d80767cffec0e513ae886df0&_wpnonce=5f914e2890
+16:54:36	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=aace49c7d80767cffec0e513ae886df0&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product-category/decor/
+16:54:36	Warning: 	HTML file (156432 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product-category/clothing/hoodies/?add-to-cart=1102
+16:54:49	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/?p=1072
+16:54:50	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=1072
+16:54:50	Warning: 	File has moved from 127.0.0.1/newswave/?p=1072 to http://127.0.0.1/newswave/product/album/
+16:54:50	Warning: 	HTML file (164181 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/album/?add-to-cart=1073
+16:55:03	Warning: 	HTML file (929 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/card/?undo_item=fc2c7c47b918d0c2d792a719dfb602ef&_wpnonce=5f914e2890
+16:55:04	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=fc2c7c47b918d0c2d792a719dfb602ef&_wpnonce=5f914e2890
+16:55:04	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=fc2c7c47b918d0c2d792a719dfb602ef&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product-category/music/
+16:55:04	Warning: 	HTML file (935 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/card/?undo_item=390e982518a50e280d8e2b535462ec1f&_wpnonce=5f914e2890
+16:55:05	Warning: 	Found for 127.0.0.1/newswave/card/?undo_item=390e982518a50e280d8e2b535462ec1f&_wpnonce=5f914e2890
+16:55:05	Warning: 	File has moved from 127.0.0.1/newswave/card/?undo_item=390e982518a50e280d8e2b535462ec1f&_wpnonce=5f914e2890 to http://127.0.0.1/newswave/product-category/clothing/
+16:55:05	Warning: 	HTML file (166532 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/product/t-shirt/?removed_item=1
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/grid_1/css/desktop.css (from 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/grid_1/css/gresponsive.css?ver=6.6.5)
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/youtube_video/css/desktop.css (from 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/youtube_video/css/gresponsive.css?ver=6.6.5)
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/youtube_playlist/css/desktop.css (from 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/youtube_playlist/css/gresponsive.css?ver=6.6.5)
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/woocommerce/assets/fonts/star.eot
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/woocommerce/assets/fonts/star.woff
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/wp-content/themes/wavepress/images/play-icon.png (from 127.0.0.1/newswave/wp-content/themes/wavepress/style.css?ver=6.6.5)
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/wp-content/themes/wavepress/css/images/loader-128x/preloader_3.gif (from 127.0.0.1/newswave/wp-content/themes/wavepress/css/styles.css?ver=6.6.5)
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/wp-content/themes/wavepress/css/owl_carousel/owl.video.play.png (from 127.0.0.1/newswave/wp-content/themes/wavepress/css/owl_carousel/owl.carousel.min.css?ver=6.6.5)
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/themes/wavepress/css/font-awesome/6.5.1/webfonts/fa-brands-400.woff2
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/themes/wavepress/css/font-awesome/6.5.1/webfonts/fa-brands-400.ttf
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/themes/wavepress/css/font-awesome/6.5.1/webfonts/fa-regular-400.woff2
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/themes/wavepress/css/font-awesome/6.5.1/webfonts/fa-regular-400.ttf
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/themes/wavepress/css/font-awesome/6.5.1/webfonts/fa-solid-900.woff2
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/themes/wavepress/css/font-awesome/6.5.1/webfonts/fa-solid-900.ttf
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/themes/wavepress/css/font-awesome/6.5.1/webfonts/fa-v4compatibility.woff2
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/themes/wavepress/css/font-awesome/6.5.1/webfonts/fa-v4compatibility.ttf
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.47.0
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.47.0
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.47.0
+16:55:19	Warning: 	File not parsed, looks like binary: 127.0.0.1/newswave/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.47.0
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/wp-content/themes/wavepress/widgets/Video_grid/js/frontend.js?ver=6.6.5 (from 127.0.0.1/newswave/)
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/popper.js (from 127.0.0.1/newswave/wp-content/themes/wavepress/js/bootstrap.min.js?ver=6.6.5)
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/css/themes/pill.css?1.1 (from 127.0.0.1/newswave/wp-content/themes/wavepress/js/wavepress_js.js?ver=6.6.5)
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/css/themes/link.css?1.1 (from 127.0.0.1/newswave/wp-content/themes/wavepress/js/wavepress_js.js?ver=6.6.5)
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/css/themes/image.css?1.1 (from 127.0.0.1/newswave/wp-content/themes/wavepress/js/wavepress_js.js?ver=6.6.5)
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/css/themes/tab.css?1.1 (from 127.0.0.1/newswave/wp-content/themes/wavepress/js/wavepress_js.js?ver=6.6.5)
+16:55:19	Warning: 	Retry after error 500 () at link 127.0.0.1/newswave/product/belt/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:55:19	Warning: 	Retry after error 500 (Internal Server Error) at link 127.0.0.1/newswave/tag/fashion/ (from 127.0.0.1/newswave/)
+16:55:19	Warning: 	HTML file (150980 bytes) retransferred due to lack of cache: 127.0.0.1/newswave/tag/fashion/
+16:55:19	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/$&/ (from 127.0.0.1/newswave/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1)
+16:55:20	Error: 	"Not Found" (404) at link 127.0.0.1/newswave/OPR/ (from 127.0.0.1/newswave/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.3)
+16:55:20	Error: 	"" (500) after 2 retries at link 127.0.0.1/newswave/product/belt/<br /><b>Deprecated</b>:  ltrim(): Passing null to parameter (from 127.0.0.1/newswave/)
+16:55:33	Warning: 	Moved Permanently for 127.0.0.1/newswave/?p=3614
+16:55:33	Warning: 	File has moved from 127.0.0.1/newswave/?p=3614 to http://127.0.0.1/newswave/elementor-3614/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 5 minutes 33 seconds : 912 links scanned, 901 files written (83481399 bytes overall) [95309728 bytes received at 24233 bytes/sec], 82917 bytes transferred using HTTP compression in 3 files, ratio 38%, 1.7 requests per connection
+(78 errors, 714 warnings, 0 messages)
