@@ -1,0 +1,2 @@
+2026-04-17T15:12:02+00:00 CRITICAL Cannot declare class socialLinks, because the name is already in use in /opt/lampp/htdocs/newswave/wp-content/plugins/o_wavepress-widgets/widgets/social_links.php on line 2
+

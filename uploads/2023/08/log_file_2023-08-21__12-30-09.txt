@@ -1,0 +1,212 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = -1
+Files info:
+Site URL = http://127.0.0.1/newswave
+Data file = C:\xampp2\htdocs\newswave/wp-content/uploads/2023/08/demo-content-import-file_2023-08-21__12-30-09.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type bp-members-invitation
+[WARNING] Failed to import bp-email-type core-user-activation
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted-by-admin
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected-by-admin
+[WARNING] Failed to import bp-email-type members-membership-request
+[WARNING] Failed to import bp-email-type members-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type bp-members-invitation
+[WARNING] Failed to import bp-email-type core-user-activation
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted-by-admin
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected-by-admin
+[WARNING] Failed to import bp-email-type members-membership-request
+[WARNING] Failed to import bp-email-type members-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type bp-members-invitation
+[WARNING] Failed to import bp-email-type core-user-activation
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted-by-admin
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected-by-admin
+[WARNING] Failed to import bp-email-type members-membership-request
+[WARNING] Failed to import bp-email-type members-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type bp-members-invitation
+[WARNING] Failed to import bp-email-type core-user-activation
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted-by-admin
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected-by-admin
+[WARNING] Failed to import bp-email-type members-membership-request
+[WARNING] Failed to import bp-email-type members-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type bp-members-invitation
+[WARNING] Failed to import bp-email-type core-user-activation
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted-by-admin
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected-by-admin
+[WARNING] Failed to import bp-email-type members-membership-request
+[WARNING] Failed to import bp-email-type members-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+
+
+------
+New AJAX call!
+[WARNING] Failed to import bp-email-type activity-at-message
+[WARNING] Failed to import bp-email-type activity-comment
+[WARNING] Failed to import bp-email-type activity-comment-author
+[WARNING] Failed to import bp-email-type bp-members-invitation
+[WARNING] Failed to import bp-email-type core-user-activation
+[WARNING] Failed to import bp-email-type core-user-registration
+[WARNING] Failed to import bp-email-type friends-request
+[WARNING] Failed to import bp-email-type friends-request-accepted
+[WARNING] Failed to import bp-email-type groups-at-message
+[WARNING] Failed to import bp-email-type groups-details-updated
+[WARNING] Failed to import bp-email-type groups-invitation
+[WARNING] Failed to import bp-email-type groups-member-promoted
+[WARNING] Failed to import bp-email-type groups-membership-request
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted
+[WARNING] Failed to import bp-email-type groups-membership-request-accepted-by-admin
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected
+[WARNING] Failed to import bp-email-type groups-membership-request-rejected-by-admin
+[WARNING] Failed to import bp-email-type members-membership-request
+[WARNING] Failed to import bp-email-type members-membership-request-rejected
+[WARNING] Failed to import bp-email-type messages-unread
+[WARNING] Failed to import bp-email-type settings-verify-email-change
+[WARNING] Failed to import "[{{{site.name}}}] Welcome!": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your updates": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} replied to one of your comments": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in a status update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{poster.name}} mentioned you in an update": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Activate your account": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New friendship request from {{initiator.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] {{friend.name}} accepted your friendship request": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Group details updated": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have an invitation to the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] You have been promoted in the group: "{{group.name}}"": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group: {{group.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] New message from {{sender.name}}": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Verify your new email address": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" accepted": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" rejected": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" accepted": Invalid post type bp-email
+[WARNING] Failed to import "[{{{site.name}}}] Membership request for group "{{group.name}}" rejected": Invalid post type bp-email
+[WARNING] Failed to import "{{inviter.name}} has invited you to join {{site.name}}": Invalid post type bp-email
+[WARNING] Failed to import "{{requesting-user.user_login}} would like to join {{site.name}}": Invalid post type bp-email
+[WARNING] Failed to import "Your request to join {{site.name}} has been declined": Invalid post type bp-email
+
+
+---ocdi/after_import---
+<div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Query was empty]<br /><code>
+
+</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;wp_options&#039; already exists]<br /><code>CREATE TABLE `wp_options` (
+  `option_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `option_name` varchar(191) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT &#039;&#039;,
+  `option_value` longtext COLLATE utf8mb4_unicode_520_ci NOT NULL,
+  `autoload` varchar(20) COLLATE utf8mb4_unicode_520_ci NOT NULL DEFAULT &#039;yes&#039;,
+  PRIMARY KEY (`option_id`),
+  UNIQUE KEY `option_name` (`option_name`),
+  KEY `autoload` (`autoload`)
+) ENGINE=InnoDB AUTO_INCREMENT=39729 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+
+
+</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Duplicate entry &#039;1&#039; for key &#039;PRIMARY&#039;]<br /><code>INSERT INTO wp_options VALUES
+( &#039;1&#039;, &#039;siteurl&#039;, &#039;http://127.0.0.1/newspaper_test13&#039;, &#039;yes&#039;),
+( &#039;2&#039;, &#039;home&#039;, &#039;http://127.0.0.1/newspaper_test13&#039;, &#039;yes&#039;),
+( &#039;27&#039;, &#039;moderation_notify&#039;, &#039;1&#039;, &#039;yes&#039;),
+( &#039;28&#039;, &#039;permalink_structure&#039;, &#039;/%year%/%monthnum%/%day%/%postname%/&#039;, &#039;yes&#039;),
+( &#039;29&#039;, &#039;rewrite_rules&#039;, &#039;a:173:{s:24:\&quot;^wc-auth/v([1]{1})/(.*)?\&quot;;s:63:\&quot;index.php?wc-auth-version=$matches[1]&amp;wc-auth-route=$matches[2]\&quot;;s:22:\&quot;^wc-api/v([1-3]{1})/?$\&quot;;s:51:\&quot;index.php?wc-api-version=$matches[1]&amp;wc-api-route=/\&quot;;s:24:\&quot;^wc-api/v([1-3]{1})(.*)?\&quot;;s:61:\&quot;index.php?wc-api-version=$matches[1]&amp;wc-api-route=$matches[2]\&quot;;s:9:\&quot;shop-2/?$\&quot;;s:27:\&quot;index.php?post_type=product\&quot;;s:39:\&quot;shop-2/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:44:\&quot;index.php?post_type=product&amp;feed=$matches[1]\&quot;;s:34:\&quot;shop-2/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:44:\&quot;index.php?post_type=product&amp;feed=$matches[1]\&quot;;s:26:\&quot;shop-2/page/([0-9]{1,})/?$\&quot;;s:45:\&quot;index.php?post_type=product&amp;paged=$matches[1]\&quot;;s:11:\&quot;^wp-json/?$\&quot;;s:22:\&quot;index.php?rest_route=/\&quot;;s:14:\&quot;^wp-json/(.*)?\&quot;;s:33:\&quot;index.php?rest_route=/$matches[1]\&quot;;s:21:\&quot;^index.php/wp-json/?$\&quot;;s:22:\&quot;index.php?rest_route=/\&quot;;s:24:\&quot;^index.php/wp-json/(.*)?\&quot;;s:33:\&quot;index.php?rest_route=/$matches[1]\&quot;;s:17:\&quot;^wp-sitemap\\.xml$\&quot;;s:23:\&quot;index.php?sitemap=index\&quot;;s:17:\&quot;^wp-sitemap\\.xsl$\&quot;;s:36:\&quot;index.php?sitemap-stylesheet=sitemap\&quot;;s:23:\&quot;^wp-sitemap-index\\.xsl$\&quot;;s:34:\&quot;index.php?sitemap-stylesheet=index\&quot;;s:48:\&quot;^wp-sitemap-([a-z]+?)-([a-z\\d_-]+?)-(\\d+?)\\.xml$\&quot;;s:75:\&quot;index.php?sitemap=$matches[1]&amp;sitemap-subtype=$matches[2]&amp;paged=$matches[3]\&quot;;s:34:\&quot;^wp-sitemap-([a-z]+?)-(\\d+?)\\.xml$\&quot;;s:47:\&quot;index.php?sitemap=$matches[1]&amp;paged=$matches[2]\&quot;;s:46:\&quot;category/(.+?)/paged-[0-9]{1,}/?([0-9]{1,})/?$\&quot;;s:55:\&quot;index.php?category_name=$matches[1]&amp;flpaged=$matches[2]\&quot;;s:43:\&quot;tag/([^/]+)/paged-[0-9]{1,}/?([0-9]{1,})/?$\&quot;;s:45:\&quot;index.php?tag=$matches[1]&amp;flpaged=$matches[2]\&quot;;s:42:\&quot;([0-9]{4})/paged-[0-9]{1,}/?([0-9]{1,})/?$\&quot;;s:46:\&quot;index.php?year=$matches[1]&amp;flpaged=$matches[2]\&quot;;s:55:\&quot;([0-9]{4})/([0-9]{1,2})/paged-[0-9]{1,}/?([0-9]{1,})/?$\&quot;;s:67:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;flpaged=$matches[3]\&quot;;s:68:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/paged-[0-9]{1,}/?([0-9]{1,})/?$\&quot;;s:83:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;flpaged=$matches[4]\&quot;;s:46:\&quot;author/([^/]+)/paged-[0-9]{1,}/?([0-9]{1,})/?$\&quot;;s:53:\&quot;index.php?author_name=$matches[1]&amp;flpaged=$matches[2]\&quot;;s:40:\&quot;([0-9]+)/paged-[0-9]{1,}/?([0-9]{1,})/?$\&quot;;s:43:\&quot;index.php?p=$matches[1]&amp;flpaged=$matches[2]\&quot;;s:39:\&quot;(.?.+?)/paged-[0-9]{1,}/?([0-9]{1,})/?$\&quot;;s:50:\&quot;index.php?pagename=$matches[1]&amp;flpaged=$matches[2]\&quot;;s:37:\&quot;(.+?)/paged-[0-9]{1,}/?([0-9]{1,})/?$\&quot;;s:46:\&quot;index.php?name=$matches[1]&amp;flpaged=$matches[2]\&quot;;s:26:\&quot;paged-[0-9]{1,}/([0-9]*)/?\&quot;;s:41:\&quot;index.php?page_id=917&amp;flpaged=$matches[1]\&quot;;s:31:\&quot;paged-[0-9]{1,}/?([0-9]{1,})/?$\&quot;;s:30:\&quot;index.php?&amp;flpaged=$matches[1]\&quot;;s:47:\&quot;category/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:52:\&quot;index.php?category_name=$matches[1]&amp;feed=$matches[2]\&quot;;s:42:\&quot;category/(.+?)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:52:\&quot;index.php?category_name=$matches[1]&amp;feed=$matches[2]\&quot;;s:23:\&quot;category/(.+?)/embed/?$\&quot;;s:46:\&quot;index.php?category_name=$matches[1]&amp;embed=true\&quot;;s:35:\&quot;category/(.+?)/page/?([0-9]{1,})/?$\&quot;;s:53:\&quot;index.php?category_name=$matches[1]&amp;paged=$matches[2]\&quot;;s:32:\&quot;category/(.+?)/wc-api(/(.*))?/?$\&quot;;s:54:\&quot;index.php?category_name=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:17:\&quot;category/(.+?)/?$\&quot;;s:35:\&quot;index.php?category_name=$matches[1]\&quot;;s:44:\&quot;tag/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:42:\&quot;index.php?tag=$matches[1]&amp;feed=$matches[2]\&quot;;s:39:\&quot;tag/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:42:\&quot;index.php?tag=$matches[1]&amp;feed=$matches[2]\&quot;;s:20:\&quot;tag/([^/]+)/embed/?$\&quot;;s:36:\&quot;index.php?tag=$matches[1]&amp;embed=true\&quot;;s:32:\&quot;tag/([^/]+)/page/?([0-9]{1,})/?$\&quot;;s:43:\&quot;index.php?tag=$matches[1]&amp;paged=$matches[2]\&quot;;s:29:\&quot;tag/([^/]+)/wc-api(/(.*))?/?$\&quot;;s:44:\&quot;index.php?tag=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:14:\&quot;tag/([^/]+)/?$\&quot;;s:25:\&quot;index.php?tag=$matches[1]\&quot;;s:45:\&quot;type/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:50:\&quot;index.php?post_format=$matches[1]&amp;feed=$matches[2]\&quot;;s:40:\&quot;type/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:50:\&quot;index.php?post_format=$matches[1]&amp;feed=$matches[2]\&quot;;s:21:\&quot;type/([^/]+)/embed/?$\&quot;;s:44:\&quot;index.php?post_format=$matches[1]&amp;embed=true\&quot;;s:33:\&quot;type/([^/]+)/page/?([0-9]{1,})/?$\&quot;;s:51:\&quot;index.php?post_format=$matches[1]&amp;paged=$matches[2]\&quot;;s:15:\&quot;type/([^/]+)/?$\&quot;;s:33:\&quot;index.php?post_format=$matches[1]\&quot;;s:55:\&quot;product-category/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:50:\&quot;index.php?product_cat=$matches[1]&amp;feed=$matches[2]\&quot;;s:50:\&quot;product-category/(.+?)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:50:\&quot;index.php?product_cat=$matches[1]&amp;feed=$matches[2]\&quot;;s:31:\&quot;product-category/(.+?)/embed/?$\&quot;;s:44:\&quot;index.php?product_cat=$matches[1]&amp;embed=true\&quot;;s:43:\&quot;product-category/(.+?)/page/?([0-9]{1,})/?$\&quot;;s:51:\&quot;index.php?product_cat=$matches[1]&amp;paged=$matches[2]\&quot;;s:25:\&quot;product-category/(.+?)/?$\&quot;;s:33:\&quot;index.php?product_cat=$matches[1]\&quot;;s:52:\&quot;product-tag/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:50:\&quot;index.php?product_tag=$matches[1]&amp;feed=$matches[2]\&quot;;s:47:\&quot;product-tag/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:50:\&quot;index.php?product_tag=$matches[1]&amp;feed=$matches[2]\&quot;;s:28:\&quot;product-tag/([^/]+)/embed/?$\&quot;;s:44:\&quot;index.php?product_tag=$matches[1]&amp;embed=true\&quot;;s:40:\&quot;product-tag/([^/]+)/page/?([0-9]{1,})/?$\&quot;;s:51:\&quot;index.php?product_tag=$matches[1]&amp;paged=$matches[2]\&quot;;s:22:\&quot;product-tag/([^/]+)/?$\&quot;;s:33:\&quot;index.php?product_tag=$matches[1]\&quot;;s:35:\&quot;product/[^/]+/attachment/([^/]+)/?$\&quot;;s:32:\&quot;index.php?attachment=$matches[1]\&quot;;s:45:\&quot;product/[^/]+/attachment/([^/]+)/trackback/?$\&quot;;s:37:\&quot;index.php?attachment=$matches[1]&amp;tb=1\&quot;;s:65:\&quot;product/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:49:\&quot;index.php?attachment=$matches[1]&amp;feed=$matches[2]\&quot;;s:60:\&quot;product/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:49:\&quot;index.php?attachment=$matches[1]&amp;feed=$matches[2]\&quot;;s:60:\&quot;product/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$\&quot;;s:50:\&quot;index.php?attachment=$matches[1]&amp;cpage=$matches[2]\&quot;;s:41:\&quot;product/[^/]+/attachment/([^/]+)/embed/?$\&quot;;s:43:\&quot;index.php?attachment=$matches[1]&amp;embed=true\&quot;;s:24:\&quot;product/([^/]+)/embed/?$\&quot;;s:40:\&quot;index.php?product=$matches[1]&amp;embed=true\&quot;;s:28:\&quot;product/([^/]+)/trackback/?$\&quot;;s:34:\&quot;index.php?product=$matches[1]&amp;tb=1\&quot;;s:48:\&quot;product/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:46:\&quot;index.php?product=$matches[1]&amp;feed=$matches[2]\&quot;;s:43:\&quot;product/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:46:\&quot;index.php?product=$matches[1]&amp;feed=$matches[2]\&quot;;s:36:\&quot;product/([^/]+)/page/?([0-9]{1,})/?$\&quot;;s:47:\&quot;index.php?product=$matches[1]&amp;paged=$matches[2]\&quot;;s:43:\&quot;product/([^/]+)/comment-page-([0-9]{1,})/?$\&quot;;s:47:\&quot;index.php?product=$matches[1]&amp;cpage=$matches[2]\&quot;;s:33:\&quot;product/([^/]+)/wc-api(/(.*))?/?$\&quot;;s:48:\&quot;index.php?product=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:39:\&quot;product/[^/]+/([^/]+)/wc-api(/(.*))?/?$\&quot;;s:51:\&quot;index.php?attachment=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:50:\&quot;product/[^/]+/attachment/([^/]+)/wc-api(/(.*))?/?$\&quot;;s:51:\&quot;index.php?attachment=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:32:\&quot;product/([^/]+)(?:/([0-9]+))?/?$\&quot;;s:46:\&quot;index.php?product=$matches[1]&amp;page=$matches[2]\&quot;;s:24:\&quot;product/[^/]+/([^/]+)/?$\&quot;;s:32:\&quot;index.php?attachment=$matches[1]\&quot;;s:34:\&quot;product/[^/]+/([^/]+)/trackback/?$\&quot;;s:37:\&quot;index.php?attachment=$matches[1]&amp;tb=1\&quot;;s:54:\&quot;product/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:49:\&quot;index.php?attachment=$matches[1]&amp;feed=$matches[2]\&quot;;s:49:\&quot;product/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:49:\&quot;index.php?attachment=$matches[1]&amp;feed=$matches[2]\&quot;;s:49:\&quot;product/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$\&quot;;s:50:\&quot;index.php?attachment=$matches[1]&amp;cpage=$matches[2]\&quot;;s:30:\&quot;product/[^/]+/([^/]+)/embed/?$\&quot;;s:43:\&quot;index.php?attachment=$matches[1]&amp;embed=true\&quot;;s:48:\&quot;.*wp-(atom|rdf|rss|rss2|feed|commentsrss2)\\.php$\&quot;;s:18:\&quot;index.php?feed=old\&quot;;s:20:\&quot;.*wp-app\\.php(/.*)?$\&quot;;s:19:\&quot;index.php?error=403\&quot;;s:18:\&quot;.*wp-register.php$\&quot;;s:23:\&quot;index.php?register=true\&quot;;s:32:\&quot;feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:27:\&quot;index.php?&amp;feed=$matches[1]\&quot;;s:27:\&quot;(feed|rdf|rss|rss2|atom)/?$\&quot;;s:27:\&quot;index.php?&amp;feed=$matches[1]\&quot;;s:8:\&quot;embed/?$\&quot;;s:21:\&quot;index.php?&amp;embed=true\&quot;;s:20:\&quot;page/?([0-9]{1,})/?$\&quot;;s:28:\&quot;index.php?&amp;paged=$matches[1]\&quot;;s:27:\&quot;comment-page-([0-9]{1,})/?$\&quot;;s:40:\&quot;index.php?&amp;page_id=917&amp;cpage=$matches[1]\&quot;;s:17:\&quot;wc-api(/(.*))?/?$\&quot;;s:29:\&quot;index.php?&amp;wc-api=$matches[2]\&quot;;s:41:\&quot;comments/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:42:\&quot;index.php?&amp;feed=$matches[1]&amp;withcomments=1\&quot;;s:36:\&quot;comments/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:42:\&quot;index.php?&amp;feed=$matches[1]&amp;withcomments=1\&quot;;s:17:\&quot;comments/embed/?$\&quot;;s:21:\&quot;index.php?&amp;embed=true\&quot;;s:26:\&quot;comments/wc-api(/(.*))?/?$\&quot;;s:29:\&quot;index.php?&amp;wc-api=$matches[2]\&quot;;s:44:\&quot;search/(.+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:40:\&quot;index.php?s=$matches[1]&amp;feed=$matches[2]\&quot;;s:39:\&quot;search/(.+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:40:\&quot;index.php?s=$matches[1]&amp;feed=$matches[2]\&quot;;s:20:\&quot;search/(.+)/embed/?$\&quot;;s:34:\&quot;index.php?s=$matches[1]&amp;embed=true\&quot;;s:32:\&quot;search/(.+)/page/?([0-9]{1,})/?$\&quot;;s:41:\&quot;index.php?s=$matches[1]&amp;paged=$matches[2]\&quot;;s:29:\&quot;search/(.+)/wc-api(/(.*))?/?$\&quot;;s:42:\&quot;index.php?s=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:14:\&quot;search/(.+)/?$\&quot;;s:23:\&quot;index.php?s=$matches[1]\&quot;;s:47:\&quot;author/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:50:\&quot;index.php?author_name=$matches[1]&amp;feed=$matches[2]\&quot;;s:42:\&quot;author/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:50:\&quot;index.php?author_name=$matches[1]&amp;feed=$matches[2]\&quot;;s:23:\&quot;author/([^/]+)/embed/?$\&quot;;s:44:\&quot;index.php?author_name=$matches[1]&amp;embed=true\&quot;;s:35:\&quot;author/([^/]+)/page/?([0-9]{1,})/?$\&quot;;s:51:\&quot;index.php?author_name=$matches[1]&amp;paged=$matches[2]\&quot;;s:32:\&quot;author/([^/]+)/wc-api(/(.*))?/?$\&quot;;s:52:\&quot;index.php?author_name=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:17:\&quot;author/([^/]+)/?$\&quot;;s:33:\&quot;index.php?author_name=$matches[1]\&quot;;s:69:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:80:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;feed=$matches[4]\&quot;;s:64:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:80:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;feed=$matches[4]\&quot;;s:45:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/embed/?$\&quot;;s:74:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;embed=true\&quot;;s:57:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/page/?([0-9]{1,})/?$\&quot;;s:81:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;paged=$matches[4]\&quot;;s:54:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/wc-api(/(.*))?/?$\&quot;;s:82:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;wc-api=$matches[5]\&quot;;s:39:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/?$\&quot;;s:63:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]\&quot;;s:56:\&quot;([0-9]{4})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:64:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;feed=$matches[3]\&quot;;s:51:\&quot;([0-9]{4})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:64:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;feed=$matches[3]\&quot;;s:32:\&quot;([0-9]{4})/([0-9]{1,2})/embed/?$\&quot;;s:58:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;embed=true\&quot;;s:44:\&quot;([0-9]{4})/([0-9]{1,2})/page/?([0-9]{1,})/?$\&quot;;s:65:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;paged=$matches[3]\&quot;;s:41:\&quot;([0-9]{4})/([0-9]{1,2})/wc-api(/(.*))?/?$\&quot;;s:66:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;wc-api=$matches[4]\&quot;;s:26:\&quot;([0-9]{4})/([0-9]{1,2})/?$\&quot;;s:47:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]\&quot;;s:43:\&quot;([0-9]{4})/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:43:\&quot;index.php?year=$matches[1]&amp;feed=$matches[2]\&quot;;s:38:\&quot;([0-9]{4})/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:43:\&quot;index.php?year=$matches[1]&amp;feed=$matches[2]\&quot;;s:19:\&quot;([0-9]{4})/embed/?$\&quot;;s:37:\&quot;index.php?year=$matches[1]&amp;embed=true\&quot;;s:31:\&quot;([0-9]{4})/page/?([0-9]{1,})/?$\&quot;;s:44:\&quot;index.php?year=$matches[1]&amp;paged=$matches[2]\&quot;;s:28:\&quot;([0-9]{4})/wc-api(/(.*))?/?$\&quot;;s:45:\&quot;index.php?year=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:13:\&quot;([0-9]{4})/?$\&quot;;s:26:\&quot;index.php?year=$matches[1]\&quot;;s:58:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/?$\&quot;;s:32:\&quot;index.php?attachment=$matches[1]\&quot;;s:68:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/trackback/?$\&quot;;s:37:\&quot;index.php?attachment=$matches[1]&amp;tb=1\&quot;;s:88:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:49:\&quot;index.php?attachment=$matches[1]&amp;feed=$matches[2]\&quot;;s:83:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:49:\&quot;index.php?attachment=$matches[1]&amp;feed=$matches[2]\&quot;;s:83:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$\&quot;;s:50:\&quot;index.php?attachment=$matches[1]&amp;cpage=$matches[2]\&quot;;s:64:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/embed/?$\&quot;;s:43:\&quot;index.php?attachment=$matches[1]&amp;embed=true\&quot;;s:53:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/embed/?$\&quot;;s:91:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;name=$matches[4]&amp;embed=true\&quot;;s:57:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/trackback/?$\&quot;;s:85:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;name=$matches[4]&amp;tb=1\&quot;;s:77:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:97:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;name=$matches[4]&amp;feed=$matches[5]\&quot;;s:72:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:97:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;name=$matches[4]&amp;feed=$matches[5]\&quot;;s:65:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/page/?([0-9]{1,})/?$\&quot;;s:98:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;name=$matches[4]&amp;paged=$matches[5]\&quot;;s:72:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/comment-page-([0-9]{1,})/?$\&quot;;s:98:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;name=$matches[4]&amp;cpage=$matches[5]\&quot;;s:62:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)/wc-api(/(.*))?/?$\&quot;;s:99:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;name=$matches[4]&amp;wc-api=$matches[6]\&quot;;s:62:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/wc-api(/(.*))?/?$\&quot;;s:51:\&quot;index.php?attachment=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:73:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/attachment/([^/]+)/wc-api(/(.*))?/?$\&quot;;s:51:\&quot;index.php?attachment=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:61:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/([^/]+)(?:/([0-9]+))?/?$\&quot;;s:97:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;name=$matches[4]&amp;page=$matches[5]\&quot;;s:47:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/?$\&quot;;s:32:\&quot;index.php?attachment=$matches[1]\&quot;;s:57:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/trackback/?$\&quot;;s:37:\&quot;index.php?attachment=$matches[1]&amp;tb=1\&quot;;s:77:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:49:\&quot;index.php?attachment=$matches[1]&amp;feed=$matches[2]\&quot;;s:72:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:49:\&quot;index.php?attachment=$matches[1]&amp;feed=$matches[2]\&quot;;s:72:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$\&quot;;s:50:\&quot;index.php?attachment=$matches[1]&amp;cpage=$matches[2]\&quot;;s:53:\&quot;[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}/[^/]+/([^/]+)/embed/?$\&quot;;s:43:\&quot;index.php?attachment=$matches[1]&amp;embed=true\&quot;;s:64:\&quot;([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/comment-page-([0-9]{1,})/?$\&quot;;s:81:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;day=$matches[3]&amp;cpage=$matches[4]\&quot;;s:51:\&quot;([0-9]{4})/([0-9]{1,2})/comment-page-([0-9]{1,})/?$\&quot;;s:65:\&quot;index.php?year=$matches[1]&amp;monthnum=$matches[2]&amp;cpage=$matches[3]\&quot;;s:38:\&quot;([0-9]{4})/comment-page-([0-9]{1,})/?$\&quot;;s:44:\&quot;index.php?year=$matches[1]&amp;cpage=$matches[2]\&quot;;s:27:\&quot;.?.+?/attachment/([^/]+)/?$\&quot;;s:32:\&quot;index.php?attachment=$matches[1]\&quot;;s:37:\&quot;.?.+?/attachment/([^/]+)/trackback/?$\&quot;;s:37:\&quot;index.php?attachment=$matches[1]&amp;tb=1\&quot;;s:57:\&quot;.?.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:49:\&quot;index.php?attachment=$matches[1]&amp;feed=$matches[2]\&quot;;s:52:\&quot;.?.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:49:\&quot;index.php?attachment=$matches[1]&amp;feed=$matches[2]\&quot;;s:52:\&quot;.?.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$\&quot;;s:50:\&quot;index.php?attachment=$matches[1]&amp;cpage=$matches[2]\&quot;;s:33:\&quot;.?.+?/attachment/([^/]+)/embed/?$\&quot;;s:43:\&quot;index.php?attachment=$matches[1]&amp;embed=true\&quot;;s:16:\&quot;(.?.+?)/embed/?$\&quot;;s:41:\&quot;index.php?pagename=$matches[1]&amp;embed=true\&quot;;s:20:\&quot;(.?.+?)/trackback/?$\&quot;;s:35:\&quot;index.php?pagename=$matches[1]&amp;tb=1\&quot;;s:40:\&quot;(.?.+?)/feed/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:47:\&quot;index.php?pagename=$matches[1]&amp;feed=$matches[2]\&quot;;s:35:\&quot;(.?.+?)/(feed|rdf|rss|rss2|atom)/?$\&quot;;s:47:\&quot;index.php?pagename=$matches[1]&amp;feed=$matches[2]\&quot;;s:28:\&quot;(.?.+?)/page/?([0-9]{1,})/?$\&quot;;s:48:\&quot;index.php?pagename=$matches[1]&amp;paged=$matches[2]\&quot;;s:35:\&quot;(.?.+?)/comment-page-([0-9]{1,})/?$\&quot;;s:48:\&quot;index.php?pagename=$matches[1]&amp;cpage=$matches[2]\&quot;;s:25:\&quot;(.?.+?)/wc-api(/(.*))?/?$\&quot;;s:49:\&quot;index.php?pagename=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:28:\&quot;(.?.+?)/order-pay(/(.*))?/?$\&quot;;s:52:\&quot;index.php?pagename=$matches[1]&amp;order-pay=$matches[3]\&quot;;s:33:\&quot;(.?.+?)/order-received(/(.*))?/?$\&quot;;s:57:\&quot;index.php?pagename=$matches[1]&amp;order-received=$matches[3]\&quot;;s:25:\&quot;(.?.+?)/orders(/(.*))?/?$\&quot;;s:49:\&quot;index.php?pagename=$matches[1]&amp;orders=$matches[3]\&quot;;s:29:\&quot;(.?.+?)/view-order(/(.*))?/?$\&quot;;s:53:\&quot;index.php?pagename=$matches[1]&amp;view-order=$matches[3]\&quot;;s:28:\&quot;(.?.+?)/downloads(/(.*))?/?$\&quot;;s:52:\&quot;index.php?pagename=$matches[1]&amp;downloads=$matches[3]\&quot;;s:31:\&quot;(.?.+?)/edit-account(/(.*))?/?$\&quot;;s:55:\&quot;index.php?pagename=$matches[1]&amp;edit-account=$matches[3]\&quot;;s:31:\&quot;(.?.+?)/edit-address(/(.*))?/?$\&quot;;s:55:\&quot;index.php?pagename=$matches[1]&amp;edit-address=$matches[3]\&quot;;s:34:\&quot;(.?.+?)/payment-methods(/(.*))?/?$\&quot;;s:58:\&quot;index.php?pagename=$matches[1]&amp;payment-methods=$matches[3]\&quot;;s:32:\&quot;(.?.+?)/lost-password(/(.*))?/?$\&quot;;s:56:\&quot;index.php?pagename=$matches[1]&amp;lost-password=$matches[3]\&quot;;s:34:\&quot;(.?.+?)/customer-logout(/(.*))?/?$\&quot;;s:58:\&quot;index.php?pagename=$matches[1]&amp;customer-logout=$matches[3]\&quot;;s:37:\&quot;(.?.+?)/add-payment-method(/(.*))?/?$\&quot;;s:61:\&quot;index.php?pagename=$matches[1]&amp;add-payment-method=$matches[3]\&quot;;s:40:\&quot;(.?.+?)/delete-payment-method(/(.*))?/?$\&quot;;s:64:\&quot;index.php?pagename=$matches[1]&amp;delete-payment-method=$matches[3]\&quot;;s:45:\&quot;(.?.+?)/set-default-payment-method(/(.*))?/?$\&quot;;s:69:\&quot;index.php?pagename=$matches[1]&amp;set-default-payment-method=$matches[3]\&quot;;s:31:\&quot;.?.+?/([^/]+)/wc-api(/(.*))?/?$\&quot;;s:51:\&quot;index.php?attachment=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:42:\&quot;.?.+?/attachment/([^/]+)/wc-api(/(.*))?/?$\&quot;;s:51:\&quot;index.php?attachment=$matches[1]&amp;wc-api=$matches[3]\&quot;;s:24:\&quot;(.?.+?)(?:/([0-9]+))?/?$\&quot;;s:47:\&quot;index.php?pagename=$matches[1]&amp;page=$matches[2]\&quot;;}&#039;, &#039;yes&#039;),
+( &#039;30&#039;, &#039;hack_file&#039;, &#039;0&#039;, &#039;yes&#039;),
+( &#039;31&#039;, &#039;blog_charset&#039;, &#039;UTF-8&#039;, &#039;yes&#039;),
+( &#039;32&#039;, &#039;moderation_keys&#039;, &#039;&#039;, &#039;no&#039;),
+( &#039;33&#039;, &#039;active_plugins&#039;, &#039;a:8:{i:0;s:51:\&quot;all-in-one-wp-migration/all-in-one-wp-migration.php\&quot;;i:1;s:27:\&quot;almanar-widgets/widgets.php\&quot;;i:3;s:42:\&quot;beaver-builder-lite-version/fl-builder.php\&quot;;i:4;s:21:\&quot;megamenu/megamenu.php\&quot;;i:5;s:47:\&quot;one-click-demo-import/one-click-demo-import.php\&quot;;i:6;s:31:\&quot;shared-counts/shared-counts.php\&quot;;i:7;s:27:\&quot;woocommerce/woocommerce.php\&quot;;i:8;s:41:\&quot;wordpress-importer/wordpress-importer.php\&quot;;}&#039;, &#039;yes&#039;),
+( &#039;34&#039;, &#039;category_base&#039;, &#039;&#039;, &#039;yes&#039;);
+</code></p></div>
