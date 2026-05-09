@@ -1,11 +1,11 @@
-2026-04-08T20:08:07+00:00 ERROR Error getting data feed
-2026-04-08T20:08:07+00:00 ERROR WP_Error Object
+2026-05-09T13:30:45+00:00 ERROR Error getting data feed
+2026-05-09T13:30:45+00:00 ERROR WP_Error Object
 (
     [errors] => Array
         (
             [http_request_failed] => Array
                 (
-                    [0] => cURL error 28: Operation timed out after 5000 milliseconds with 0 bytes received
+                    [0] => cURL error 28: Connection timed out after 5000 milliseconds
                 )
 
         )

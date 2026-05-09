@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.5" created="2026-05-01 11:38" -->
+	<!-- generator="WordPress/6.6.5" created="2026-05-09 13:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Newspaper</title>
 	<link>http://127.0.0.1/newswave</link>
 	<description></description>
-	<pubDate>Fri, 01 May 2026 11:38:19 +0000</pubDate>
+	<pubDate>Sat, 09 May 2026 13:31:12 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://127.0.0.1/newswave</wp:base_site_url>
@@ -3672,7 +3672,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/starry-night-1093721_1280/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2023/08/starry-night-1093721_1280.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2023/08/starry-night-1093721_1280.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3690,7 +3690,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2023/08/starry-night-1093721_1280.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2023/08/starry-night-1093721_1280.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023/08/starry-night-1093721_1280.jpg]]></wp:meta_value>
@@ -3705,7 +3705,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/logo-2/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2023/08/logo-1.png</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2023/08/logo-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3723,7 +3723,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2023/08/logo-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2023/08/logo-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023/08/logo-1.png]]></wp:meta_value>
@@ -3738,7 +3738,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/wp_favicon-32x32/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2023/08/wp_favicon-32x32-1.png</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2023/08/wp_favicon-32x32-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3756,7 +3756,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2023/08/wp_favicon-32x32-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2023/08/wp_favicon-32x32-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023/08/wp_favicon-32x32-1.png]]></wp:meta_value>
@@ -3771,9 +3771,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/cropped-wp_favicon-32x32-1-png/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2023/08/cropped-wp_favicon-32x32-1.png</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2023/08/cropped-wp_favicon-32x32-1.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[https://megatif.github.io/wavepress-static//uploads/2023/08/cropped-wp_favicon-32x32-1.png]]></content:encoded>
+		<content:encoded><![CDATA[https://megatif.github.io/wavepress-static/uploads/2023/08/cropped-wp_favicon-32x32-1.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2716</wp:post_id>
 		<wp:post_date><![CDATA[2026-01-29 10:00:00]]></wp:post_date>
@@ -3789,7 +3789,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2023/08/cropped-wp_favicon-32x32-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2023/08/cropped-wp_favicon-32x32-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023/08/cropped-wp_favicon-32x32-1.png]]></wp:meta_value>
@@ -3808,7 +3808,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/footer_backround-32/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2024/05/footer_backround-32.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2024/05/footer_backround-32.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3826,7 +3826,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2024/05/footer_backround-32.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2024/05/footer_backround-32.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/footer_backround-32.jpg]]></wp:meta_value>
@@ -3841,7 +3841,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/banner_bw/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2024/09/banner_bw.png</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2024/09/banner_bw.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3859,7 +3859,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2024/09/banner_bw.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2024/09/banner_bw.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/banner_bw.png]]></wp:meta_value>
@@ -3874,7 +3874,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/banner_bw-2/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2024/09/banner_bw-1.png</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2024/09/banner_bw-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3892,7 +3892,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2024/09/banner_bw-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2024/09/banner_bw-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/banner_bw-1.png]]></wp:meta_value>
@@ -3907,7 +3907,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/phasellus-auctor-vestibulum-mauris/jeremy-bishop-k74ufspapes-unsplash/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/jeremy-bishop-K74UfSpaPes-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/jeremy-bishop-K74UfSpaPes-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3925,7 +3925,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/jeremy-bishop-K74UfSpaPes-unsplash-scaled.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/jeremy-bishop-K74UfSpaPes-unsplash-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/jeremy-bishop-K74UfSpaPes-unsplash-scaled.jpg]]></wp:meta_value>
@@ -3940,7 +3940,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/faucibus-mi-vulputate-semper-magna-sed-amet-sed-pretium/mathias-reding-jfr7tlkc3um-unsplash/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2023/02/mathias-reding-JFr7tlKc3UM-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2023/02/mathias-reding-JFr7tlKc3UM-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3958,7 +3958,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2023/02/mathias-reding-JFr7tlKc3UM-unsplash-scaled.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2023/02/mathias-reding-JFr7tlKc3UM-unsplash-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023/02/mathias-reding-JFr7tlKc3UM-unsplash-scaled.jpg]]></wp:meta_value>
@@ -3973,7 +3973,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/?attachment_id=4007</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/201465867.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/201465867.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3991,7 +3991,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/201465867.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/201465867.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/201465867.jpg]]></wp:meta_value>
@@ -4006,7 +4006,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/?attachment_id=4011</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/55004138.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/55004138.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4024,7 +4024,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/55004138.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/55004138.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/55004138.jpg]]></wp:meta_value>
@@ -4039,7 +4039,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/?attachment_id=4012</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/give_and_take.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/give_and_take.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4057,7 +4057,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/give_and_take.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/give_and_take.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/give_and_take.jpg]]></wp:meta_value>
@@ -4072,7 +4072,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/?attachment_id=4014</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/deep_work.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/deep_work.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4090,7 +4090,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/deep_work.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/deep_work.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/deep_work.jpg]]></wp:meta_value>
@@ -4105,7 +4105,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/?attachment_id=4016</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/success.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/success.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4123,7 +4123,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/success.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/success.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/success.jpg]]></wp:meta_value>
@@ -4138,7 +4138,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<link>http://127.0.0.1/newswave/?attachment_id=4018</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/the_first_90_days.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/the_first_90_days.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4156,7 +4156,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/the_first_90_days.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/the_first_90_days.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/the_first_90_days.jpg]]></wp:meta_value>
@@ -4401,7 +4401,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4020</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/Thrive.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/Thrive.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4419,7 +4419,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/Thrive.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/Thrive.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/Thrive.jpg]]></wp:meta_value>
@@ -4434,7 +4434,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4021</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/Built-to-Last.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/Built-to-Last.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4452,7 +4452,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/Built-to-Last.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/Built-to-Last.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/Built-to-Last.jpg]]></wp:meta_value>
@@ -4467,7 +4467,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4022</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/Made-to-Stick.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/Made-to-Stick.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4485,7 +4485,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/Made-to-Stick.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/Made-to-Stick.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/Made-to-Stick.jpg]]></wp:meta_value>
@@ -4500,7 +4500,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4023</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/Space-Opera.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/Space-Opera.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4518,7 +4518,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/Space-Opera.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/Space-Opera.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/Space-Opera.jpg]]></wp:meta_value>
@@ -4533,7 +4533,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4025</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/6076387.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/6076387.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4551,7 +4551,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/6076387.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/6076387.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/6076387.jpg]]></wp:meta_value>
@@ -4566,7 +4566,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4026</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/1061388.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/1061388.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4584,7 +4584,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/1061388.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/1061388.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/1061388.jpg]]></wp:meta_value>
@@ -4599,7 +4599,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4029</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/161415.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/161415.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4617,7 +4617,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/161415.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/161415.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/161415.jpg]]></wp:meta_value>
@@ -4632,7 +4632,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4031</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/154924.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/154924.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4650,7 +4650,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/154924.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/154924.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/154924.jpg]]></wp:meta_value>
@@ -4665,7 +4665,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4032</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/34964905.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/34964905.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4683,7 +4683,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/34964905.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/34964905.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/34964905.jpg]]></wp:meta_value>
@@ -4698,7 +4698,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4033</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/49501.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/49501.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4716,7 +4716,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/49501.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/49501.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/49501.jpg]]></wp:meta_value>
@@ -4731,7 +4731,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/?attachment_id=4034</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2022/10/39072210.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2022/10/39072210.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4749,7 +4749,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2022/10/39072210.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2022/10/39072210.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022/10/39072210.jpg]]></wp:meta_value>
@@ -4764,7 +4764,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/diam-eu-pulvinar-nunc-volutpat-ullamcorper-imperdiet-eget-enim-mi-vitae/jeremy-bishop-k74ufspapes-unsplash-2/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4782,7 +4782,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-scaled.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023/02/jeremy-bishop-K74UfSpaPes-unsplash-scaled.jpg]]></wp:meta_value>
@@ -4797,7 +4797,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<link>http://127.0.0.1/newswave/suspendisse-tempor-facilisis-risus-a-gravida-risus-euismod/tiago-ferreira-30bopxcw1ca-unsplash/</link>
 		<pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://megatif.github.io/wavepress-static//uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://megatif.github.io/wavepress-static/uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4815,7 +4815,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static//uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-scaled.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://megatif.github.io/wavepress-static/uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-scaled.jpg]]></wp:meta_value>
@@ -5068,7 +5068,7 @@ To view {{initiator.name}}'s profile, visit: {{{initiator.url}}}]]></excerpt:enc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_migrations_state_8b2d]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4.0.2:4a099cf7c6769931ccb8ea1c3a34129a]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.0.2:9fb84a4d2e603d44034b0c574ad7574d]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8830,7 +8830,7 @@ To manage the request, visit: {{{manage.url}}}.]]></excerpt:encoded>
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -9124,7 +9124,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -9246,7 +9246,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -9360,7 +9360,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -9474,7 +9474,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -9588,7 +9588,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -9706,7 +9706,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -9770,7 +9770,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 		<guid isPermaLink="false">http://127.0.0.1/newspaper/?page_id=917</guid>
 		<description></description>
 		<content:encoded><![CDATA[<style>/*! elementor - v3.18.0 - 20-12-2023 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1280" height="1003" src="https://megatif.github.io/wavepress-static//uploads/2023/01/pexels-lisa-fotios-1369476-32.jpg" alt="" srcset="https://127.0.0.1/newswave/wp-content/uploads/2023/01/pexels-lisa-fotios-1369476-32.jpg 1280w, https://127.0.0.1/newswave/wp-content/uploads/2023/01/pexels-lisa-fotios-1369476-32-600x470.jpg 600w, https://127.0.0.1/newswave/wp-content/uploads/2023/01/pexels-lisa-fotios-1369476-32-300x235.jpg 300w, https://127.0.0.1/newswave/wp-content/uploads/2023/01/pexels-lisa-fotios-1369476-32-1024x802.jpg 1024w, https://127.0.0.1/newswave/wp-content/uploads/2023/01/pexels-lisa-fotios-1369476-32-768x602.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />															
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1280" height="1003" src="https://megatif.github.io/wavepress-static/uploads/2023/01/pexels-lisa-fotios-1369476-32.jpg" alt="" srcset="https://127.0.0.1/newswave/wp-content/uploads/2023/01/pexels-lisa-fotios-1369476-32.jpg 1280w, https://127.0.0.1/newswave/wp-content/uploads/2023/01/pexels-lisa-fotios-1369476-32-600x470.jpg 600w, https://127.0.0.1/newswave/wp-content/uploads/2023/01/pexels-lisa-fotios-1369476-32-300x235.jpg 300w, https://127.0.0.1/newswave/wp-content/uploads/2023/01/pexels-lisa-fotios-1369476-32-1024x802.jpg 1024w, https://127.0.0.1/newswave/wp-content/uploads/2023/01/pexels-lisa-fotios-1369476-32-768x602.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />															
 			<style>/*! elementor - v3.18.0 - 20-12-2023 */
 .elementor-testimonial-wrapper{overflow:hidden;text-align:center}.elementor-testimonial-wrapper .elementor-testimonial-content{font-size:1.3em;margin-bottom:20px}.elementor-testimonial-wrapper .elementor-testimonial-name{line-height:1.5;display:block}.elementor-testimonial-wrapper .elementor-testimonial-job{font-size:.85em;display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta{width:100%;line-height:1}.elementor-testimonial-wrapper .elementor-testimonial-meta-inner{display:inline-block}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image{display:table-cell;vertical-align:middle}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image img{width:60px;height:60px;border-radius:50%;-o-object-fit:cover;object-fit:cover;max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-right:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style>		
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
@@ -10515,7 +10515,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 	<article>
 		<a href="http://127.0.0.1/newswave/category/science/engineering/" >Engineering</a><a href="http://127.0.0.1/newswave/category/science/" >Science</a>		
 		<a href="http://127.0.0.1/newswave/diam-eu-pulvinar-nunc-volutpat-ullamcorper-imperdiet-eget-enim-mi-vitae/">
-			<img width="350" height="233" src="https://megatif.github.io/wavepress-static//uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-scaled.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-scaled.jpg 2560w, https://megatif.github.io/wavepress-static//uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-300x200.jpg 300w, https://megatif.github.io/wavepress-static//uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-768x512.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-1536x1024.jpg 1536w, https://megatif.github.io/wavepress-static//uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-2048x1365.jpg 2048w, https://megatif.github.io/wavepress-static//uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-600x400.jpg 600w" sizes="(max-width: 350px) 100vw, 350px" />			
+			<img width="350" height="233" src="https://megatif.github.io/wavepress-static/uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-scaled.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-scaled.jpg 2560w, https://megatif.github.io/wavepress-static/uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-300x200.jpg 300w, https://megatif.github.io/wavepress-static/uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-768x512.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-1536x1024.jpg 1536w, https://megatif.github.io/wavepress-static/uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-2048x1365.jpg 2048w, https://megatif.github.io/wavepress-static/uploads/2023/02/jeremy-bishop-K74UfSpaPes-unsplash-600x400.jpg 600w" sizes="(max-width: 350px) 100vw, 350px" />			
 		</a>
 						<h3><a href="
 			http://127.0.0.1/newswave/diam-eu-pulvinar-nunc-volutpat-ullamcorper-imperdiet-eget-enim-mi-vitae/   ">Diam eu pulvinar nunc volutpat ullamcorper imperdiet eget enim mi vitae</a></h3>
@@ -10566,7 +10566,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 </style>
 <section>
         <h1 style="color:#000000">London</h1>
-            <img src="https://megatif.github.io/wavepress-static//themes/wavepress/widgets/weather/img/mostlysunny_dark.png" />
+            <img src="https://megatif.github.io/wavepress-static/themes/wavepress/widgets/weather/img/mostlysunny_dark.png" />
             13.86°C
             Few Clouds
             <strong>humidity</strong> :
@@ -10579,7 +10579,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
                         >POPULAR</h2>
 	<article>
 				<a href="http://127.0.0.1/newswave/laoreet-dis-vel-non-lorem-quis-tortor-tempus-vitae-sit-sit/">
-				<img width="170" height="113" src="https://megatif.github.io/wavepress-static//uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static//uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash-600x400.jpg 600w, https://megatif.github.io/wavepress-static//uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash-300x200.jpg 300w, https://megatif.github.io/wavepress-static//uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash-768x512.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash-1536x1024.jpg 1536w" sizes="(max-width: 170px) 100vw, 170px" />				
+				<img width="170" height="113" src="https://megatif.github.io/wavepress-static/uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static/uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash-600x400.jpg 600w, https://megatif.github.io/wavepress-static/uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash-300x200.jpg 300w, https://megatif.github.io/wavepress-static/uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash-768x512.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/08/andrea-davis-SoRlz-tnWUM-unsplash-1536x1024.jpg 1536w" sizes="(max-width: 170px) 100vw, 170px" />				
 				</a>
 								<h3><a href="
 				http://127.0.0.1/newswave/laoreet-dis-vel-non-lorem-quis-tortor-tempus-vitae-sit-sit/	   ">Laoreet dis vel non lorem quis tortor tempus vitae sit sit</a></h3>
@@ -10590,7 +10590,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 	</article>
 	<article>
 				<a href="http://127.0.0.1/newswave/vestibulum-cursus-massa-dolor-quis-eleifend-lorem/">
-				<img width="170" height="255" src="https://megatif.github.io/wavepress-static//uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1.jpg 1707w, https://megatif.github.io/wavepress-static//uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-600x900.jpg 600w, https://megatif.github.io/wavepress-static//uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-200x300.jpg 200w, https://megatif.github.io/wavepress-static//uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-683x1024.jpg 683w, https://megatif.github.io/wavepress-static//uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-768x1152.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-1024x1536.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-1366x2048.jpg 1366w" sizes="(max-width: 170px) 100vw, 170px" />				
+				<img width="170" height="255" src="https://megatif.github.io/wavepress-static/uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1.jpg 1707w, https://megatif.github.io/wavepress-static/uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-600x900.jpg 600w, https://megatif.github.io/wavepress-static/uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-200x300.jpg 200w, https://megatif.github.io/wavepress-static/uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-683x1024.jpg 683w, https://megatif.github.io/wavepress-static/uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-768x1152.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-1024x1536.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/08/dm-david-okyAA-dghb0-unsplash-scaled-1-1366x2048.jpg 1366w" sizes="(max-width: 170px) 100vw, 170px" />				
 				</a>
 								<h3><a href="
 				http://127.0.0.1/newswave/vestibulum-cursus-massa-dolor-quis-eleifend-lorem/	   ">Vestibulum cursus massa dolor quis eleifend lorem</a></h3>
@@ -10601,7 +10601,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 	</article>
 	<article>
 				<a href="http://127.0.0.1/newswave/aliquam-id-eu-eros-vestibulum-a-ipsum-magna/">
-				<img width="170" height="255" src="https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1.jpg 1707w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-600x900.jpg 600w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-200x300.jpg 200w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-683x1024.jpg 683w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-768x1152.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-1024x1536.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-1366x2048.jpg 1366w" sizes="(max-width: 170px) 100vw, 170px" />				
+				<img width="170" height="255" src="https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1.jpg 1707w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-600x900.jpg 600w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-200x300.jpg 200w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-683x1024.jpg 683w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-768x1152.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-1024x1536.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-1366x2048.jpg 1366w" sizes="(max-width: 170px) 100vw, 170px" />				
 				</a>
 								<h3><a href="
 				http://127.0.0.1/newswave/aliquam-id-eu-eros-vestibulum-a-ipsum-magna/	   ">aliquam id eu eros. Vestibulum a ipsum magna.</a></h3>
@@ -10612,7 +10612,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 	</article>
 	<article>
 				<a href="http://127.0.0.1/newswave/sed-dapibus-eros-sed-efficitur-suscipit-turpis-purus/">
-				<img width="170" height="113" src="https://megatif.github.io/wavepress-static//uploads/2023/03/mountains-7846880_1280-29.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2023/03/mountains-7846880_1280-29.jpg 1280w, https://megatif.github.io/wavepress-static//uploads/2023/03/mountains-7846880_1280-29-600x400.jpg 600w, https://megatif.github.io/wavepress-static//uploads/2023/03/mountains-7846880_1280-29-300x200.jpg 300w, https://megatif.github.io/wavepress-static//uploads/2023/03/mountains-7846880_1280-29-1024x682.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/03/mountains-7846880_1280-29-768x512.jpg 768w" sizes="(max-width: 170px) 100vw, 170px" />				
+				<img width="170" height="113" src="https://megatif.github.io/wavepress-static/uploads/2023/03/mountains-7846880_1280-29.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2023/03/mountains-7846880_1280-29.jpg 1280w, https://megatif.github.io/wavepress-static/uploads/2023/03/mountains-7846880_1280-29-600x400.jpg 600w, https://megatif.github.io/wavepress-static/uploads/2023/03/mountains-7846880_1280-29-300x200.jpg 300w, https://megatif.github.io/wavepress-static/uploads/2023/03/mountains-7846880_1280-29-1024x682.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/03/mountains-7846880_1280-29-768x512.jpg 768w" sizes="(max-width: 170px) 100vw, 170px" />				
 				</a>
 								<h3><a href="
 				http://127.0.0.1/newswave/sed-dapibus-eros-sed-efficitur-suscipit-turpis-purus/	   ">Sed dapibus, eros sed efficitur suscipit, turpis purus</a></h3>
@@ -10623,7 +10623,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 	</article>
 	<article>
 				<a href="http://127.0.0.1/newswave/tincidunt-ultrices-nunc-donec-semper-augue-ornare/">
-				<img width="170" height="113" src="https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-600x400.jpg 600w, https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-300x200.jpg 300w, https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-768x512.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-1536x1024.jpg 1536w" sizes="(max-width: 170px) 100vw, 170px" />				
+				<img width="170" height="113" src="https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-600x400.jpg 600w, https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-300x200.jpg 300w, https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-768x512.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-1536x1024.jpg 1536w" sizes="(max-width: 170px) 100vw, 170px" />				
 				</a>
 								<h3><a href="
 				http://127.0.0.1/newswave/tincidunt-ultrices-nunc-donec-semper-augue-ornare/	   ">Tincidunt ultrices nunc donec semper augue ornare</a></h3>
@@ -10639,7 +10639,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
             <article>
                     <a href="http://127.0.0.1/newswave/category/sport/" >Sport</a>                
                     <a href="http://127.0.0.1/newswave/aliquam-id-eu-eros-vestibulum-a-ipsum-magna/">
-                    <img width="350" height="525" src="https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1.jpg 1707w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-600x900.jpg 600w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-200x300.jpg 200w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-683x1024.jpg 683w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-768x1152.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-1024x1536.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-1366x2048.jpg 1366w" sizes="(max-width: 350px) 100vw, 350px" />                    
+                    <img width="350" height="525" src="https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1.jpg 1707w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-600x900.jpg 600w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-200x300.jpg 200w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-683x1024.jpg 683w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-768x1152.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-1024x1536.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/08/nati-melnychuk-W7vJGJt4KY8-unsplash-scaled-1-1366x2048.jpg 1366w" sizes="(max-width: 350px) 100vw, 350px" />                    
                     </a>
                                             <h3><a href="http://127.0.0.1/newswave/aliquam-id-eu-eros-vestibulum-a-ipsum-magna/">aliquam id eu eros. Vestibulum a ipsum magna.</a></h3>
                         			BY <a href="http://127.0.0.1/newswave/author/admin/" title="Posts by Samuel Hunter" rel="author">Samuel Hunter</a>
@@ -10650,7 +10650,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
             </article>
                                 <article>
                 <a href="http://127.0.0.1/newswave/orci-varius-natoque-penatibus-et-magnis/">
-                    <img width="170" height="113" src="https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-600x400.jpg 600w, https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-300x200.jpg 300w, https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-768x512.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-1536x1024.jpg 1536w" sizes="(max-width: 170px) 100vw, 170px" />                    
+                    <img width="170" height="113" src="https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-600x400.jpg 600w, https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-300x200.jpg 300w, https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-768x512.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/08/lala-azizli-Sx9LpOS-PTQ-unsplash-1536x1024.jpg 1536w" sizes="(max-width: 170px) 100vw, 170px" />                    
                 </a>
                                 <h3><a href="http://127.0.0.1/newswave/orci-varius-natoque-penatibus-et-magnis/">Orci varius natoque penatibus et magnis lacus lorem</a></h3>
                     			BY <a href="http://127.0.0.1/newswave/author/admin/" title="Posts by Samuel Hunter" rel="author">Samuel Hunter</a>
@@ -10659,7 +10659,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
         </article>
                                 <article>
                 <a href="http://127.0.0.1/newswave/morbi-eget-maximus-arcu-eu-tincidunt-metus/">
-                    <img width="170" height="113" src="https://megatif.github.io/wavepress-static//uploads/2023/03/park-g590f01c1b_1280-29.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2023/03/park-g590f01c1b_1280-29.jpg 1280w, https://megatif.github.io/wavepress-static//uploads/2023/03/park-g590f01c1b_1280-29-600x400.jpg 600w, https://megatif.github.io/wavepress-static//uploads/2023/03/park-g590f01c1b_1280-29-300x200.jpg 300w, https://megatif.github.io/wavepress-static//uploads/2023/03/park-g590f01c1b_1280-29-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/03/park-g590f01c1b_1280-29-768x512.jpg 768w" sizes="(max-width: 170px) 100vw, 170px" />                    
+                    <img width="170" height="113" src="https://megatif.github.io/wavepress-static/uploads/2023/03/park-g590f01c1b_1280-29.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2023/03/park-g590f01c1b_1280-29.jpg 1280w, https://megatif.github.io/wavepress-static/uploads/2023/03/park-g590f01c1b_1280-29-600x400.jpg 600w, https://megatif.github.io/wavepress-static/uploads/2023/03/park-g590f01c1b_1280-29-300x200.jpg 300w, https://megatif.github.io/wavepress-static/uploads/2023/03/park-g590f01c1b_1280-29-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/03/park-g590f01c1b_1280-29-768x512.jpg 768w" sizes="(max-width: 170px) 100vw, 170px" />                    
                 </a>
                                 <h3><a href="http://127.0.0.1/newswave/morbi-eget-maximus-arcu-eu-tincidunt-metus/">Morbi eget maximus arcu, eu tincidunt metus</a></h3>
                     			BY <a href="http://127.0.0.1/newswave/author/admin/" title="Posts by Samuel Hunter" rel="author">Samuel Hunter</a>
@@ -10668,7 +10668,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
         </article>
                                 <article>
                 <a href="http://127.0.0.1/newswave/suspendisse-tempor-facilisis-risus-a-gravida-risus-euismod/">
-                    <img width="170" height="255" src="https://megatif.github.io/wavepress-static//uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-scaled.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-scaled.jpg 1707w, https://megatif.github.io/wavepress-static//uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-200x300.jpg 200w, https://megatif.github.io/wavepress-static//uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-683x1024.jpg 683w, https://megatif.github.io/wavepress-static//uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-768x1152.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-1024x1536.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-1365x2048.jpg 1365w, https://megatif.github.io/wavepress-static//uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-600x900.jpg 600w" sizes="(max-width: 170px) 100vw, 170px" />                    
+                    <img width="170" height="255" src="https://megatif.github.io/wavepress-static/uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-scaled.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-scaled.jpg 1707w, https://megatif.github.io/wavepress-static/uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-200x300.jpg 200w, https://megatif.github.io/wavepress-static/uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-683x1024.jpg 683w, https://megatif.github.io/wavepress-static/uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-768x1152.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-1024x1536.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-1365x2048.jpg 1365w, https://megatif.github.io/wavepress-static/uploads/2020/08/tiago-ferreira-30BOPxcW1CA-unsplash-600x900.jpg 600w" sizes="(max-width: 170px) 100vw, 170px" />                    
                 </a>
                                 <h3><a href="http://127.0.0.1/newswave/suspendisse-tempor-facilisis-risus-a-gravida-risus-euismod/">Suspendisse tempor facilisis risus, a gravida risus  euismod</a></h3>
                     			BY <a href="http://127.0.0.1/newswave/author/admin/" title="Posts by Samuel Hunter" rel="author">Samuel Hunter</a>
@@ -10677,7 +10677,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
         </article>
                                 <article>
                 <a href="http://127.0.0.1/newswave/curabitur-consequat-rhoncus-neque-non-auctor-ut-ac-felis-risus/">
-                    <img width="170" height="113" src="https://megatif.github.io/wavepress-static//uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static//uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static//uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash-600x400.jpg 600w, https://megatif.github.io/wavepress-static//uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash-300x200.jpg 300w, https://megatif.github.io/wavepress-static//uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash-768x512.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash-1536x1024.jpg 1536w" sizes="(max-width: 170px) 100vw, 170px" />                    
+                    <img width="170" height="113" src="https://megatif.github.io/wavepress-static/uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash.jpg" alt="" decoding="async" srcset="https://megatif.github.io/wavepress-static/uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static/uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash-600x400.jpg 600w, https://megatif.github.io/wavepress-static/uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash-300x200.jpg 300w, https://megatif.github.io/wavepress-static/uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash-1024x683.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash-768x512.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/08/gian-paolo-aliatis-EJSNrTzz6xk-unsplash-1536x1024.jpg 1536w" sizes="(max-width: 170px) 100vw, 170px" />                    
                 </a>
                                 <h3><a href="http://127.0.0.1/newswave/curabitur-consequat-rhoncus-neque-non-auctor-ut-ac-felis-risus/">Curabitur consequat rhoncus neque non  auctor Ut ac felis risus</a></h3>
                     			BY <a href="http://127.0.0.1/newswave/author/admin/" title="Posts by Samuel Hunter" rel="author">Samuel Hunter</a>
@@ -10750,7 +10750,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 			            			            <article>
 			                                        <a href="http://127.0.0.1/newswave/?cat=28" >Business</a>			                                      
 			                                      <a href="http://127.0.0.1/newswave/?p=1824">
-			                                        <img width="400" height="266" src="https://megatif.github.io/wavepress-static//uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://megatif.github.io/wavepress-static//uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1.jpg 1920w, https://megatif.github.io/wavepress-static//uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1-300x200.jpg 300w, https://megatif.github.io/wavepress-static//uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1-1024x681.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1-768x511.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1-1536x1022.jpg 1536w, https://megatif.github.io/wavepress-static//uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1-600x399.jpg 600w" sizes="(max-width: 400px) 100vw, 400px" />			                                        
+			                                        <img width="400" height="266" src="https://megatif.github.io/wavepress-static/uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://megatif.github.io/wavepress-static/uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1.jpg 1920w, https://megatif.github.io/wavepress-static/uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1-300x200.jpg 300w, https://megatif.github.io/wavepress-static/uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1-1024x681.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1-768x511.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1-1536x1022.jpg 1536w, https://megatif.github.io/wavepress-static/uploads/2023/08/kristaps-ungurs-7czWFQfRwiY-unsplash-1-600x399.jpg 600w" sizes="(max-width: 400px) 100vw, 400px" />			                                        
 			                                      </a>
 			                                      <figure>
 			                                        <a href="http://127.0.0.1/newswave/?p=1824" title="Enim in tellus aliquet amet feugiat sed mi turpis">  
@@ -10764,7 +10764,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 			                                      </figure>
 			                                        <a href="http://127.0.0.1/newswave/?cat=47" >Engineering</a><a href="http://127.0.0.1/newswave/?cat=35" >Science</a>			                                      
 			                                      <a href="http://127.0.0.1/newswave/?p=1820">
-			                                        <img width="400" height="300" src="https://megatif.github.io/wavepress-static//uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash.jpg" alt="" decoding="async" loading="lazy" srcset="https://megatif.github.io/wavepress-static//uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static//uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash-300x225.jpg 300w, https://megatif.github.io/wavepress-static//uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash-1024x768.jpg 1024w, https://megatif.github.io/wavepress-static//uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash-768x576.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash-1536x1152.jpg 1536w, https://megatif.github.io/wavepress-static//uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash-600x450.jpg 600w" sizes="(max-width: 400px) 100vw, 400px" />			                                        
+			                                        <img width="400" height="300" src="https://megatif.github.io/wavepress-static/uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash.jpg" alt="" decoding="async" loading="lazy" srcset="https://megatif.github.io/wavepress-static/uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static/uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash-300x225.jpg 300w, https://megatif.github.io/wavepress-static/uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash-1024x768.jpg 1024w, https://megatif.github.io/wavepress-static/uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash-768x576.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash-1536x1152.jpg 1536w, https://megatif.github.io/wavepress-static/uploads/2023/08/obi-pixel7propix-UEQvUtRs224-unsplash-600x450.jpg 600w" sizes="(max-width: 400px) 100vw, 400px" />			                                        
 			                                      </a>
 			                                      <figure>
 			                                        <a href="http://127.0.0.1/newswave/?p=1820" title="Diam eu pulvinar nunc volutpat ullamcorper imperdiet eget enim mi vitae">  
@@ -10778,7 +10778,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 			                                      </figure>
 			                                        <a href="http://127.0.0.1/newswave/?cat=45" >Beauty</a><a href="http://127.0.0.1/newswave/?cat=31" >Lifestyle</a>			                                      
 			                                      <a href="http://127.0.0.1/newswave/?p=1810">
-			                                        <img src="https://megatif.github.io/wavepress-static//themes/newswave/images/gray.jpg" width="400" height="auto" alt="No Image" />			                                        
+			                                        <img src="https://megatif.github.io/wavepress-static/themes/newswave/images/gray.jpg" width="400" height="auto" alt="No Image" />			                                        
 			                                      </a>
 			                                      <figure>
 			                                        <a href="http://127.0.0.1/newswave/?p=1810" title="Nisl mi orci lectus sodales ultricies amet bibendum lobortis mi facilisi sed">  
@@ -10792,7 +10792,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 			                                      </figure>
 			                                    <a href="http://127.0.0.1/newswave/?cat=46" >Books</a><a href="http://127.0.0.1/newswave/?cat=29" >Culture</a>			                                  
 			                                    <a href="http://127.0.0.1/newswave/?p=1828">
-			                                      <img width="1920" height="2560" src="https://megatif.github.io/wavepress-static//uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash.jpg" alt="" decoding="async" loading="lazy" srcset="https://megatif.github.io/wavepress-static//uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static//uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash-225x300.jpg 225w, https://megatif.github.io/wavepress-static//uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash-768x1024.jpg 768w, https://megatif.github.io/wavepress-static//uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash-1152x1536.jpg 1152w, https://megatif.github.io/wavepress-static//uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash-1536x2048.jpg 1536w, https://megatif.github.io/wavepress-static//uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash-600x800.jpg 600w" sizes="(max-width: 1920px) 100vw, 1920px" />			                                    </a>
+			                                      <img width="1920" height="2560" src="https://megatif.github.io/wavepress-static/uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash.jpg" alt="" decoding="async" loading="lazy" srcset="https://megatif.github.io/wavepress-static/uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash.jpg 1920w, https://megatif.github.io/wavepress-static/uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash-225x300.jpg 225w, https://megatif.github.io/wavepress-static/uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash-768x1024.jpg 768w, https://megatif.github.io/wavepress-static/uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash-1152x1536.jpg 1152w, https://megatif.github.io/wavepress-static/uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash-1536x2048.jpg 1536w, https://megatif.github.io/wavepress-static/uploads/2023/08/taylor-heery-xsuu4uVFPYg-unsplash-600x800.jpg 600w" sizes="(max-width: 1920px) 100vw, 1920px" />			                                    </a>
 			                                    <figure>
 			                                      <a href="http://127.0.0.1/newswave/?p=1828" title="Tincidunt ultrices nunc donec semper augue ornare">
 			                                        <figcaption>
@@ -10828,7 +10828,7 @@ vitae velit non neque pharetra elementum vitae maximus lectus. Pellent</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1777664824,"value":{"content":"\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-53dd007 elementor-section-full_width elementor-section-height-default elementor-section-height-default\" data-id=\"53dd007\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8b7b39a\" data-id=\"8b7b39a\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjM1OTU5NzUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkRlZmF1bHQgdGl0bGUifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoic2xpZGVzaG93MiJ9\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImViZjEwOTQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJkaXNwbGF5X3RpdGxlIjoiIiwidGl0bGUiOiJEZWZhdWx0IHRpdGxlIiwiY2F0ZWdvcmllcyI6WyJidXNpbmVzcyIsImN1bHR1cmUiLCJlbmdpbmVlcmluZyIsImV1cm9wZSIsImZhc2hpb24iLCJmaWxtIiwiZ2VvcG9saXRjIl0sIl9wYWRkaW5nIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6dHJ1ZX0sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sInBvc3RzUGVyUGFnZSI6NCwibnVtYmVyT2ZQYWdlcyI6NCwiZGlzcGxheU5hdmlnYXRpb24iOiIiLCJhdXRvcGxheSI6IiIsImxvb3AiOiIxIiwicG9zdHNwZXJwYWdlIjo4fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoic2xpZGVzaG93In0=\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-14da721 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"14da721\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t\t<div class=\"elementor-background-overlay\"><\/div>\n\t\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4ec0e0e\" data-id=\"4ec0e0e\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjA5ZDVjZWEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ2aWRlb19saXN0IjpbeyJ2aWRlb19pZCI6ImNUdUJtNGltVGNFIiwidmlkZW9fdGl0bGUiOiJGdXR1cmUgZXgtZ2lybGZyaWVuZCB8IENocmlzICYgSmFjayIsIl9pZCI6ImQ5ZmFmZGYifSx7InZpZGVvX2lkIjoieEZMOU1HeTU1N00iLCJ2aWRlb190aXRsZSI6IlRoZSBFbmQgT2YgRnJlZSBTcGVhY2giLCJfaWQiOiJhZjJjMTc3In0seyJ2aWRlb19pZCI6ImluUkQ2dllCeThNIiwidmlkZW9fdGl0bGUiOiJFeHBsb3JpbmcgdGhlIFJ1aW5zIG9mIGFuIEFtZXJpY2FuIEdob3N0IENpdHkgc3R1Y2sgaW4gdGhlIDE5NDBzICEiLCJfaWQiOiJmMWU4YTZiIn0seyJ2aWRlb19pZCI6ImlhdXE4TE5yNXp3IiwidmlkZW9fdGl0bGUiOiJXQVJOSU5HOiBBSSBSZXZvbHV0aW9uIGlzIEhlcmUgJiBUaGlzIGlzIFdoYXQgVGhleVx1MjAxOXJlIE5vdCBUZWxsaW5nIFlvdSAiLCJfaWQiOiIzMmI1NjkxIn0seyJ2aWRlb19pZCI6IjJLVThBV3VBYUhFIiwidmlkZW9fdGl0bGUiOiJUSEUgTUFUUklYIEFXQUtFTlMgLSBVbnJlYWwgRW5naW5lIDUgR2FtZXBsYXkgKFBTNSkiLCJfaWQiOiIwZTg5MjEyIn1dLCJ0aXRsZSI6IlZJREVPIiwiX2FuaW1hdGlvbiI6ImZhZGVJbiIsImFuaW1hdGlvbl9kdXJhdGlvbiI6InNsb3ciLCJfYW5pbWF0aW9uX2RlbGF5Ijo2MDAsIl9iYWNrZ3JvdW5kX2JhY2tncm91bmQiOiJncmFkaWVudCIsIl9iYWNrZ3JvdW5kX2NvbG9yIjoiIzBEMDcwNzAwIiwiX2JhY2tncm91bmRfY29sb3Jfc3RvcCI6eyJ1bml0IjoiJSIsInNpemUiOjI0LCJzaXplcyI6W119LCJfYmFja2dyb3VuZF9jb2xvcl9iX3N0b3AiOnsidW5pdCI6IiUiLCJzaXplIjowLCJzaXplcyI6W119LCJfYmFja2dyb3VuZF9ncmFkaWVudF9hbmdsZSI6eyJ1bml0IjoiZGVnIiwic2l6ZSI6MCwic2l6ZXMiOltdfSwiX2JhY2tncm91bmRfY29sb3JfYiI6IiNGMjI5NUIwMCJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJZb3V0dWJlX3ZpZGVvIn0=\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6Ijk5MjZmOTAiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkRlZmF1bHQgdGl0bGUiLCJkaXNwbGF5X2NvbW1lbnRzX2NvdW50IjoiIiwiX2VsZW1lbnRfd2lkdGgiOiJpbml0aWFsIiwiX2VsZW1lbnRfY3VzdG9tX3dpZHRoIjp7InVuaXQiOiIlIiwic2l6ZSI6MTAyLjMzMTk5OTk5OTk5OTk5MzYzMzUzNzA4NzU4OTUwMjMzNDU5NDcyNjU2MjV9LCJjYXRlZ29yaWVzIjpbImJlYXV0eSIsImZhc2hpb24iLCJmb29kIl19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJncmlkXzEifQ==\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-11924ed elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"11924ed\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-9dfe94a\" data-id=\"9dfe94a\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImRmOGI0YTkiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkdSSUQgMSIsImRpc3BsYXlfY29tbWVudHNfY291bnQiOiIiLCJjYXRlZ29yaWVzIjpbImJvb2tzIiwiY3VsdHVyZSIsImZpbG0iLCJmb29kIiwiZ2VvcG9saXRjIiwiaGVhbHRoIiwibGlmZXN0eWxlIiwibXVzaWMiLCJzY2llbmNlIiwid29ybGQiXX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImdyaWRfMSJ9\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjhjYWQ0MDIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJwbGF5bGlzdF9pZCI6IlBMY0FwamZPQmdjVXFnc29nQ1NJX201OGJxRDEyU0NNOG8iLCJ0aXRsZSI6IlBMQVlMSVNUIiwiaGlkZV9kZXNrdG9wIjoiaGlkZGVuLWRlc2t0b3AifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoieW91dHViZV9wbGF5bGlzdCJ9\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImU1YjkxMmQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlNQT1JUIiwiZGlzcGxheUltZ01EIjoiMSIsImNhdGVnb3JpZXMiOlsicG9saXRpY3MiXSwib3JkZXIiOiJBc2MiLCJzaG93UmVzdW1lIjoiMSIsImRpc3BsYXlfcG9wdWxhciI6IiIsImRpc3BsYXlfY2F0ZWdvcnlfbGFiZWwiOiIiLCJkaXNwbGF5X2NhdGVnb3J5X2Fib3ZlX3RpdGxlcyI6IiIsImRpc3BsYXlfdmlld3MiOiIxIiwiX2VsZW1lbnRfd2lkdGgiOiJpbml0aWFsIiwiX2VsZW1lbnRfY3VzdG9tX3dpZHRoIjp7InVuaXQiOiIlIiwic2l6ZSI6OTkuODU4MDAwMDAwMDAwMDA0MDkyNzI2MTU3OTc4MTc3MDcwNjE3Njc1NzgxMjV9LCJjb2xzTnVtYmVyTUQiOjF9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJncmlkXzIifQ==\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjQ1OWU3ZmYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IklORklOSVRFIFNDUk9MTCIsImNhdGVnb3JpZXMiOlsiY3VsdHVyZSIsImV1cm9wZSIsImZhc2hpb24iLCJmaWxtIl0sImRpc3BsYXlfY2F0ZWdvcnlfbGFiZWwiOiIxIiwiYXV0b1Njcm9sbCI6IiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJpbmZpbml0ZS1zY3JvbGwifQ==\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImQ3MTkyMDIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkdSSUQgOCIsImNhdGVnb3JpZXMiOlsiY3VsdHVyZSIsImV1cm9wZSIsImZhc2hpb24iLCJmaWxtIl0sImRpc3BsYXlfdmlld3MiOiIxIiwiZGlzcGxheV9jYXRlZ29yeV9sYWJlbCI6IjEiLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjMwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImdyaWRfOCJ9\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImNlZTFiYTUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkVDT05PTVkiLCJkaXNwbGF5X2NhdGVnb3J5X2Fib3ZlX3RpdGxlcyI6IiIsImRpc3BsYXlfYXV0aG9yIjoiIiwiZGlzcGxheV9kYXRlIjoiIiwiZGlzcGxheV9jb21tZW50c19jb3VudCI6IiIsImNvbHNOdW1iZXJNRCI6MiwiZGlzcGxheUltZ01EIjoiIiwiY2F0ZWdvcmllcyI6WyJldXJvcGUiLCJmYXNoaW9uIiwiZmlsbSIsImZvb2QiLCJnZW9wb2xpdGMiXSwib3JkZXIiOiJBc2MifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ3JpZF81In0=\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f005188\" data-id=\"f005188\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImYzYzkxMWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkxhdGVzdCIsImRpc3BsYXlJbWdNRCI6IiIsImNhdGVnb3JpZXMiOlsic2NpZW5jZSJdfSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoibGF0ZXN0X3Bvc3RzIn0=\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjdlYTE1NWYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlNPQ0lBTCIsInR3aXR0ZXJfZGlzcGxheSI6IjEiLCJ0d2l0dGVyX2RlZmF1bHRfdmFsdWUiOiIxMDAiLCJmYWNlYm9va19kaXNwbGF5IjoiMSIsImluc3RhZ3JhbV9kaXNwbGF5IjoiMSIsImluc3RhZ3JhbV9kZWZhdWx0X3ZhbHVlIjoiMjUwIiwibGlua2VkaW5fZGlzcGxheSI6IjEiLCJsaW5rZWRpbl9kZWZhdWx0X3ZhbHVlIjoiNDAwIiwieW91dHViZV9kaXNwbGF5IjoiMSIsInBpbnRlcmVzdF9kaXNwbGF5IjoiMSIsInR3aXRjaF9kaXNwbGF5IjoiMSIsInNuYXBjaGF0X2Rpc3BsYXkiOiIiLCJnb29nbGVfZGlzcGxheSI6IjEiLCJnb29nbGVfZGVmYXVsdF92YWx1ZSI6IjVrIiwidGlrdG9rX2Rpc3BsYXkiOiIxIiwiaWNvbiI6IiIsIm1vZGVsIjoicm91bmQiLCJ0d2l0dGVyX3VybCI6Imh0dHBzOlwvXC9leGFtcGxlLmNvbSIsInhfZGlzcGxheSI6IjEiLCJ4X3VybCI6Imh0dHBzOlwvXC9leGFtcGxlLmNvbSIsInBpbnRlcmVzdF9kZWZhdWx0X3ZhbHVlIjoiMjUwIiwidHdpdGNoX2RlZmF1bHRfdmFsdWUiOiIyM2siLCJ0aWt0b2tfZGVmYXVsdF92YWx1ZSI6IjE1ayIsInhfdXNlciI6IjE3Njg5NTE3ODcyNTg1MTU0NTZ2bWFoMzIxIiwiZmFjZWJvb2tfZGVmYXVsdF92YWx1ZSI6IjIxayIsImNvbnN1bWVyX2tleSI6InRlc3QxIiwiY29uc3VtZXJfc2VjcmV0IjoidGVzdDIiLCJhY2Nlc3NfdG9rZW4iOiJ0ZXN0MyIsImFjY2Vzc190b2tlbl9zZWNyZXQiOiJ0ZXN0NCIsInhfY29uc3VtZXJfa2V5IjoidGVzdDEiLCJ4X2NvbnN1bWVyX3NlY3JldCI6InRlc3QyIiwieF9hY2Nlc3NfdG9rZW4iOiJ0ZXN0MyIsInhfYWNjZXNzX3Rva2VuX3NlY3JldCI6InRlc3Q0IiwieF9iZWFyZXJfdG9rZW4iOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFNOUVzd0VBQUFBQUhUWmEyek54ZnB3NjE2YUpNc1klMkJIR0l3Z1p3JTNERU5HeWhpZHh3MTlHUW9KM1Ewa3BxUTIxNkwzS2lHajRTQkdKR0pabHpYS1FBYTZia3QiLCJkaXNwbGF5X3RpdGxlIjoiMSIsInJlZGRpdF9kaXNwbGF5IjoiIiwicmVkZGl0X2RlZmF1bHRfdmFsdWUiOiI1ayJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJzb2NpYWxfY291bnRlcnMifQ==\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImE3OTAxMDIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IldlYXRoZXIiLCJjaXR5X2lkIjoiMjY0Mzc0MyIsImJhY2tncm91bmRfY29sb3IiOiIjRkZGRkZGIiwidGV4dF9jb2xvciI6IiMwMDAwMDAiLCJpY29uX2NvbG9yIjoiZGFyayJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJ3ZWF0aGVyIn0=\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImFjYjNiMDMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlBPUFVMQVIiLCJwb3N0c1BlclBhZ2UiOjQsImRpc3BsYXlJbWdNRCI6IiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJwb3B1bGFyX3Bvc3RzIn0=\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImRiYjFlOWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkdSSUQgNCIsInBvc3RzUGVyUGFnZSI6MywiZGlzcGxheV9jYXRlZ29yeV9hYm92ZV90aXRsZXMiOiIiLCJjb2xzTnVtYmVyTEciOjEsImNvbHNOdW1iZXJNRCI6MSwiY29sc051bWJlclNNIjoxfSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ3JpZF80In0=\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImEyNTQ3NTgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkdSSUQgNiIsImNhdGVnb3JpZXMiOltdLCJzdGlja3kiOiIxIiwiZGlzcGxheV9wb3B1bGFyIjoiMSIsInBvc3RzUGVyUGFnZSI6MywiZGlzcGxheUltZ01EIjoiIiwib3JkZXIiOiIiLCJkaXNwbGF5X2NhdGVnb3J5X2Fib3ZlX3RpdGxlcyI6IiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJncmlkXzYifQ==\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjgxNmFjNjkiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJkaXNwbGF5X3RpdGxlIjoiMSIsInRpdGxlIjoiVEFHUyIsImNhdGVnb3JpZXMiOlsiYmVhdXR5Il0sIl9jc3NfY2xhc3NlcyI6InN0aWNreVdpZGdldCJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJ0YWdzIn0=\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-4b531dc elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"4b531dc\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-68f6b6d\" data-id=\"68f6b6d\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImM3MzAxYWIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6Ik5BVFVSRSIsImNhdGVnb3JpZXMiOlsicG9saXRpY3MiLCJzY2llbmNlIl0sImF1dG9wbGF5IjoiMSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXJvdXNlbDEifQ==\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-c553254 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"c553254\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9fd4012\" data-id=\"9fd4012\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImM5OTZmZjEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJpY29uIjoic3F1YXJlIiwidHdpdHRlcl9kaXNwbGF5IjoiMSIsInR3aXR0ZXJfZGVmYXVsdF92YWx1ZSI6ImRzZnFkZiIsImZhY2Vib29rX2Rpc3BsYXkiOiIxIiwiZmFjZWJvb2tfZGVmYXVsdF92YWx1ZSI6ImdzZGZzZGYiLCJpbnN0YWdyYW1fZGlzcGxheSI6IjEiLCJpbnN0YWdyYW1fZGVmYXVsdF92YWx1ZSI6ImdzcWRmc2RmIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6InNvY2lhbF9saW5rcyJ9\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjhlOWI1OGYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlBPTElUSUNTIiwiZGlzcGxheV92aWV3cyI6IjEiLCJudW1iZXJPZlBhZ2VzIjo0LCJjYXRlZ29yaWVzIjpbImJlYXV0eSIsImJ1c2luZXNzIiwiZXVyb3BlIiwibXVzaWMiXSwiZGlzcGxheV9jb21tZW50c19jb3VudCI6IiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXJvdXNlbDIifQ==\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-b5c3a31 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"b5c3a31\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6a4a86f\" data-id=\"6a4a86f\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjBjNTY5YTgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlNIT1AiLCJwb3N0c1BlclBhZ2UiOjh9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJwcm9kdWN0c19ncmlkIn0=\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{"timeout":1778419824,"value":{"content":"\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-53dd007 elementor-section-full_width elementor-section-height-default elementor-section-height-default\" data-id=\"53dd007\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8b7b39a\" data-id=\"8b7b39a\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjM1OTU5NzUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkRlZmF1bHQgdGl0bGUifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoic2xpZGVzaG93MiJ9\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImViZjEwOTQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJkaXNwbGF5X3RpdGxlIjoiIiwidGl0bGUiOiJEZWZhdWx0IHRpdGxlIiwiY2F0ZWdvcmllcyI6WyJidXNpbmVzcyIsImN1bHR1cmUiLCJlbmdpbmVlcmluZyIsImV1cm9wZSIsImZhc2hpb24iLCJmaWxtIiwiZ2VvcG9saXRjIl0sIl9wYWRkaW5nIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6dHJ1ZX0sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sInBvc3RzUGVyUGFnZSI6NCwibnVtYmVyT2ZQYWdlcyI6NCwiZGlzcGxheU5hdmlnYXRpb24iOiIiLCJhdXRvcGxheSI6IiIsImxvb3AiOiIxIiwicG9zdHNwZXJwYWdlIjo4fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoic2xpZGVzaG93In0=\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-14da721 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"14da721\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t\t<div class=\"elementor-background-overlay\"><\/div>\n\t\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4ec0e0e\" data-id=\"4ec0e0e\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjA5ZDVjZWEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ2aWRlb19saXN0IjpbeyJ2aWRlb19pZCI6ImNUdUJtNGltVGNFIiwidmlkZW9fdGl0bGUiOiJGdXR1cmUgZXgtZ2lybGZyaWVuZCB8IENocmlzICYgSmFjayIsIl9pZCI6ImQ5ZmFmZGYifSx7InZpZGVvX2lkIjoieEZMOU1HeTU1N00iLCJ2aWRlb190aXRsZSI6IlRoZSBFbmQgT2YgRnJlZSBTcGVhY2giLCJfaWQiOiJhZjJjMTc3In0seyJ2aWRlb19pZCI6ImluUkQ2dllCeThNIiwidmlkZW9fdGl0bGUiOiJFeHBsb3JpbmcgdGhlIFJ1aW5zIG9mIGFuIEFtZXJpY2FuIEdob3N0IENpdHkgc3R1Y2sgaW4gdGhlIDE5NDBzICEiLCJfaWQiOiJmMWU4YTZiIn0seyJ2aWRlb19pZCI6ImlhdXE4TE5yNXp3IiwidmlkZW9fdGl0bGUiOiJXQVJOSU5HOiBBSSBSZXZvbHV0aW9uIGlzIEhlcmUgJiBUaGlzIGlzIFdoYXQgVGhleVx1MjAxOXJlIE5vdCBUZWxsaW5nIFlvdSAiLCJfaWQiOiIzMmI1NjkxIn0seyJ2aWRlb19pZCI6IjJLVThBV3VBYUhFIiwidmlkZW9fdGl0bGUiOiJUSEUgTUFUUklYIEFXQUtFTlMgLSBVbnJlYWwgRW5naW5lIDUgR2FtZXBsYXkgKFBTNSkiLCJfaWQiOiIwZTg5MjEyIn1dLCJ0aXRsZSI6IlZJREVPIiwiX2FuaW1hdGlvbiI6ImZhZGVJbiIsImFuaW1hdGlvbl9kdXJhdGlvbiI6InNsb3ciLCJfYW5pbWF0aW9uX2RlbGF5Ijo2MDAsIl9iYWNrZ3JvdW5kX2JhY2tncm91bmQiOiJncmFkaWVudCIsIl9iYWNrZ3JvdW5kX2NvbG9yIjoiIzBEMDcwNzAwIiwiX2JhY2tncm91bmRfY29sb3Jfc3RvcCI6eyJ1bml0IjoiJSIsInNpemUiOjI0LCJzaXplcyI6W119LCJfYmFja2dyb3VuZF9jb2xvcl9iX3N0b3AiOnsidW5pdCI6IiUiLCJzaXplIjowLCJzaXplcyI6W119LCJfYmFja2dyb3VuZF9ncmFkaWVudF9hbmdsZSI6eyJ1bml0IjoiZGVnIiwic2l6ZSI6MCwic2l6ZXMiOltdfSwiX2JhY2tncm91bmRfY29sb3JfYiI6IiNGMjI5NUIwMCJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJZb3V0dWJlX3ZpZGVvIn0=\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6Ijk5MjZmOTAiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkRlZmF1bHQgdGl0bGUiLCJkaXNwbGF5X2NvbW1lbnRzX2NvdW50IjoiIiwiX2VsZW1lbnRfd2lkdGgiOiJpbml0aWFsIiwiX2VsZW1lbnRfY3VzdG9tX3dpZHRoIjp7InVuaXQiOiIlIiwic2l6ZSI6MTAyLjMzMTk5OTk5OTk5OTk5MzYzMzUzNzA4NzU4OTUwMjMzNDU5NDcyNjU2MjV9LCJjYXRlZ29yaWVzIjpbImJlYXV0eSIsImZhc2hpb24iLCJmb29kIl19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJncmlkXzEifQ==\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-11924ed elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"11924ed\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-9dfe94a\" data-id=\"9dfe94a\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImRmOGI0YTkiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkdSSUQgMSIsImRpc3BsYXlfY29tbWVudHNfY291bnQiOiIiLCJjYXRlZ29yaWVzIjpbImJvb2tzIiwiY3VsdHVyZSIsImZpbG0iLCJmb29kIiwiZ2VvcG9saXRjIiwiaGVhbHRoIiwibGlmZXN0eWxlIiwibXVzaWMiLCJzY2llbmNlIiwid29ybGQiXX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImdyaWRfMSJ9\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjhjYWQ0MDIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJwbGF5bGlzdF9pZCI6IlBMY0FwamZPQmdjVXFnc29nQ1NJX201OGJxRDEyU0NNOG8iLCJ0aXRsZSI6IlBMQVlMSVNUIiwiaGlkZV9kZXNrdG9wIjoiaGlkZGVuLWRlc2t0b3AifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoieW91dHViZV9wbGF5bGlzdCJ9\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImU1YjkxMmQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlNQT1JUIiwiZGlzcGxheUltZ01EIjoiMSIsImNhdGVnb3JpZXMiOlsicG9saXRpY3MiXSwib3JkZXIiOiJBc2MiLCJzaG93UmVzdW1lIjoiMSIsImRpc3BsYXlfcG9wdWxhciI6IiIsImRpc3BsYXlfY2F0ZWdvcnlfbGFiZWwiOiIiLCJkaXNwbGF5X2NhdGVnb3J5X2Fib3ZlX3RpdGxlcyI6IiIsImRpc3BsYXlfdmlld3MiOiIxIiwiX2VsZW1lbnRfd2lkdGgiOiJpbml0aWFsIiwiX2VsZW1lbnRfY3VzdG9tX3dpZHRoIjp7InVuaXQiOiIlIiwic2l6ZSI6OTkuODU4MDAwMDAwMDAwMDA0MDkyNzI2MTU3OTc4MTc3MDcwNjE3Njc1NzgxMjV9LCJjb2xzTnVtYmVyTUQiOjF9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJncmlkXzIifQ==\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjQ1OWU3ZmYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IklORklOSVRFIFNDUk9MTCIsImNhdGVnb3JpZXMiOlsiY3VsdHVyZSIsImV1cm9wZSIsImZhc2hpb24iLCJmaWxtIl0sImRpc3BsYXlfY2F0ZWdvcnlfbGFiZWwiOiIxIiwiYXV0b1Njcm9sbCI6IiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJpbmZpbml0ZS1zY3JvbGwifQ==\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImQ3MTkyMDIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkdSSUQgOCIsImNhdGVnb3JpZXMiOlsiY3VsdHVyZSIsImV1cm9wZSIsImZhc2hpb24iLCJmaWxtIl0sImRpc3BsYXlfdmlld3MiOiIxIiwiZGlzcGxheV9jYXRlZ29yeV9sYWJlbCI6IjEiLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjMwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImdyaWRfOCJ9\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImNlZTFiYTUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkVDT05PTVkiLCJkaXNwbGF5X2NhdGVnb3J5X2Fib3ZlX3RpdGxlcyI6IiIsImRpc3BsYXlfYXV0aG9yIjoiIiwiZGlzcGxheV9kYXRlIjoiIiwiZGlzcGxheV9jb21tZW50c19jb3VudCI6IiIsImNvbHNOdW1iZXJNRCI6MiwiZGlzcGxheUltZ01EIjoiIiwiY2F0ZWdvcmllcyI6WyJldXJvcGUiLCJmYXNoaW9uIiwiZmlsbSIsImZvb2QiLCJnZW9wb2xpdGMiXSwib3JkZXIiOiJBc2MifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ3JpZF81In0=\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f005188\" data-id=\"f005188\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImYzYzkxMWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkxhdGVzdCIsImRpc3BsYXlJbWdNRCI6IiIsImNhdGVnb3JpZXMiOlsic2NpZW5jZSJdfSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoibGF0ZXN0X3Bvc3RzIn0=\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjdlYTE1NWYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlNPQ0lBTCIsInR3aXR0ZXJfZGlzcGxheSI6IjEiLCJ0d2l0dGVyX2RlZmF1bHRfdmFsdWUiOiIxMDAiLCJmYWNlYm9va19kaXNwbGF5IjoiMSIsImluc3RhZ3JhbV9kaXNwbGF5IjoiMSIsImluc3RhZ3JhbV9kZWZhdWx0X3ZhbHVlIjoiMjUwIiwibGlua2VkaW5fZGlzcGxheSI6IjEiLCJsaW5rZWRpbl9kZWZhdWx0X3ZhbHVlIjoiNDAwIiwieW91dHViZV9kaXNwbGF5IjoiMSIsInBpbnRlcmVzdF9kaXNwbGF5IjoiMSIsInR3aXRjaF9kaXNwbGF5IjoiMSIsInNuYXBjaGF0X2Rpc3BsYXkiOiIiLCJnb29nbGVfZGlzcGxheSI6IjEiLCJnb29nbGVfZGVmYXVsdF92YWx1ZSI6IjVrIiwidGlrdG9rX2Rpc3BsYXkiOiIxIiwiaWNvbiI6IiIsIm1vZGVsIjoicm91bmQiLCJ0d2l0dGVyX3VybCI6Imh0dHBzOlwvXC9leGFtcGxlLmNvbSIsInhfZGlzcGxheSI6IjEiLCJ4X3VybCI6Imh0dHBzOlwvXC9leGFtcGxlLmNvbSIsInBpbnRlcmVzdF9kZWZhdWx0X3ZhbHVlIjoiMjUwIiwidHdpdGNoX2RlZmF1bHRfdmFsdWUiOiIyM2siLCJ0aWt0b2tfZGVmYXVsdF92YWx1ZSI6IjE1ayIsInhfdXNlciI6IjE3Njg5NTE3ODcyNTg1MTU0NTZ2bWFoMzIxIiwiZmFjZWJvb2tfZGVmYXVsdF92YWx1ZSI6IjIxayIsImNvbnN1bWVyX2tleSI6InRlc3QxIiwiY29uc3VtZXJfc2VjcmV0IjoidGVzdDIiLCJhY2Nlc3NfdG9rZW4iOiJ0ZXN0MyIsImFjY2Vzc190b2tlbl9zZWNyZXQiOiJ0ZXN0NCIsInhfY29uc3VtZXJfa2V5IjoidGVzdDEiLCJ4X2NvbnN1bWVyX3NlY3JldCI6InRlc3QyIiwieF9hY2Nlc3NfdG9rZW4iOiJ0ZXN0MyIsInhfYWNjZXNzX3Rva2VuX3NlY3JldCI6InRlc3Q0IiwieF9iZWFyZXJfdG9rZW4iOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFNOUVzd0VBQUFBQUhUWmEyek54ZnB3NjE2YUpNc1klMkJIR0l3Z1p3JTNERU5HeWhpZHh3MTlHUW9KM1Ewa3BxUTIxNkwzS2lHajRTQkdKR0pabHpYS1FBYTZia3QiLCJkaXNwbGF5X3RpdGxlIjoiMSIsInJlZGRpdF9kaXNwbGF5IjoiIiwicmVkZGl0X2RlZmF1bHRfdmFsdWUiOiI1ayJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJzb2NpYWxfY291bnRlcnMifQ==\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImE3OTAxMDIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IldlYXRoZXIiLCJjaXR5X2lkIjoiMjY0Mzc0MyIsImJhY2tncm91bmRfY29sb3IiOiIjRkZGRkZGIiwidGV4dF9jb2xvciI6IiMwMDAwMDAiLCJpY29uX2NvbG9yIjoiZGFyayJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJ3ZWF0aGVyIn0=\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImFjYjNiMDMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlBPUFVMQVIiLCJwb3N0c1BlclBhZ2UiOjQsImRpc3BsYXlJbWdNRCI6IiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJwb3B1bGFyX3Bvc3RzIn0=\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImRiYjFlOWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkdSSUQgNCIsInBvc3RzUGVyUGFnZSI6MywiZGlzcGxheV9jYXRlZ29yeV9hYm92ZV90aXRsZXMiOiIiLCJjb2xzTnVtYmVyTEciOjEsImNvbHNOdW1iZXJNRCI6MSwiY29sc051bWJlclNNIjoxfSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZ3JpZF80In0=\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImEyNTQ3NTgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkdSSUQgNiIsImNhdGVnb3JpZXMiOltdLCJzdGlja3kiOiIxIiwiZGlzcGxheV9wb3B1bGFyIjoiMSIsInBvc3RzUGVyUGFnZSI6MywiZGlzcGxheUltZ01EIjoiIiwib3JkZXIiOiIiLCJkaXNwbGF5X2NhdGVnb3J5X2Fib3ZlX3RpdGxlcyI6IiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJncmlkXzYifQ==\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjgxNmFjNjkiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJkaXNwbGF5X3RpdGxlIjoiMSIsInRpdGxlIjoiVEFHUyIsImNhdGVnb3JpZXMiOlsiYmVhdXR5Il0sIl9jc3NfY2xhc3NlcyI6InN0aWNreVdpZGdldCJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJ0YWdzIn0=\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-4b531dc elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"4b531dc\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-68f6b6d\" data-id=\"68f6b6d\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImM3MzAxYWIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6Ik5BVFVSRSIsImNhdGVnb3JpZXMiOlsicG9saXRpY3MiLCJzY2llbmNlIl0sImF1dG9wbGF5IjoiMSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXJvdXNlbDEifQ==\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-c553254 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"c553254\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9fd4012\" data-id=\"9fd4012\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6ImM5OTZmZjEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJpY29uIjoic3F1YXJlIiwidHdpdHRlcl9kaXNwbGF5IjoiMSIsInR3aXR0ZXJfZGVmYXVsdF92YWx1ZSI6ImRzZnFkZiIsImZhY2Vib29rX2Rpc3BsYXkiOiIxIiwiZmFjZWJvb2tfZGVmYXVsdF92YWx1ZSI6ImdzZGZzZGYiLCJpbnN0YWdyYW1fZGlzcGxheSI6IjEiLCJpbnN0YWdyYW1fZGVmYXVsdF92YWx1ZSI6ImdzcWRmc2RmIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6InNvY2lhbF9saW5rcyJ9\"][elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjhlOWI1OGYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlBPTElUSUNTIiwiZGlzcGxheV92aWV3cyI6IjEiLCJudW1iZXJPZlBhZ2VzIjo0LCJjYXRlZ29yaWVzIjpbImJlYXV0eSIsImJ1c2luZXNzIiwiZXVyb3BlIiwibXVzaWMiXSwiZGlzcGxheV9jb21tZW50c19jb3VudCI6IiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXJvdXNlbDIifQ==\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-b5c3a31 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"b5c3a31\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6a4a86f\" data-id=\"6a4a86f\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t[elementor-element k=\"b43289690b2e417dc879ecc813d8c4e2\" data=\"eyJpZCI6IjBjNTY5YTgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlNIT1AiLCJwb3N0c1BlclBhZ2UiOjh9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJwcm9kdWN0c19ncmlkIn0=\"]\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11377,7 +11377,7 @@ Proin quis mi rutrum, pharetra purus non, euismod massa. Sed pulvinar elit a sce
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -11526,7 +11526,7 @@ Proin quis mi rutrum, pharetra purus non, euismod massa. Sed pulvinar elit a sce
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -11716,7 +11716,7 @@ Proin quis mi rutrum, pharetra purus non, euismod massa. Sed pulvinar elit a sce
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -11967,7 +11967,7 @@ Fusce eleifend, arcu ac pellentesque placerat, felis arcu sodales sapien, vel se
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -12118,7 +12118,7 @@ Fusce eleifend, arcu ac pellentesque placerat, felis arcu sodales sapien, vel se
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -12330,7 +12330,7 @@ Cras eget feugiat felis, non efficitur erat. Aliquam tempus, lectus a feugiat co
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -12561,7 +12561,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -12710,7 +12710,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -12865,7 +12865,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -12979,7 +12979,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -13094,7 +13094,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -13206,7 +13206,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -13369,7 +13369,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -13484,7 +13484,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -13599,7 +13599,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -13709,7 +13709,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -13823,7 +13823,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -13934,7 +13934,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -14041,7 +14041,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -14156,7 +14156,7 @@ Sed auctor massa lorem, a sollicitudin ex rhoncus quis. Aliquam rhoncus, odio vi
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -14358,7 +14358,7 @@ Aliquam erat volutpat. Nunc ullamcorper nunc quam, vel venenatis orci vehicula a
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -14581,7 +14581,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -14691,7 +14691,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -14805,7 +14805,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -14923,7 +14923,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -15037,7 +15037,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -15151,7 +15151,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -15257,7 +15257,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -15363,7 +15363,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -15477,7 +15477,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -15591,7 +15591,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -15697,7 +15697,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -15811,7 +15811,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -15917,7 +15917,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -16031,7 +16031,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -16146,7 +16146,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -16261,7 +16261,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -16380,7 +16380,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -16499,7 +16499,7 @@ Praesent nibh lacus, faucibus et ligula ut, commodo ornare lorem. Sed id consequ
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -19904,7 +19904,7 @@ As the year unfolds and she is drawn deeper into each of these lives, her own li
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -20018,7 +20018,7 @@ As the year unfolds and she is drawn deeper into each of these lives, her own li
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -20134,7 +20134,7 @@ As the year unfolds and she is drawn deeper into each of these lives, her own li
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -20255,7 +20255,7 @@ As the year unfolds and she is drawn deeper into each of these lives, her own li
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -20369,7 +20369,7 @@ As the year unfolds and she is drawn deeper into each of these lives, her own li
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852"></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
@@ -20485,7 +20485,7 @@ As the year unfolds and she is drawn deeper into each of these lives, her own li
 <p>Nec elit nunc. Aenean id lobortis urna, et tristique tellus. Donec cursus cursus lorem vitae luctus. Maecenas accumsan convallis augue, molestie venenatis neque gravida non. Etiam eget nisi nisi.</p>
 <p>Aenean convallis faucibus tortor in vulputate. Morbi vitae nunc purus. Suspendisse sed eros imperdiet, tincidunt dui et, finibus nulla.</p>
 <p>Laoreet purus fermentum.</p>
-<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static//uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
+<p><img class="alignnone wp-image-2212 size-full" src="https://megatif.github.io/wavepress-static/uploads/2023/03/sunset-g777f21fb4_1280-29.jpg" alt="" width="1280" height="852" /></p>
 <p>Etiam ipsum urna, eleifend nec scelerisque ut, mattis volutpat elit. Sed facilisis purus eu libero varius, id aliquet tellus imperdiet.</p>
 <p>Mauris sed vehicula velit. Nulla pulvinar, nibh laoreet consequat mattis, turpis nunc rutrum nisl, ut congue risus quam ac felis. Fusce posuere finibus urna. Aenean fermentum odio ut lectus mollis, at pulvinar eros dapibus.</p>
 <p>Pellentesque cursus nisi ac tortor ornare, a venenatis diam rhoncus. Quisque a pulvinar odio. Aliquam sed cursus ante, et suscipit turpis. Aliquam pretium dictum sem a commodo. Integer ex dolor, tincidunt sed justo eu, dictum dignissim lacus.</p>
