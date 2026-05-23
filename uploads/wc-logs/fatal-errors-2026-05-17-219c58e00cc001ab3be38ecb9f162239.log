@@ -1,0 +1,492 @@
+2026-05-17T15:59:03+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T15:59:03+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T15:59:08+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T15:59:08+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T16:04:27+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T16:04:27+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T16:04:32+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T16:04:34+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T16:10:55+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T16:10:58+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T16:11:04+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T16:11:05+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T16:12:14+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T16:12:14+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T16:12:22+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T16:12:24+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T16:13:20+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T16:13:21+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T16:13:23+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T16:13:26+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T16:15:11+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T16:15:14+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_products_grid::add_render_attribute() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php:35
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/products_grid.php(104): Wavepress_products_grid->renderWidget(Array, 'products_grid--...')
+#1 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): products_grid->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('products_grid', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('products_grid', Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#7 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#12 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#13 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/products_grid/wavepress_products_grid.php on line 35
+
+2026-05-17T16:15:19+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+
+2026-05-17T16:15:19+00:00 CRITICAL Uncaught Error: Call to undefined method Wavepress_carousel_1::render() in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php:161
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(1269): carousel_1->widget(Array, Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(553): the_widget('carousel_1', Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(522): WP_REST_Widget_Types_Controller->get_widget_preview('carousel_1', Array)
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#8 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#12 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#13 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#14 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#15 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/carousel_1.php on line 161
+

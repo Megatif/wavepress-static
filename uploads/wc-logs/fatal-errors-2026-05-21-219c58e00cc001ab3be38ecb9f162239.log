@@ -1,0 +1,321 @@
+2026-05-21T08:58:32+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, WP_Query given in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php:40
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(214): WavePress_Grid_2->renderWidget(Array, 'grid_2-7')
+#1 /opt/lampp/htdocs/newswave/wp-includes/class-wp-widget.php(394): grid_2->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(845): WP_Widget->display_callback(Array, Array)
+#3 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/headers/header_2.php(219): dynamic_sidebar('side_navigation...')
+#4 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/header.php(26): require('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/newswave/wp-includes/template.php(810): require_once('/opt/lampp/htdo...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/template.php(745): load_template('/opt/lampp/htdo...', true, Array)
+#7 /opt/lampp/htdocs/newswave/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#8 /opt/lampp/htdocs/newswave/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(9): get_header()
+#9 /opt/lampp/htdocs/newswave/wp-includes/template-loader.php(113): include('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/newswave/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#11 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#12 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php on line 40
+
+2026-05-21T08:58:35+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, WP_Query given in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php:40
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(214): WavePress_Grid_2->renderWidget(Array, 'grid_2-7')
+#1 /opt/lampp/htdocs/newswave/wp-includes/class-wp-widget.php(394): grid_2->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(845): WP_Widget->display_callback(Array, Array)
+#3 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/headers/header_2.php(219): dynamic_sidebar('side_navigation...')
+#4 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/header.php(26): require('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/newswave/wp-includes/template.php(810): require_once('/opt/lampp/htdo...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/template.php(745): load_template('/opt/lampp/htdo...', true, Array)
+#7 /opt/lampp/htdocs/newswave/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#8 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/404.php(10): get_header()
+#9 /opt/lampp/htdocs/newswave/wp-includes/template-loader.php(113): include('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/newswave/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#11 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#12 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php on line 40
+
+2026-05-21T08:58:35+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, WP_Query given in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php:40
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(214): WavePress_Grid_2->renderWidget(Array, 'grid_2-7')
+#1 /opt/lampp/htdocs/newswave/wp-includes/class-wp-widget.php(394): grid_2->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(845): WP_Widget->display_callback(Array, Array)
+#3 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/headers/header_2.php(219): dynamic_sidebar('side_navigation...')
+#4 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/header.php(26): require('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/newswave/wp-includes/template.php(810): require_once('/opt/lampp/htdo...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/template.php(745): load_template('/opt/lampp/htdo...', true, Array)
+#7 /opt/lampp/htdocs/newswave/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#8 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/404.php(10): get_header()
+#9 /opt/lampp/htdocs/newswave/wp-includes/template-loader.php(113): include('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/newswave/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#11 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#12 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php on line 40
+
+2026-05-21T08:58:39+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, WP_Query given in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php:40
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(214): WavePress_Grid_2->renderWidget(Array, 'grid_2-7')
+#1 /opt/lampp/htdocs/newswave/wp-includes/class-wp-widget.php(394): grid_2->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(845): WP_Widget->display_callback(Array, Array)
+#3 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/headers/header_2.php(219): dynamic_sidebar('side_navigation...')
+#4 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/header.php(26): require('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/newswave/wp-includes/template.php(810): require_once('/opt/lampp/htdo...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/template.php(745): load_template('/opt/lampp/htdo...', true, Array)
+#7 /opt/lampp/htdocs/newswave/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#8 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/404.php(10): get_header()
+#9 /opt/lampp/htdocs/newswave/wp-includes/template-loader.php(113): include('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/newswave/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#11 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#12 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php on line 40
+
+2026-05-21T09:01:05+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, WP_Query given in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php:40
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(214): WavePress_Grid_2->renderWidget(Array, 'grid_2-7')
+#1 /opt/lampp/htdocs/newswave/wp-includes/class-wp-widget.php(394): grid_2->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(845): WP_Widget->display_callback(Array, Array)
+#3 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/headers/header_2.php(219): dynamic_sidebar('side_navigation...')
+#4 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/header.php(26): require('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/newswave/wp-includes/template.php(810): require_once('/opt/lampp/htdo...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/template.php(745): load_template('/opt/lampp/htdo...', true, Array)
+#7 /opt/lampp/htdocs/newswave/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#8 /opt/lampp/htdocs/newswave/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(9): get_header()
+#9 /opt/lampp/htdocs/newswave/wp-includes/template-loader.php(113): include('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/newswave/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#11 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#12 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php on line 40
+
+2026-05-21T09:01:07+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, WP_Query given in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php:40
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(214): WavePress_Grid_2->renderWidget(Array, 'grid_2-7')
+#1 /opt/lampp/htdocs/newswave/wp-includes/class-wp-widget.php(394): grid_2->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/widgets.php(845): WP_Widget->display_callback(Array, Array)
+#3 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/headers/header_2.php(219): dynamic_sidebar('side_navigation...')
+#4 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/header.php(26): require('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/newswave/wp-includes/template.php(810): require_once('/opt/lampp/htdo...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/template.php(745): load_template('/opt/lampp/htdo...', true, Array)
+#7 /opt/lampp/htdocs/newswave/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#8 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/404.php(10): get_header()
+#9 /opt/lampp/htdocs/newswave/wp-includes/template-loader.php(113): include('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/newswave/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#11 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#12 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_2/wavepress_grid_2.php on line 40
+
+2026-05-21T09:04:52+00:00 CRITICAL Uncaught TypeError: strip_tags(): Argument #1 ($string) must be of type string, array given in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php:241
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(241): strip_tags(Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(499): grid_2->update(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#11 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#12 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#13 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#14 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php on line 241
+
+2026-05-21T09:04:54+00:00 CRITICAL Uncaught TypeError: strip_tags(): Argument #1 ($string) must be of type string, array given in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php:241
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(241): strip_tags(Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(499): grid_2->update(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#11 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#12 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#13 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#14 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php on line 241
+
+2026-05-21T09:06:35+00:00 CRITICAL Uncaught TypeError: strip_tags(): Argument #1 ($string) must be of type string, array given in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php:241
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(241): strip_tags(Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(499): grid_2->update(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#11 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#12 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#13 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#14 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php on line 241
+
+2026-05-21T09:07:00+00:00 CRITICAL Uncaught TypeError: strip_tags(): Argument #1 ($string) must be of type string, array given in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php:241
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(241): strip_tags(Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(499): grid_2->update(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#11 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#12 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#13 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#14 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php on line 241
+
+2026-05-21T09:07:04+00:00 CRITICAL Uncaught TypeError: strip_tags(): Argument #1 ($string) must be of type string, array given in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php:241
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(241): strip_tags(Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(499): grid_2->update(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#11 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#12 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#13 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#14 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php on line 241
+
+2026-05-21T09:23:06+00:00 CRITICAL Uncaught TypeError: strip_tags(): Argument #1 ($string) must be of type string, array given in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php:241
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(241): strip_tags(Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(499): grid_2->update(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#11 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#12 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#13 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#14 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php on line 241
+
+2026-05-21T09:24:23+00:00 CRITICAL Uncaught TypeError: strip_tags(): Argument #1 ($string) must be of type string, array given in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php:241
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php(241): strip_tags(Array)
+#1 /opt/lampp/htdocs/newswave/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(499): grid_2->update(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1230): WP_REST_Widget_Types_Controller->encode_form_data(Object(WP_REST_Request))
+#3 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#4 /opt/lampp/htdocs/newswave/wp-includes/rest-api/class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /opt/lampp/htdocs/newswave/wp-includes/rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#6 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#7 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#9 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#10 /opt/lampp/htdocs/newswave/wp-includes/class-wp.php(813): WP->parse_request('')
+#11 /opt/lampp/htdocs/newswave/wp-includes/functions.php(1336): WP->main('')
+#12 /opt/lampp/htdocs/newswave/wp-blog-header.php(16): wp()
+#13 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#14 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_2.php on line 241
+
+2026-05-21T13:15:46+00:00 CRITICAL Uncaught Error: Call to undefined function wavepress_get_posts() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_4/wavepress_grid_4.php:24
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_4.php(236): WavePress_grid_4->renderWidget(Array, 'grid_4-9')
+#1 /opt/lampp/htdocs/newswave/wp-includes/class-wp-widget.php(394): grid_4->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-content/plugins/megamenu/classes/widget-manager.class.php(872): WP_Widget->display_callback(Array, Array)
+#3 /opt/lampp/htdocs/newswave/wp-content/plugins/megamenu/megamenu.php(785): Mega_Menu_Widget_Manager->show_widget('grid_4-9')
+#4 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): Mega_Menu->add_widgets_to_menu(Array, Object(stdClass))
+#5 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#6 /opt/lampp/htdocs/newswave/wp-includes/nav-menu-template.php(234): apply_filters('wp_nav_menu_obj...', Array, Object(stdClass))
+#7 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/headers/header_2.php(168): wp_nav_menu(Object(stdClass))
+#8 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/header.php(26): require('/opt/lampp/htdo...')
+#9 /opt/lampp/htdocs/newswave/wp-includes/template.php(810): require_once('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/newswave/wp-includes/template.php(745): load_template('/opt/lampp/htdo...', true, Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#12 /opt/lampp/htdocs/newswave/wp-content/plugins/elementor/modules/page-templates/templates/header-footer.php(9): get_header()
+#13 /opt/lampp/htdocs/newswave/wp-includes/template-loader.php(113): include('/opt/lampp/htdo...')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_4/wavepress_grid_4.php on line 24
+
+2026-05-21T13:15:48+00:00 CRITICAL Uncaught Error: Call to undefined function wavepress_get_posts() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_4/wavepress_grid_4.php:24
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/plugins/wavepress-widgets/widgets/grid_4.php(236): WavePress_grid_4->renderWidget(Array, 'grid_4-9')
+#1 /opt/lampp/htdocs/newswave/wp-includes/class-wp-widget.php(394): grid_4->widget(Array, Array)
+#2 /opt/lampp/htdocs/newswave/wp-content/plugins/megamenu/classes/widget-manager.class.php(872): WP_Widget->display_callback(Array, Array)
+#3 /opt/lampp/htdocs/newswave/wp-content/plugins/megamenu/megamenu.php(785): Mega_Menu_Widget_Manager->show_widget('grid_4-9')
+#4 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): Mega_Menu->add_widgets_to_menu(Array, Object(stdClass))
+#5 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#6 /opt/lampp/htdocs/newswave/wp-includes/nav-menu-template.php(234): apply_filters('wp_nav_menu_obj...', Array, Object(stdClass))
+#7 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/headers/header_2.php(168): wp_nav_menu(Object(stdClass))
+#8 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/header.php(26): require('/opt/lampp/htdo...')
+#9 /opt/lampp/htdocs/newswave/wp-includes/template.php(810): require_once('/opt/lampp/htdo...')
+#10 /opt/lampp/htdocs/newswave/wp-includes/template.php(745): load_template('/opt/lampp/htdo...', true, Array)
+#11 /opt/lampp/htdocs/newswave/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#12 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/404.php(10): get_header()
+#13 /opt/lampp/htdocs/newswave/wp-includes/template-loader.php(113): include('/opt/lampp/htdo...')
+#14 /opt/lampp/htdocs/newswave/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#15 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#16 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/widgets/grid_4/wavepress_grid_4.php on line 24
+
+2026-05-21T17:18:18+00:00 CRITICAL Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, bool given in /opt/lampp/htdocs/newswave/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/class-wp-query.php(2201): array_map('absint', true)
+#1 /opt/lampp/htdocs/newswave/wp-includes/class-wp-query.php(3852): WP_Query->get_posts()
+#2 /opt/lampp/htdocs/newswave/wp-includes/class-wp-query.php(3984): WP_Query->query(Array)
+#3 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/inc/utils.php(618): WP_Query->__construct(Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): wavepress_get_ajax_posts('')
+#5 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/newswave/wp-admin/admin-ajax.php(192): do_action('wp_ajax_wavepre...')
+#8 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-includes/class-wp-query.php on line 2201
+
+2026-05-21T17:18:48+00:00 CRITICAL Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, bool given in /opt/lampp/htdocs/newswave/wp-includes/class-wp-query.php:2201
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-includes/class-wp-query.php(2201): array_map('absint', true)
+#1 /opt/lampp/htdocs/newswave/wp-includes/class-wp-query.php(3852): WP_Query->get_posts()
+#2 /opt/lampp/htdocs/newswave/wp-includes/class-wp-query.php(3984): WP_Query->query(Array)
+#3 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/inc/utils.php(618): WP_Query->__construct(Array)
+#4 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(324): wavepress_get_ajax_posts('')
+#5 /opt/lampp/htdocs/newswave/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/newswave/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/newswave/wp-admin/admin-ajax.php(192): do_action('wp_ajax_wavepre...')
+#8 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-includes/class-wp-query.php on line 2201
+
+2026-05-21T22:45:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wavepress_archive_title(), 2 passed in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/archive.php on line 26 and exactly 3 expected in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/inc/filters.php:31
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/archive.php(26): wavepress_archive_title('<h1 class="page...', '</h1>')
+#1 /opt/lampp/htdocs/newswave/wp-includes/template-loader.php(113): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/newswave/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#4 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/inc/filters.php on line 31
+
+2026-05-21T22:50:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_archive_title_comment_inputs_etc() in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/inc/filters.php:34
+Stack trace:
+#0 /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/archive.php(26): wavepress_archive_title('<h1 class="page...', '</h1>')
+#1 /opt/lampp/htdocs/newswave/wp-includes/template-loader.php(113): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/newswave/wp-blog-header.php(19): require_once('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/newswave/index.php(17): require('/opt/lampp/htdo...')
+#4 {main}
+  thrown in /opt/lampp/htdocs/newswave/wp-content/themes/wavepress/inc/filters.php on line 34
+
